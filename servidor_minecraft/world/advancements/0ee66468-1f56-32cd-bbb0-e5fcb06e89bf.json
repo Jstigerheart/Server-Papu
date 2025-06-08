@@ -1200,6 +1200,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-08 22:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-06-08 21:09:28 +0000"
@@ -1260,6 +1266,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-08 22:21:09 +0000"
+    },
+    "done": false
+  },
   "spartanweaponry:recipes/golden_battleaxe": {
     "criteria": {
       "has_gold_ingot": "2025-06-08 21:18:56 +0000"
@@ -1269,6 +1281,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_sword": "2025-06-08 21:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-08 22:25:59 +0000"
     },
     "done": true
   },
@@ -1947,6 +1965,12 @@
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-06-08 21:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-08 22:25:59 +0000"
     },
     "done": true
   },
