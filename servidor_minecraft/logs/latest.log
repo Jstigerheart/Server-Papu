@@ -1647,3 +1647,20 @@
 [08Jun2025 22:35:07.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... Santiago  rub<--[HERE]
 [08Jun2025 22:35:15.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Santiago to Rubiocraft123
 [08Jun2025 22:35:19.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> gracias
+[08Jun2025 22:38:38.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Santiago: ya vuelvo a entrar, plebes
+[08Jun2025 22:41:17.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> ok
+[08Jun2025 22:41:42.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago has reached the goal [Strong or Careful]
+[08Jun2025 22:41:42.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago burned to death
+[08Jun2025 22:41:42.611] [Server thread/INFO] [tombstone/]: The player Santiago has successfully been saved
+[08Jun2025 22:41:46.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago has reached the goal [Here They Come]
+[08Jun2025 22:42:19.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> tp Santiago Rubiocraft123
+[08Jun2025 22:42:31.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[08Jun2025 22:42:31.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... Santiago  rubi<--[HERE]
+[08Jun2025 22:42:37.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Santiago to Rubiocraft123
+[08Jun2025 22:42:48.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> gracia
+[08Jun2025 22:45:19.116] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amoaminoviajulie[/127.168.201.233:48347] logged in with entity id 29694 at (-242.78668663601673, 64.0, -184.39048066589405)
+[08Jun2025 22:45:19.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie joined the game
+[08Jun2025 22:46:27.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago was slain by Enderman
+[08Jun2025 22:46:27.174] [Server thread/INFO] [tombstone/]: The player Santiago has successfully been saved
+[08Jun2025 22:46:38.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to Rubiocraft123]
+[08Jun2025 22:47:17.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported amoaminoviajulie to Santiago]

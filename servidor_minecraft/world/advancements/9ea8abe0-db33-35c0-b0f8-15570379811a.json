@@ -1301,7 +1301,9 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-06-08 22:34:22 +0000",
-      "minecraft:nether_wastes": "2025-06-08 21:02:27 +0000"
+      "minecraft:nether_wastes": "2025-06-08 21:02:27 +0000",
+      "minecraft:soul_sand_valley": "2025-06-08 22:45:23 +0000",
+      "minecraft:basalt_deltas": "2025-06-08 22:38:32 +0000"
     },
     "done": false
   },
@@ -2043,6 +2045,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-06-08 22:41:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_the_recipe": "2025-06-08 22:20:10 +0000"
@@ -2052,6 +2060,12 @@
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2025-06-08 22:28:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-06-08 22:41:42 +0000"
     },
     "done": true
   },
