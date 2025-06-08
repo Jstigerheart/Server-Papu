@@ -1053,6 +1053,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-06-08 21:44:33 +0000",
+      "potato": "2025-06-08 21:43:05 +0000",
       "bread": "2025-06-08 17:47:54 +0000"
     },
     "done": false
@@ -1065,7 +1067,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-06-08 18:19:20 +0000"
+      "minecraft:skeleton": "2025-06-08 18:19:20 +0000",
+      "minecraft:spider": "2025-06-08 21:44:06 +0000",
+      "minecraft:witch": "2025-06-08 21:46:35 +0000",
+      "minecraft:zombie": "2025-06-08 21:43:48 +0000"
     },
     "done": false
   },
@@ -1138,6 +1143,12 @@
   "spartanweaponry:recipes/golden_rapier": {
     "criteria": {
       "has_gold_ingot": "2025-06-08 21:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-06-08 21:48:18 +0000"
     },
     "done": true
   },
@@ -1249,6 +1260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-06-08 21:48:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_throwing_knife": {
     "criteria": {
       "has_gold_ingot": "2025-06-08 21:21:26 +0000"
@@ -1273,9 +1290,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-06-08 21:44:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-06-08 21:22:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/pole_from_leather": {
+    "criteria": {
+      "has_stick": "2025-06-08 21:48:18 +0000"
     },
     "done": true
   },
@@ -1318,6 +1347,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-06-08 21:22:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/pole_from_wool": {
+    "criteria": {
+      "has_stick": "2025-06-08 21:48:18 +0000"
     },
     "done": true
   },
@@ -1447,9 +1482,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/combat/handle_from_leather": {
+    "criteria": {
+      "has_stick": "2025-06-08 21:48:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_wool": {
+    "criteria": {
+      "has_stick": "2025-06-08 21:48:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_longsword": {
     "criteria": {
       "has_gold_ingot": "2025-06-08 21:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-08 21:44:07 +0000"
     },
     "done": true
   },
@@ -1465,6 +1518,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-06-08 21:46:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/medium_quiver_brace": {
     "criteria": {
       "has_gold_ingot": "2025-06-08 21:21:26 +0000"
@@ -1477,6 +1536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-06-08 21:48:18 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-06-08 21:18:19 +0000"
@@ -1486,6 +1551,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-08 21:10:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-06-08 21:48:18 +0000"
     },
     "done": true
   },
@@ -1510,6 +1581,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-06-08 21:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-06-08 21:48:18 +0000"
     },
     "done": true
   },
@@ -1549,9 +1626,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/combat/pole_from_string": {
+    "criteria": {
+      "has_stick": "2025-06-08 21:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-06-08 21:48:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-06-08 21:22:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/simple_handle": {
+    "criteria": {
+      "has_stick": "2025-06-08 21:48:18 +0000"
     },
     "done": true
   },
