@@ -1706,3 +1706,17 @@
 [08Jun2025 23:03:42.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago joined the game
 [08Jun2025 23:05:09.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> tp Santiago Rubiocraft123
 [08Jun2025 23:05:17.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to Rubiocraft123]
+[08Jun2025 23:11:59.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported amoaminoviajulie to Santiago]
+[08Jun2025 23:12:40.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! -9.015840234616192,0.8352267181739279,-5.084486963090171
+[08Jun2025 23:13:42.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> por aca hay un minecraft chest
+[08Jun2025 23:14:39.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> xaero-waypoint:portla:P:-17:43:-12:5:false:0:Internal-the-nether-waypoints
+[08Jun2025 23:14:51.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> todos pueden ver el waypoint
+[08Jun2025 23:15:02.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> solucioné eso
+[08Jun2025 23:15:08.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> todos tenian una ip distinta
+[08Jun2025 23:16:23.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
+[08Jun2025 23:16:32.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
+[08Jun2025 23:17:07.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 fell from a high place
+[08Jun2025 23:17:07.454] [Server thread/INFO] [tombstone/]: The player Rubiocraft123 has successfully been saved
+[08Jun2025 23:17:08.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie burned to death
+[08Jun2025 23:17:08.465] [Server thread/INFO] [tombstone/]: The player amoaminoviajulie has successfully been saved
+[08Jun2025 23:17:31.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported amoaminoviajulie to Santiago]

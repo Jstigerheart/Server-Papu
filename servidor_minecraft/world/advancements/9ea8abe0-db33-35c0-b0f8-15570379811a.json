@@ -225,6 +225,7 @@
       "minecraft:zombified_piglin": "2025-06-08 05:25:35 +0000",
       "minecraft:witch": "2025-06-08 03:55:26 +0000",
       "minecraft:wither_skeleton": "2025-06-08 05:39:12 +0000",
+      "minecraft:piglin": "2025-06-08 23:15:22 +0000",
       "minecraft:enderman": "2025-06-08 05:45:47 +0000",
       "minecraft:zombie": "2025-06-07 21:55:48 +0000",
       "minecraft:zombie_villager": "2025-06-07 22:57:57 +0000"
@@ -272,6 +273,7 @@
       "potato": "2025-06-08 03:58:42 +0000",
       "mutton": "2025-06-08 03:00:33 +0000",
       "cooked_chicken": "2025-06-07 21:56:23 +0000",
+      "mushroom_stew": "2025-06-08 23:09:30 +0000",
       "carrot": "2025-06-08 03:14:42 +0000"
     },
     "done": false
@@ -2186,6 +2188,24 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-08 22:55:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-08 23:15:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-08 23:07:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-08 23:07:12 +0000"
     },
     "done": true
   },

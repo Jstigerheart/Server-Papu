@@ -1131,7 +1131,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-06-08 18:26:59 +0000",
-      "minecraft:soul_sand_valley": "2025-06-08 22:47:18 +0000"
+      "minecraft:soul_sand_valley": "2025-06-08 22:47:18 +0000",
+      "minecraft:basalt_deltas": "2025-06-08 23:12:10 +0000"
     },
     "done": false
   },
@@ -1696,6 +1697,12 @@
   "spartanweaponry:recipes/combat/simple_handle": {
     "criteria": {
       "has_stick": "2025-06-08 21:48:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-08 23:16:39 +0000"
     },
     "done": true
   },
