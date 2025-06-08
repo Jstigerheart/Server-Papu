@@ -1689,3 +1689,20 @@
 [08Jun2025 22:57:22.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago tried to swim in lava
 [08Jun2025 22:57:22.811] [Server thread/INFO] [tombstone/]: The player Santiago has successfully been saved
 [08Jun2025 22:57:28.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Rubiocraft123 to Santiago]
+[08Jun2025 22:57:45.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to Rubiocraft123]
+[08Jun2025 22:58:49.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set Santiago's game mode to Spectator Mode]
+[08Jun2025 22:59:16.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set Santiago's game mode to Survival Mode]
+[08Jun2025 22:59:54.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Banned Santiago: por blanco]
+[08Jun2025 22:59:54.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santiago lost connection: You are banned from this server
+[08Jun2025 22:59:54.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago left the game
+[08Jun2025 23:00:05.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Unbanned Santiago]
+[08Jun2025 23:00:39.808] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@912b7a[id=<null>,name=Santiago,properties={},legacy=false] (/127.198.22.94:48925) lost connection: Disconnected
+[08Jun2025 23:01:17.610] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4fbfab43[id=<null>,name=Santiago,properties={},legacy=false] (/127.198.22.94:33265) lost connection: Disconnected
+[08Jun2025 23:02:11.709] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c37b550[id=<null>,name=Santiago,properties={},legacy=false] (/127.198.22.94:47733) lost connection: Disconnected
+[08Jun2025 23:02:46.410] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3b68af97[id=<null>,name=Santiago,properties={},legacy=false] (/127.198.22.94:38573) lost connection: Disconnected
+[08Jun2025 23:03:33.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> oe
+[08Jun2025 23:03:37.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> el ya no está baneado
+[08Jun2025 23:03:42.567] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santiago[/127.198.22.94:34433] logged in with entity id 34635 at (185.11849814488988, 73.0, -135.91270101419084)
+[08Jun2025 23:03:42.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago joined the game
+[08Jun2025 23:05:09.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> tp Santiago Rubiocraft123
+[08Jun2025 23:05:17.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to Rubiocraft123]

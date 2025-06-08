@@ -133,6 +133,7 @@
     "criteria": {
       "minecraft:blaze": "2025-06-08 05:40:01 +0000",
       "minecraft:skeleton": "2025-06-08 02:55:20 +0000",
+      "minecraft:ghast": "2025-06-08 23:06:09 +0000",
       "minecraft:magma_cube": "2025-06-08 22:37:02 +0000",
       "minecraft:spider": "2025-06-08 03:47:24 +0000",
       "minecraft:creeper": "2025-06-08 21:48:09 +0000",
@@ -1655,6 +1656,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-06-08 23:05:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-06-08 21:50:17 +0000"
@@ -2156,6 +2163,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-08 22:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-06-08 23:05:28 +0000"
     },
     "done": true
   },
