@@ -129,3 +129,322 @@
 [08Jun2025 21:06:22.970] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [tombstone:tombstone_channel,spartanweaponry:network,backpackes:backpackes] rejected their client side version number
 [08Jun2025 21:06:22.970] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [08Jun2025 21:06:23.009] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4a1335ed[id=<null>,name=Rubiocraft123,properties={},legacy=false] (/127.133.102.86:58639) lost connection: Connection closed - mismatched mod channel list
+[08Jun2025 21:07:20.429] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amoaminoviajulie[/127.168.201.233:41161] logged in with entity id 1815 at (-244.38026276602136, 37.0, -203.0653533898305)
+[08Jun2025 21:07:20.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie joined the game
+[08Jun2025 21:08:49.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> ja
+[08Jun2025 21:08:51.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> pere
+[08Jun2025 21:09:06.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago was killed
+[08Jun2025 21:09:06.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago has made the advancement [Your First Grave]
+[08Jun2025 21:09:06.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Killed Santiago]
+[08Jun2025 21:09:06.641] [Server thread/INFO] [tombstone/]: The player Santiago has successfully been saved
+[08Jun2025 21:09:13.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to amoaminoviajulie]
+[08Jun2025 21:09:18.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to amoaminoviajulie]
+[08Jun2025 21:09:21.216] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:09:21.217] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:09:21.364] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:09:21.450] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:09:21.450] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:09:21.451] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:09:21.451] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:09:21.602] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:09:21.602] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:09:21.603] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:09:21.603] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:09:22.571] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:09:22.572] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:09:22.575] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:09:22.576] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:09:22.576] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:09:22.627] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:09:22.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to amoaminoviajulie]
+[08Jun2025 21:09:23.275] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:09:23.635] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:09:23.677] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id tombstone:tombstone
+[08Jun2025 21:09:23.679] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-278, y=63, z=66}
+[08Jun2025 21:09:25.799] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:09:25.824] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:09:25.948] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:09:26.134] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:09:26.134] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:09:26.135] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:09:27.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> tpme pedazo de mierda
+[08Jun2025 21:09:28.309] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json: Don't know what ironbackpacks:backpack is
+[08Jun2025 21:09:28.309] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json: Don't know what ironbackpacks:backpack is
+[08Jun2025 21:09:28.309] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json: Don't know what srparasites:lurecomponent1 is
+[08Jun2025 21:09:28.310] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json: Don't know what ironbackpacks:backpack is
+[08Jun2025 21:09:28.310] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json: Don't know what tombstone:crafting_ingredient is
+[08Jun2025 21:09:28.310] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json: Don't know what srparasites:gore is
+[08Jun2025 21:09:28.311] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json: Don't know what spartanweaponry:greatsword_iron is
+[08Jun2025 21:09:28.334] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:tutorial/root' in progress file ./world/advancements/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json - it doesn't exist anymore?
+[08Jun2025 21:09:28.335] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/decorations/sign' in progress file ./world/advancements/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json - it doesn't exist anymore?
+[08Jun2025 21:09:28.335] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:tutorial/first_grave' in progress file ./world/advancements/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json - it doesn't exist anymore?
+[08Jun2025 21:09:28.335] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:tutorial/cancel_ghostly_shape' in progress file ./world/advancements/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json - it doesn't exist anymore?
+[08Jun2025 21:09:28.335] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:tutorial/first_knowledge' in progress file ./world/advancements/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json - it doesn't exist anymore?
+[08Jun2025 21:09:28.336] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:tutorial/chain_death' in progress file ./world/advancements/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json - it doesn't exist anymore?
+[08Jun2025 21:09:28.336] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:tutorial/find_grave_dust' in progress file ./world/advancements/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json - it doesn't exist anymore?
+[08Jun2025 21:09:28.336] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/green_wool' in progress file ./world/advancements/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json - it doesn't exist anymore?
+[08Jun2025 21:09:28.337] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/red_wool' in progress file ./world/advancements/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json - it doesn't exist anymore?
+[08Jun2025 21:09:28.337] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/purple_wool' in progress file ./world/advancements/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json - it doesn't exist anymore?
+[08Jun2025 21:09:28.337] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/magenta_wool' in progress file ./world/advancements/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json - it doesn't exist anymore?
+[08Jun2025 21:09:28.337] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/gray_wool' in progress file ./world/advancements/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json - it doesn't exist anymore?
+[08Jun2025 21:09:28.337] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/light_gray_wool' in progress file ./world/advancements/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json - it doesn't exist anymore?
+[08Jun2025 21:09:28.338] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/brown_wool' in progress file ./world/advancements/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json - it doesn't exist anymore?
+[08Jun2025 21:09:28.338] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/orange_wool' in progress file ./world/advancements/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json - it doesn't exist anymore?
+[08Jun2025 21:09:28.338] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/yellow_wool' in progress file ./world/advancements/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json - it doesn't exist anymore?
+[08Jun2025 21:09:28.338] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/pink_wool' in progress file ./world/advancements/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json - it doesn't exist anymore?
+[08Jun2025 21:09:28.338] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/blue_wool' in progress file ./world/advancements/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json - it doesn't exist anymore?
+[08Jun2025 21:09:28.338] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/light_blue_wool' in progress file ./world/advancements/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json - it doesn't exist anymore?
+[08Jun2025 21:09:28.338] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/lime_wool' in progress file ./world/advancements/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json - it doesn't exist anymore?
+[08Jun2025 21:09:28.338] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/cyan_wool' in progress file ./world/advancements/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json - it doesn't exist anymore?
+[08Jun2025 21:09:28.339] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/black_wool' in progress file ./world/advancements/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json - it doesn't exist anymore?
+[08Jun2025 21:09:28.339] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:tutorial/ashes_and_bones' in progress file ./world/advancements/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json - it doesn't exist anymore?
+[08Jun2025 21:09:28.339] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/mossy_stone_bricks' in progress file ./world/advancements/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json - it doesn't exist anymore?
+[08Jun2025 21:09:28.339] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:tutorial/strong_or_careful' in progress file ./world/advancements/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json - it doesn't exist anymore?
+[08Jun2025 21:09:28.339] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:tutorial/bone_crusher' in progress file ./world/advancements/0ee66468-1f56-32cd-bbb0-e5fcb06e89bf.json - it doesn't exist anymore?
+[08Jun2025 21:09:28.604] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:09:28.605] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'generic.reachDistance'
+[08Jun2025 21:09:28.605] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:yellow_wool removed now.
+[08Jun2025 21:09:28.605] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:sign removed now.
+[08Jun2025 21:09:28.605] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:red_wool removed now.
+[08Jun2025 21:09:28.606] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:purple_wool removed now.
+[08Jun2025 21:09:28.606] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:pink_wool removed now.
+[08Jun2025 21:09:28.606] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:orange_wool removed now.
+[08Jun2025 21:09:28.606] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:mossy_stone_bricks removed now.
+[08Jun2025 21:09:28.606] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:magenta_wool removed now.
+[08Jun2025 21:09:28.607] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:lime_wool removed now.
+[08Jun2025 21:09:28.607] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:light_gray_wool removed now.
+[08Jun2025 21:09:28.607] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:light_blue_wool removed now.
+[08Jun2025 21:09:28.607] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:green_wool removed now.
+[08Jun2025 21:09:28.607] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:gray_wool removed now.
+[08Jun2025 21:09:28.607] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:cyan_wool removed now.
+[08Jun2025 21:09:28.608] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:brown_wool removed now.
+[08Jun2025 21:09:28.608] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:blue_wool removed now.
+[08Jun2025 21:09:28.608] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:black_wool removed now.
+[08Jun2025 21:09:28.608] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tombstone:dust_of_vanishing removed now.
+[08Jun2025 21:09:28.609] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: ironbackpacks:pack_basic removed now.
+[08Jun2025 21:09:28.609] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:yellow_wool removed now.
+[08Jun2025 21:09:28.609] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:sign removed now.
+[08Jun2025 21:09:28.609] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:red_wool removed now.
+[08Jun2025 21:09:28.609] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:purple_wool removed now.
+[08Jun2025 21:09:28.610] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:pink_wool removed now.
+[08Jun2025 21:09:28.610] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:orange_wool removed now.
+[08Jun2025 21:09:28.610] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:mossy_stone_bricks removed now.
+[08Jun2025 21:09:28.610] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:magenta_wool removed now.
+[08Jun2025 21:09:28.610] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:lime_wool removed now.
+[08Jun2025 21:09:28.611] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:light_gray_wool removed now.
+[08Jun2025 21:09:28.611] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:light_blue_wool removed now.
+[08Jun2025 21:09:28.611] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:green_wool removed now.
+[08Jun2025 21:09:28.611] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:gray_wool removed now.
+[08Jun2025 21:09:28.611] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:cyan_wool removed now.
+[08Jun2025 21:09:28.611] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:brown_wool removed now.
+[08Jun2025 21:09:28.612] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:blue_wool removed now.
+[08Jun2025 21:09:28.612] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:black_wool removed now.
+[08Jun2025 21:09:28.612] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tombstone:dust_of_vanishing removed now.
+[08Jun2025 21:09:28.612] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: ironbackpacks:pack_basic removed now.
+[08Jun2025 21:09:28.612] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rubiocraft123[/127.133.102.86:33145] logged in with entity id 2313 at (-243.22457926998248, 37.0, -203.05958083552719)
+[08Jun2025 21:09:28.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 joined the game
+[08Jun2025 21:09:32.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> gracias bb
+[08Jun2025 21:09:52.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> yo si le sé a los comandos
+[08Jun2025 21:10:18.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> mano
+[08Jun2025 21:10:23.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> si pilló como funciona
+[08Jun2025 21:10:24.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> esto?
+[08Jun2025 21:10:27.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> que no se laguea
+[08Jun2025 21:10:29.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> ni tiene delay
+[08Jun2025 21:10:32.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> en soltar objetos
+[08Jun2025 21:10:44.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> pille
+[08Jun2025 21:11:25.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Rubiocraft123 to amoaminoviajulie]
+[08Jun2025 21:11:28.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported amoaminoviajulie to Santiago]
+[08Jun2025 21:11:39.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 burned to death
+[08Jun2025 21:11:39.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 has made the advancement [Your First Grave]
+[08Jun2025 21:11:39.515] [Server thread/INFO] [tombstone/]: The player Rubiocraft123 has successfully been saved
+[08Jun2025 21:11:41.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> xD
+[08Jun2025 21:11:45.245] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:11:45.245] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:11:45.245] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:11:45.246] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:11:45.395] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:11:45.396] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:11:45.396] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:11:45.487] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:11:45.487] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:11:45.488] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:11:45.554] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:11:45.555] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:11:45.555] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:11:45.631] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:11:48.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rubiocraft123> tp
+[08Jun2025 21:11:48.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
+[08Jun2025 21:12:05.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
+[08Jun2025 21:12:06.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rubiocraft123> tirame tp
+[08Jun2025 21:12:12.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rubiocraft123> please
+[08Jun2025 21:12:23.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> wai
+[08Jun2025 21:12:26.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
+[08Jun2025 21:12:26.534] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:26.771] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:26.771] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:26.772] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:26.930] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:26.930] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:26.947] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:27.212] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:27.271] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:27.552] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:27.553] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:27.553] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:27.638] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:27.638] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:31.674] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:31.675] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:31.892] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:31.893] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:32.036] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:34.830] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:34.830] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:34.830] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:34.836] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:34.836] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:34.865] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:34.865] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:34.896] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:34.896] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:34.897] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:34.982] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:34.982] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:34.982] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:35.035] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:35.036] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:35.037] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:35.037] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:35.037] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:35.038] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:35.038] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:12:39.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Rubiocraft123 to amoaminoviajulie]
+[08Jun2025 21:12:44.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
+[08Jun2025 21:12:50.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rubiocraft123> ayuda
+[08Jun2025 21:12:50.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> ya?
+[08Jun2025 21:12:52.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> q paso
+[08Jun2025 21:12:56.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Rubiocraft123 to amoaminoviajulie]
+[08Jun2025 21:13:07.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
+[08Jun2025 21:13:10.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rubiocraft123> salvenm las cosas please
+[08Jun2025 21:13:13.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 has reached the goal [Here They Come]
+[08Jun2025 21:13:23.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> donde le sale
+[08Jun2025 21:13:25.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> su gravestone?
+[08Jun2025 21:13:28.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> mi mochila
+[08Jun2025 21:13:30.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> las mariposas
+[08Jun2025 21:13:33.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> a donde lo llevan?
+[08Jun2025 21:13:51.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> hacia el paraiso
+[08Jun2025 21:13:55.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> necesito mi mochila
+[08Jun2025 21:13:55.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> no enserio
+[08Jun2025 21:14:01.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> hacia a donde apuntan?
+[08Jun2025 21:14:01.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> yo ahi tenia cositas
+[08Jun2025 21:14:03.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> maldito
+[08Jun2025 21:14:24.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> pana
+[08Jun2025 21:14:33.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> donde está la tumba de rubio
+[08Jun2025 21:14:37.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> ahh ya
+[08Jun2025 21:14:40.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> ud lo enterro
+[08Jun2025 21:14:42.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Rubiocraft123 to amoaminoviajulie]
+[08Jun2025 21:14:46.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
+[08Jun2025 21:14:48.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> mano ya no estan los waypoints
+[08Jun2025 21:14:52.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> yo sé
+[08Jun2025 21:14:58.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> seguros?
+[08Jun2025 21:15:14.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> ahora yo soy Dios
+[08Jun2025 21:15:14.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 has made the advancement [Knowledge of Death]
+[08Jun2025 21:15:14.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 has made the advancement [Ashes 'n Bones]
+[08Jun2025 21:15:19.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 has made the advancement [A Strange Grave Dust]
+[08Jun2025 21:15:41.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> que necesitamos?
+[08Jun2025 21:15:50.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> mano dele la espada de sparta a rubio
+[08Jun2025 21:15:53.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> ya no a tiene
+[08Jun2025 21:15:57.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> el tenia?
+[08Jun2025 21:15:58.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> cual era
+[08Jun2025 21:16:00.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> si
+[08Jun2025 21:16:01.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> la long sword?
+[08Jun2025 21:16:03.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rubiocraft123> una mas larga
+[08Jun2025 21:16:05.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rubiocraft123> si
+[08Jun2025 21:16:05.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> ns la vdd
+[08Jun2025 21:16:45.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 has made the advancement [A Bigger Blade]
+[08Jun2025 21:16:45.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 1 [Diamond Longsword] to Rubiocraft123]
+[08Jun2025 21:16:49.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> ya
+[08Jun2025 21:16:55.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rubiocraft123> gracias
+[08Jun2025 21:16:58.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> es de diamante
+[08Jun2025 21:17:01.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> esperenme
+[08Jun2025 21:17:06.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> tantico
+[08Jun2025 21:17:07.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> esperen no ma
+[08Jun2025 21:18:19.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie has reached the goal [Strong or Careful]
+[08Jun2025 21:18:19.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie was slain by Rubiocraft123
+[08Jun2025 21:18:19.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie has made the advancement [Your First Grave]
+[08Jun2025 21:18:19.713] [Server thread/INFO] [tombstone/]: The player amoaminoviajulie has successfully been saved
+[08Jun2025 21:20:14.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago has made the advancement [Halberdier]
+[08Jun2025 21:20:14.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago has made the advancement [A Cut Above the Rest]
+[08Jun2025 21:20:14.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago has made the advancement [Knowledge of Death]
+[08Jun2025 21:20:14.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago has made the advancement [Funeral Theft]
+[08Jun2025 21:20:26.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> listo
+[08Jun2025 21:20:29.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
+[08Jun2025 21:20:38.964] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santiago lost connection: Disconnected
+[08Jun2025 21:20:38.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago left the game
+[08Jun2025 21:20:39.014] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Jun2025 21:20:56.429] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:20:56.533] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:20:56.787] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:20:56.787] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:20:56.788] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:20:56.788] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:20:56.797] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:21:24.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
+[08Jun2025 21:21:36.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> aparecen mis cosas
+[08Jun2025 21:21:41.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> o desaparecen las de todos
+[08Jun2025 21:21:46.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rubiocraft123> aparecen
+[08Jun2025 21:21:47.460] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@502f20ae[id=<null>,name=Santiago,properties={},legacy=false] (/127.198.22.94:38401) lost connection: Disconnected
+[08Jun2025 21:21:53.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rubiocraft123> estan en el cofre
+[08Jun2025 21:21:53.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie has reached the goal [Here They Come]
+[08Jun2025 21:22:02.570] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santiago[/127.198.22.94:37205] logged in with entity id 5750 at (-247.06482303900336, 37.0, -206.25257187891467)
+[08Jun2025 21:22:02.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago joined the game
+[08Jun2025 21:22:14.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> santiago
+[08Jun2025 21:22:17.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> o aparecen mis cosas
+[08Jun2025 21:22:23.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> o desaparecen las de todos
+[08Jun2025 21:22:29.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rubiocraft123> ESTAN EN EL COFRE
+[08Jun2025 21:22:30.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> todo
+[08Jun2025 21:22:32.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rubiocraft123> de atras
+[08Jun2025 21:22:51.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> cual
+[08Jun2025 21:22:52.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> cofre
+[08Jun2025 21:23:22.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> ud que mas tenia?
+[08Jun2025 21:23:36.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> pinche jeison mano larga
+[08Jun2025 21:23:42.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> se robo todo practicamente
+[08Jun2025 21:23:45.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> de que
+[08Jun2025 21:23:49.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> ni que fuera uribe .-.
+[08Jun2025 21:24:04.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> me faltan cosas
+[08Jun2025 21:24:05.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> increible
+[08Jun2025 21:24:11.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> que le falta?
+[08Jun2025 21:24:20.608] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1275, l='ServerLevel[world]', x=-185.56, y=53.00, z=-308.48] died, message: 'Villager hit the ground too hard'
+[08Jun2025 21:24:30.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> un villager murió
+[08Jun2025 21:24:38.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> aca registra todo
+[08Jun2025 21:24:42.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> murió de daño de caida
+[08Jun2025 21:24:52.577] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:24:52.682] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:24:52.683] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[08Jun2025 21:25:03.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> metase a lds
+[08Jun2025 21:25:09.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> bobis
+[08Jun2025 21:25:14.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> no puedo
+[08Jun2025 21:25:21.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> pq?
+[08Jun2025 21:25:29.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> tus secuetradores te pegra?
+[08Jun2025 21:25:36.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> no
+[08Jun2025 21:25:40.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago has made the advancement [A Strange Grave Dust]
+[08Jun2025 21:25:41.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> estoy con mi mujer
+[08Jun2025 21:25:45.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> entonces, eso
+[08Jun2025 21:25:50.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> :c
+[08Jun2025 21:25:55.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> que tristeza
+[08Jun2025 21:25:56.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> por que ":c"
+[08Jun2025 21:26:02.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> amigos antes que perras...
+[08Jun2025 21:26:04.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> es que esta durmiendo
+[08Jun2025 21:26:08.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> mi mujer es mi mujer
+[08Jun2025 21:26:11.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> entonces
+[08Jun2025 21:26:12.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> levantela de un solo grito
+[08Jun2025 21:26:14.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> nein nein
+[08Jun2025 21:26:20.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> maria fernanda
+[08Jun2025 21:26:22.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> era la de la U'
+[08Jun2025 21:26:22.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> y si le jode la casca
+[08Jun2025 21:26:23.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> ?
+[08Jun2025 21:26:29.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> asi yo hacia con mafe
+[08Jun2025 21:26:32.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> o era otra mafe
+[08Jun2025 21:26:35.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> la mafe de la U?
+[08Jun2025 21:26:39.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> si
+[08Jun2025 21:26:47.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> ella yo la cascaba minimo dia de por medio
