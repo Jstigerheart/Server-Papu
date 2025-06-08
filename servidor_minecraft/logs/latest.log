@@ -1384,3 +1384,8 @@
 [08Jun2025 22:07:07.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
 [08Jun2025 22:07:07.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spartanweaponry (applyOil|applyPotionOil|clearOil)
 [08Jun2025 22:07:07.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sw -> spartanweaponry
+[08Jun2025 22:10:49.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santiago lost connection: Disconnected
+[08Jun2025 22:10:49.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago left the game
+[08Jun2025 22:10:58.118] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santiago[/127.198.22.94:44365] logged in with entity id 22067 at (-243.6967331693211, 37.0, -208.76627038414063)
+[08Jun2025 22:10:58.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago joined the game
+[08Jun2025 22:17:00.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago has made the advancement [Enchanter]

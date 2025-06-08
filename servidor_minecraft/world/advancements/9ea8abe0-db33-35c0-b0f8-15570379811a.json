@@ -1668,21 +1668,39 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/golden_rapier": {
+  "tombstone:adventure/find_grave_dust": {
     "criteria": {
-      "has_gold_ingot": "2025-06-08 21:45:18 +0000"
+      "from_undead": "2025-06-08 21:25:40 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/golden_halberd": {
+  "minecraft:recipes/building_blocks/glass": {
     "criteria": {
-      "has_gold_ingot": "2025-06-08 21:45:18 +0000"
+      "has_smelts_to_glass": "2025-06-08 21:39:44 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/golden_dagger": {
+  "minecraft:recipes/decorations/candle": {
     "criteria": {
-      "has_gold_ingot": "2025-06-08 21:45:18 +0000"
+      "has_string": "2025-06-08 21:43:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_string": {
+    "criteria": {
+      "has_string": "2025-06-08 21:43:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-06-08 21:43:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-08 21:43:00 +0000"
     },
     "done": true
   },
@@ -1698,9 +1716,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+  "spartanweaponry:recipes/grease_ball": {
     "criteria": {
-      "has_potato": "2025-06-08 21:46:04 +0000"
+      "has_meat": "2025-06-08 21:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-06-08 21:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-06-08 21:43:47 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_handle": "2025-06-08 21:45:15 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_rapier": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-08 21:45:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_halberd": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-08 21:45:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_dagger": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-08 21:45:18 +0000"
     },
     "done": true
   },
@@ -1734,39 +1788,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "from_undead": "2025-06-08 21:25:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-06-08 21:39:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-06-08 21:45:18 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/grease_ball": {
-    "criteria": {
-      "has_meat": "2025-06-08 21:43:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-06-08 21:45:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-06-08 21:46:04 +0000"
     },
     "done": true
   },
@@ -1806,12 +1836,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-06-08 21:55:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-06-08 21:45:18 +0000"
@@ -1830,12 +1854,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2025-06-08 21:43:00 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/golden_pike": {
     "criteria": {
       "has_gold_ingot": "2025-06-08 21:45:18 +0000"
@@ -1845,12 +1863,6 @@
   "spartanweaponry:recipes/golden_javelin": {
     "criteria": {
       "has_gold_ingot": "2025-06-08 21:45:18 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/combat/handle_from_string": {
-    "criteria": {
-      "has_string": "2025-06-08 21:43:00 +0000"
     },
     "done": true
   },
@@ -1872,12 +1884,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-06-08 21:55:36 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/golden_longsword": {
     "criteria": {
       "has_gold_ingot": "2025-06-08 21:45:18 +0000"
@@ -1896,27 +1902,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2025-06-08 21:43:47 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/medium_quiver_brace": {
     "criteria": {
       "has_gold_ingot": "2025-06-08 21:45:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-06-08 21:46:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_mutton": "2025-06-08 21:43:47 +0000"
     },
     "done": true
   },
@@ -1929,12 +1917,6 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-06-08 21:45:18 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:root": {
-    "criteria": {
-      "has_handle": "2025-06-08 21:45:15 +0000"
     },
     "done": true
   },
@@ -1962,18 +1944,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_string": "2025-06-08 21:43:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-06-08 21:55:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-06-08 21:45:18 +0000"
@@ -1986,12 +1956,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/loom": {
-    "criteria": {
-      "has_string": "2025-06-08 21:43:00 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/golden_heavy_crossbow": {
     "criteria": {
       "has_gold_ingot": "2025-06-08 21:45:18 +0000"
@@ -2001,6 +1965,60 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-06-08 21:45:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-08 21:46:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-08 21:46:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-08 21:46:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-06-08 21:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-06-08 21:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-06-08 21:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-08 22:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-08 22:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-08 22:17:00 +0000"
     },
     "done": true
   },
