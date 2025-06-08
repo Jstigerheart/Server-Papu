@@ -1177,6 +1177,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-06-08 21:22:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-06-08 21:21:26 +0000"
@@ -1201,6 +1207,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-08 21:22:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-08 21:22:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-06-08 21:21:26 +0000"
@@ -1222,6 +1240,24 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-06-08 21:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-08 21:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-08 21:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-08 21:22:37 +0000"
     },
     "done": true
   },
@@ -1255,9 +1291,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-08 21:22:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_quarterstaff": {
     "criteria": {
       "has_gold_ingot": "2025-06-08 21:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-06-08 21:22:37 +0000"
     },
     "done": true
   },
@@ -1267,9 +1315,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-06-08 21:22:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_pike": {
     "criteria": {
       "has_gold_ingot": "2025-06-08 21:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-06-08 21:22:35 +0000"
     },
     "done": true
   },
@@ -1291,9 +1351,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-06-08 21:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-08 21:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-06-08 21:22:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-08 21:10:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-06-08 21:22:35 +0000"
     },
     "done": true
   },
@@ -1306,6 +1390,18 @@
   "spartanweaponry:recipes/golden_boomerang": {
     "criteria": {
       "has_gold_ingot": "2025-06-08 21:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-06-08 21:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-08 21:22:35 +0000"
     },
     "done": true
   },
@@ -1345,6 +1441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-08 21:22:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_katana": {
     "criteria": {
       "has_gold_ingot": "2025-06-08 21:21:26 +0000"
@@ -1375,6 +1477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-08 21:22:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_longbow": {
     "criteria": {
       "has_gold_ingot": "2025-06-08 21:21:26 +0000"
@@ -1387,9 +1495,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-08 21:22:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-06-08 21:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-08 21:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-08 21:22:36 +0000"
     },
     "done": true
   },
