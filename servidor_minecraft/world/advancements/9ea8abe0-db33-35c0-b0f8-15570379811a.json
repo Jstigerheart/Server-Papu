@@ -1284,15 +1284,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2025-06-08 17:46:02 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/wooden_longbow": {
     "criteria": {
       "has_wood": "2025-06-08 17:46:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-06-08 17:46:02 +0000"
     },
     "done": true
   },
