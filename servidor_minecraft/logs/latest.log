@@ -1,0 +1,192 @@
+[08Jun2025 16:52:16.952] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[08Jun2025 16:52:16.957] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[08Jun2025 16:52:17.118] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[08Jun2025 16:52:17.171] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server-Papu/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[08Jun2025 16:52:17.391] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[08Jun2025 16:52:17.393] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[08Jun2025 16:52:17.394] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[08Jun2025 16:52:17.396] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[08Jun2025 16:52:17.546] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[08Jun2025 16:52:19.172] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[08Jun2025 16:52:19.178] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[08Jun2025 16:52:20.358] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[08Jun2025 16:52:25.194] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[08Jun2025 16:52:25.196] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
+[08Jun2025 16:52:25.203] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
+[08Jun2025 16:52:25.238] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[08Jun2025 16:52:25.238] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[08Jun2025 16:52:25.809] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[08Jun2025 16:52:26.002] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[08Jun2025 16:52:26.515] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[08Jun2025 16:52:27.298] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08Jun2025 16:52:28.032] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23107!/assets/.mcassetsroot' uses unexpected schema
+[08Jun2025 16:52:28.032] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23107!/data/.mcassetsroot' uses unexpected schema
+[08Jun2025 16:52:29.232] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[08Jun2025 16:52:29.697] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[08Jun2025 16:52:29.769] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[08Jun2025 16:52:29.775] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[08Jun2025 16:52:29.820] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[08Jun2025 16:52:29.820] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
+[08Jun2025 16:52:29.831] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[08Jun2025 16:52:29.831] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
+[08Jun2025 16:52:29.834] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[08Jun2025 16:52:29.834] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
+[08Jun2025 16:52:29.841] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[08Jun2025 16:52:29.841] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
+[08Jun2025 16:52:29.842] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/copper" Skipping...
+[08Jun2025 16:52:29.842] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:copper_nugget_from_smelting_copper_weapons as it's serializer returned null
+[08Jun2025 16:52:29.842] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[08Jun2025 16:52:29.842] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
+[08Jun2025 16:52:29.843] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[08Jun2025 16:52:29.843] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
+[08Jun2025 16:52:29.850] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[08Jun2025 16:52:29.850] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
+[08Jun2025 16:52:29.852] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[08Jun2025 16:52:29.852] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_blasting_steel_weapons as it's serializer returned null
+[08Jun2025 16:52:29.853] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[08Jun2025 16:52:29.853] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
+[08Jun2025 16:52:29.854] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[08Jun2025 16:52:29.854] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
+[08Jun2025 16:52:29.862] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[08Jun2025 16:52:29.862] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
+[08Jun2025 16:52:29.862] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[08Jun2025 16:52:29.862] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
+[08Jun2025 16:52:29.870] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[08Jun2025 16:52:29.870] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
+[08Jun2025 16:52:29.871] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[08Jun2025 16:52:29.872] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
+[08Jun2025 16:52:29.874] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[08Jun2025 16:52:29.874] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
+[08Jun2025 16:52:29.883] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[08Jun2025 16:52:29.883] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_smelting_steel_weapons as it's serializer returned null
+[08Jun2025 16:52:29.887] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[08Jun2025 16:52:29.887] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
+[08Jun2025 16:52:29.889] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/silver" Skipping...
+[08Jun2025 16:52:29.889] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:silver_nugget_from_smelting_silver_weapons as it's serializer returned null
+[08Jun2025 16:52:29.893] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[08Jun2025 16:52:29.893] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
+[08Jun2025 16:52:29.894] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/silver" Skipping...
+[08Jun2025 16:52:29.894] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:silver_nugget_from_blasting_silver_weapons as it's serializer returned null
+[08Jun2025 16:52:29.896] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/copper" Skipping...
+[08Jun2025 16:52:29.896] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:copper_nugget_from_blasting_copper_weapons as it's serializer returned null
+[08Jun2025 16:52:29.897] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[08Jun2025 16:52:29.897] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
+[08Jun2025 16:52:29.897] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[08Jun2025 16:52:29.897] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
+[08Jun2025 16:52:29.902] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[08Jun2025 16:52:30.063] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1804 advancements
+[08Jun2025 16:52:30.481] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 5.519625ms
+[08Jun2025 16:52:30.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[08Jun2025 16:52:30.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[08Jun2025 16:52:30.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[08Jun2025 16:52:30.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[08Jun2025 16:52:30.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[08Jun2025 16:52:30.735] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[08Jun2025 16:52:30.834] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08Jun2025 16:52:30.835] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[08Jun2025 16:52:30.835] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08Jun2025 16:52:30.835] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[08Jun2025 16:52:30.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[08Jun2025 16:52:33.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[08Jun2025 16:52:36.823] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jun2025 16:52:36.825] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jun2025 16:52:36.827] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jun2025 16:52:36.828] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jun2025 16:52:36.828] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jun2025 16:52:36.829] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jun2025 16:52:36.830] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Jun2025 16:52:37.309] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[08Jun2025 16:52:37.809] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[08Jun2025 16:52:37.979] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4170 ms
+[08Jun2025 16:52:37.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.123s)! For help, type "help"
+[08Jun2025 16:52:38.003] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[08Jun2025 16:53:16.259] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@9f4edea[id=<null>,name=Santiago,properties={},legacy=false] (/127.198.22.94:33109) lost connection: Disconnected
+[08Jun2025 16:54:01.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
+[08Jun2025 16:54:01.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
+[08Jun2025 16:54:01.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[08Jun2025 16:54:01.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
+[08Jun2025 16:54:01.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
+[08Jun2025 16:54:01.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone (<begin>|from)
+[08Jun2025 16:54:01.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /damage <target> <amount> [<damageType>]
+[08Jun2025 16:54:01.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
+[08Jun2025 16:54:01.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
+[08Jun2025 16:54:01.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
+[08Jun2025 16:54:01.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode <gamemode>
+[08Jun2025 16:54:01.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
+[08Jun2025 16:54:01.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
+[08Jun2025 16:54:01.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
+[08Jun2025 16:54:01.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
+[08Jun2025 16:54:01.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
+[08Jun2025 16:54:01.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
+[08Jun2025 16:54:01.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[08Jun2025 16:54:01.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fillbiome <from> <to> <biome> [replace]
+[08Jun2025 16:54:01.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
+[08Jun2025 16:54:01.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name>
+[08Jun2025 16:54:01.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode <gamemode> [<target>]
+[08Jun2025 16:54:01.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[08Jun2025 16:54:01.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
+[08Jun2025 16:54:01.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
+[08Jun2025 16:54:01.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
+[08Jun2025 16:54:01.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
+[08Jun2025 16:54:01.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
+[08Jun2025 16:54:01.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
+[08Jun2025 16:54:01.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
+[08Jun2025 16:54:01.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
+[08Jun2025 16:54:01.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
+[08Jun2025 16:54:01.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
+[08Jun2025 16:54:01.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
+[08Jun2025 16:54:01.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
+[08Jun2025 16:54:01.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
+[08Jun2025 16:54:01.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[08Jun2025 16:54:01.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
+[08Jun2025 16:54:01.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
+[08Jun2025 16:54:01.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /return <value>
+[08Jun2025 16:54:01.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ride <target> (mount|dismount)
+[08Jun2025 16:54:01.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
+[08Jun2025 16:54:01.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
+[08Jun2025 16:54:01.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
+[08Jun2025 16:54:01.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
+[08Jun2025 16:54:01.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[08Jun2025 16:54:01.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
+[08Jun2025 16:54:01.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
+[08Jun2025 16:54:01.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
+[08Jun2025 16:54:01.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[08Jun2025 16:54:01.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[08Jun2025 16:54:01.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
+[08Jun2025 16:54:01.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
+[08Jun2025 16:54:01.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
+[08Jun2025 16:54:01.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
+[08Jun2025 16:54:01.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
+[08Jun2025 16:54:01.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
+[08Jun2025 16:54:01.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
+[08Jun2025 16:54:01.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
+[08Jun2025 16:54:01.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
+[08Jun2025 16:54:01.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[08Jun2025 16:54:01.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
+[08Jun2025 16:54:01.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
+[08Jun2025 16:54:01.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
+[08Jun2025 16:54:01.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
+[08Jun2025 16:54:01.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
+[08Jun2025 16:54:01.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
+[08Jun2025 16:54:01.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
+[08Jun2025 16:54:01.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
+[08Jun2025 16:54:01.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
+[08Jun2025 16:54:01.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
+[08Jun2025 16:54:01.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
+[08Jun2025 16:54:01.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
+[08Jun2025 16:54:01.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
+[08Jun2025 16:54:01.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
+[08Jun2025 16:54:01.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
+[08Jun2025 16:54:01.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
+[08Jun2025 16:54:01.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
+[08Jun2025 16:54:01.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
+[08Jun2025 16:54:01.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spartanweaponry (applyOil|applyPotionOil|clearOil)
+[08Jun2025 16:54:01.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sw -> spartanweaponry
+[08Jun2025 16:54:01.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[08Jun2025 16:54:01.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[08Jun2025 16:59:44.074] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [spartanweaponry:network,backpackes:backpackes] rejected their client side version number
+[08Jun2025 16:59:44.075] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[08Jun2025 16:59:44.104] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2128d0e3[id=<null>,name=amoaminoviajulie,properties={},legacy=false] (/127.168.201.233:36563) lost connection: Connection closed - mismatched mod channel list
+[08Jun2025 17:00:29.029] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [spartanweaponry:network,backpackes:backpackes] rejected their client side version number
+[08Jun2025 17:00:29.029] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[08Jun2025 17:00:29.054] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@36d65c8c[id=<null>,name=Santiago,properties={},legacy=false] (/127.198.22.94:55835) lost connection: Connection closed - mismatched mod channel list
