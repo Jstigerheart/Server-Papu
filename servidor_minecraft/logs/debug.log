@@ -1802,3 +1802,21 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09Jun2025 18:23:09.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -228 65 -282
 [09Jun2025 18:23:22.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jun2025 18:23:22.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 18:23:50.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 138 block(s)]
+[09Jun2025 18:24:12.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -231 65 -257
+[09Jun2025 18:24:16.361] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Jun2025 18:24:18.090] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[09Jun2025 18:24:50.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 161 block(s)]
+[09Jun2025 18:27:09.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -263 66 -260
+[09Jun2025 18:27:12.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 3.660502118984084,4.2540433022972906,-8.739360206978347
+[09Jun2025 18:28:22.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 18:28:22.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 18:28:53.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 138 block(s)]
+[09Jun2025 18:29:55.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -268 64 -294
+[09Jun2025 18:30:20.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 4715 block(s)]
+[09Jun2025 18:31:00.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -253 66 -292
+[09Jun2025 18:31:38.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 138 block(s)]
+[09Jun2025 18:32:48.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -216 66 -282
+[09Jun2025 18:33:18.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 138 block(s)]
+[09Jun2025 18:33:22.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 18:33:22.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

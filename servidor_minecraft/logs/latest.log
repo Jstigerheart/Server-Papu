@@ -293,3 +293,15 @@
 [09Jun2025 18:22:00.208] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4583, l='ServerLevel[world]', x=-287.45, y=77.00, z=-312.59] died, message: 'Villager was slain by Zombie'
 [09Jun2025 18:22:48.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 138 block(s)]
 [09Jun2025 18:23:09.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -228 65 -282
+[09Jun2025 18:23:50.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 138 block(s)]
+[09Jun2025 18:24:12.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -231 65 -257
+[09Jun2025 18:24:50.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 161 block(s)]
+[09Jun2025 18:27:09.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -263 66 -260
+[09Jun2025 18:27:12.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 3.660502118984084,4.2540433022972906,-8.739360206978347
+[09Jun2025 18:28:53.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 138 block(s)]
+[09Jun2025 18:29:55.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -268 64 -294
+[09Jun2025 18:30:20.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 4715 block(s)]
+[09Jun2025 18:31:00.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -253 66 -292
+[09Jun2025 18:31:38.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 138 block(s)]
+[09Jun2025 18:32:48.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -216 66 -282
+[09Jun2025 18:33:18.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 138 block(s)]
