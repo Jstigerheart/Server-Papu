@@ -311,3 +311,9 @@
 [09Jun2025 18:36:32.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
 [09Jun2025 18:38:39.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -269 64 -249
 [09Jun2025 18:39:14.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 5377 block(s)]
+[09Jun2025 18:47:54.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 3.0227030398607724,3.706524626337867,8.851653144013255
+[09Jun2025 18:48:06.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
+[09Jun2025 18:50:57.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie lost connection: Timed out
+[09Jun2025 18:50:57.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie left the game
+[09Jun2025 18:52:40.413] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amoaminoviajulie[/127.168.201.233:58317] logged in with entity id 19711 at (-251.05102962620686, 68.59690801558276, -281.74723656494814)
+[09Jun2025 18:52:40.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie joined the game
