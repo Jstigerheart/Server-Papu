@@ -2353,5 +2353,11 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-06-09 20:47:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
