@@ -1067,6 +1067,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-06-09 17:23:50 +0000",
       "minecraft:skeleton": "2025-06-08 18:19:20 +0000",
       "minecraft:spider": "2025-06-08 21:44:06 +0000",
       "minecraft:witch": "2025-06-08 21:46:35 +0000",
@@ -1130,11 +1131,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-06-09 17:17:30 +0000",
       "minecraft:nether_wastes": "2025-06-08 18:26:59 +0000",
       "minecraft:soul_sand_valley": "2025-06-08 22:47:18 +0000",
-      "minecraft:basalt_deltas": "2025-06-08 23:12:10 +0000"
+      "minecraft:basalt_deltas": "2025-06-08 23:12:10 +0000",
+      "minecraft:warped_forest": "2025-06-09 17:09:44 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
@@ -1700,6 +1703,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-08 22:51:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2025-06-08 23:16:39 +0000"
@@ -1709,12 +1718,6 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-06-08 23:27:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-06-08 22:51:58 +0000"
     },
     "done": true
   },
