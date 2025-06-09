@@ -326,3 +326,4 @@
 [09Jun2025 19:33:25.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 10.103594638973647,0.0,0.9876758541260529
 [09Jun2025 19:45:30.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie has made the advancement [Sweet Dreams]
 [09Jun2025 19:51:28.005] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19819, l='ServerLevel[world]', x=-242.29, y=48.99, z=-271.29] died, message: 'Villager tried to swim in lava'
+[09Jun2025 20:01:57.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 1.787507361165325,-10.440534483009301,2.4003730353622927
