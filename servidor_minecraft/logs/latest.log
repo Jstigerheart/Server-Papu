@@ -404,3 +404,83 @@
 [09Jun2025 22:47:18.162] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
 [09Jun2025 22:47:18.171] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
 [09Jun2025 22:47:19.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
+[09Jun2025 22:47:37.678] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[09Jun2025 22:47:37.739] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[09Jun2025 22:47:37.860] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[09Jun2025 22:47:37.860] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[09Jun2025 22:47:37.860] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[09Jun2025 22:47:37.861] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[09Jun2025 22:47:38.202] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[09Jun2025 22:48:04.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Rubiocraft123 to amoaminoviajulie]
+[09Jun2025 22:48:13.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> shito
+[09Jun2025 22:48:24.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
+[09Jun2025 22:48:30.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
+[09Jun2025 22:48:35.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Rubiocraft123 to ExterminadorAF]
+[09Jun2025 22:48:38.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to ExterminadorAF]
+[09Jun2025 22:48:45.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
+[09Jun2025 22:48:47.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago was slain by ExterminadorAF
+[09Jun2025 22:48:47.426] [Server thread/INFO] [tombstone/]: The player Santiago has successfully been saved
+[09Jun2025 22:48:50.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
+[09Jun2025 22:48:55.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
+[09Jun2025 22:49:10.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 has made the advancement [Funeral Theft]
+[09Jun2025 22:49:10.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 has reached the goal [Discreet Search]
+[09Jun2025 22:50:18.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -127 64 -271
+[09Jun2025 22:50:37.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago was slain by Zombie
+[09Jun2025 22:50:37.391] [Server thread/INFO] [tombstone/]: The player Santiago has successfully been saved
+[09Jun2025 22:50:47.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-176, y=65, z=-283} BlockPos{x=-176, y=63, z=-282}
+[09Jun2025 22:50:49.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 15456 block(s)]
+[09Jun2025 22:51:09.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 15455 block(s)]
+[09Jun2025 22:51:27.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -125 64 -274
+[09Jun2025 22:51:34.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santiago was kicked for floating too long!
+[09Jun2025 22:51:34.990] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santiago lost connection: Flying is not enabled on this server
+[09Jun2025 22:51:34.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago left the game
+[09Jun2025 22:51:40.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExterminadorAF has made the advancement [A Strange Grave Dust]
+[09Jun2025 22:52:08.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 1188 block(s)]
+[09Jun2025 22:52:30.888] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3acd5535[id=<null>,name=Santiago,properties={},legacy=false] (/127.198.22.94:57567) lost connection: Disconnected
+[09Jun2025 22:52:51.448] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santiago[/127.198.22.94:53631] logged in with entity id 21978 at (-165.89877440086863, 50.14998983419152, -285.05709652667576)
+[09Jun2025 22:52:51.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago joined the game
+[09Jun2025 22:52:52.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported 4 entities to amoaminoviajulie]
+[09Jun2025 22:52:54.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
+[09Jun2025 22:53:04.837] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16392, l='ServerLevel[world]', x=-235.70, y=64.23, z=-316.01] died, message: 'Villager was slain by Zombie'
+[09Jun2025 22:53:41.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported 4 entities to amoaminoviajulie]
+[09Jun2025 22:53:45.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santiago was kicked for floating too long!
+[09Jun2025 22:53:45.535] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santiago lost connection: Flying is not enabled on this server
+[09Jun2025 22:53:45.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago left the game
+[09Jun2025 22:54:13.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported 3 entities to amoaminoviajulie]
+[09Jun2025 22:54:21.688] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4fa1a3dc[id=<null>,name=Santiago,properties={},legacy=false] (/127.198.22.94:50563) lost connection: Disconnected
+[09Jun2025 22:54:27.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
+[09Jun2025 22:54:29.949] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santiago[/127.198.22.94:46655] logged in with entity id 22948 at (-62.024184076789076, 94.99374849087997, -345.7405661711462)
+[09Jun2025 22:54:29.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago joined the game
+[09Jun2025 22:54:40.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 1184 block(s)]
+[09Jun2025 22:55:17.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
+[09Jun2025 22:55:23.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported 4 entities to amoaminoviajulie]
+[09Jun2025 22:55:54.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
+[09Jun2025 22:55:57.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
+[09Jun2025 22:56:26.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
+[09Jun2025 22:56:29.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
+[09Jun2025 22:56:34.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago was slain by ExterminadorAF
+[09Jun2025 22:56:34.522] [Server thread/INFO] [tombstone/]: The player Santiago has successfully been saved
+[09Jun2025 22:56:36.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
+[09Jun2025 22:56:44.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
+[09Jun2025 22:57:45.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 32 [Leather] to Rubiocraft123]
+[09Jun2025 22:57:50.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to amoaminoviajulie]
+[09Jun2025 22:57:56.442] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie lost connection: Disconnected
+[09Jun2025 22:57:56.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie left the game
+[09Jun2025 22:58:11.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago has made the advancement [Will it Come Back?]
+[09Jun2025 22:58:28.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago was slain by ExterminadorAF
+[09Jun2025 22:58:28.575] [Server thread/INFO] [tombstone/]: The player Santiago has successfully been saved
+[09Jun2025 22:58:46.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExterminadorAF has made the advancement [Funeral Theft]
+[09Jun2025 23:01:21.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 has made the advancement [Fisticuffs]
+[09Jun2025 23:04:34.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 has made the advancement [Take Aim, Chaps!]
+[09Jun2025 23:04:56.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExterminadorAF lost connection: Disconnected
+[09Jun2025 23:04:56.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExterminadorAF left the game
+[09Jun2025 23:07:21.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago has made the advancement [Ashes 'n Bones]
+[09Jun2025 23:10:20.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amoaminoviajulie[/127.168.201.233:51689] logged in with entity id 27396 at (-132.8179190724235, 65.0, -268.6736263526592)
+[09Jun2025 23:10:20.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie joined the game
+[09Jun2025 23:12:36.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Created new objective [tp_trigger]]
+[09Jun2025 23:13:15.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 has made the advancement [Sweet Dreams]
+[09Jun2025 23:13:21.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago has made the advancement [Sweet Dreams]
+[09Jun2025 23:13:53.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported amoaminoviajulie to Santiago]
+[09Jun2025 23:14:01.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago has made the advancement [Knowledge raises the soul]
+[09Jun2025 23:14:56.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
+[09Jun2025 23:15:05.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 1 [Command Block] to amoaminoviajulie]
