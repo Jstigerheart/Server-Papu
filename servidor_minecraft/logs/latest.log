@@ -484,3 +484,16 @@
 [09Jun2025 23:14:01.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago has made the advancement [Knowledge raises the soul]
 [09Jun2025 23:14:56.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
 [09Jun2025 23:15:05.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 1 [Command Block] to amoaminoviajulie]
+[09Jun2025 23:19:31.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
+[09Jun2025 23:20:09.186] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@122eb048[id=<null>,name=ExterminadorAF,properties={},legacy=false] (/127.144.252.200:43893) lost connection: Disconnected
+[09Jun2025 23:20:17.896] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ExterminadorAF[/127.144.252.200:52975] logged in with entity id 30259 at (-264.5684185713683, 63.0, -219.40911876543007)
+[09Jun2025 23:20:17.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExterminadorAF joined the game
+[09Jun2025 23:21:53.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 30 [Redstone Dust] to amoaminoviajulie]
+[09Jun2025 23:25:47.486] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-188, y=61, z=-234} BlockPos{x=-188, y=62, z=-234}
+[09Jun2025 23:25:47.488] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-188, y=61, z=-234} BlockPos{x=-188, y=62, z=-234}
+[09Jun2025 23:26:23.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie was kicked for floating too long!
+[09Jun2025 23:26:23.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie lost connection: Flying is not enabled on this server
+[09Jun2025 23:26:23.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie left the game
+[09Jun2025 23:26:58.199] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amoaminoviajulie[/127.168.201.233:33147] logged in with entity id 32696 at (-181.53021249675172, 64.00133597911214, -237.85793784895927)
+[09Jun2025 23:26:58.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie joined the game
+[09Jun2025 23:27:10.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rubiocraft123> t´p
