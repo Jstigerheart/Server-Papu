@@ -271,3 +271,10 @@
 [09Jun2025 17:40:51.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie joined the game
 [09Jun2025 17:42:13.658] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4536, l='ServerLevel[world]', x=-180.74, y=46.00, z=-309.70] died, message: 'Villager hit the ground too hard whilst trying to escape Zombie'
 [09Jun2025 17:42:47.558] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4525, l='ServerLevel[world]', x=-267.69, y=68.00, z=-347.30] died, message: 'Villager was slain by Zombie'
+[09Jun2025 17:47:24.758] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4606, l='ServerLevel[world]', x=-136.34, y=56.00, z=-278.46] died, message: 'Villager was slain by Zombie'
+[09Jun2025 17:49:42.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -230 62 -259
+[09Jun2025 17:50:09.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 3676 block(s)]
+[09Jun2025 17:50:14.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 1.6295203964227483,-10.154720359921214,0.915299913101876
+[09Jun2025 17:53:04.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 1.5485364778662927,0.1158313006027214,10.647479402876286
+[09Jun2025 17:53:13.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! -0.519040318102185,-2.8181688159839524,-10.444615769590513
+[09Jun2025 17:53:14.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 0.4002001400331494,-0.3174596485856398,-10.534733462629475
