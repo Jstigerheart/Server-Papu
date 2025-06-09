@@ -329,3 +329,7 @@
 [09Jun2025 20:01:57.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 1.787507361165325,-10.440534483009301,2.4003730353622927
 [09Jun2025 20:08:55.241] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/30772, l='ServerLevel[world]', x=-219.11, y=73.56, z=-262.51] died, message: 'Villager was slain by amoaminoviajulie'
 [09Jun2025 20:08:55.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie has made the advancement [Neighborhood Brawl]
+[09Jun2025 20:15:28.860] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19859, l='ServerLevel[world]', x=-267.70, y=71.00, z=-236.30] died, message: 'Villager was slain by Zombie'
+[09Jun2025 20:16:38.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! -0.2103379541321715,-10.33764139869757,1.948279655063942
+[09Jun2025 20:19:02.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie has made the advancement [Acquire Hardware]
+[09Jun2025 20:23:27.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
