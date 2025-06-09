@@ -1784,3 +1784,21 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09Jun2025 18:08:22.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09Jun2025 18:13:22.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jun2025 18:13:22.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 18:15:40.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -257 64 -259
+[09Jun2025 18:16:17.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 2581 block(s)]
+[09Jun2025 18:16:41.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 2600 block(s)]
+[09Jun2025 18:16:45.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 9.13019688797786,0.0,4.216170598212727
+[09Jun2025 18:16:56.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! -2.727618546574405,-9.924564668776895,-1.1032021255157929
+[09Jun2025 18:18:22.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 18:18:22.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 18:20:02.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -256 65 -260
+[09Jun2025 18:20:12.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 1.9391329735581166,-1.713744068098066,9.878379404592238
+[09Jun2025 18:21:01.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 132 block(s)]
+[09Jun2025 18:21:10.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! -0.301935812468912,-9.360720679804714,3.798679642846821
+[09Jun2025 18:21:15.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 0.7534246848659052,0.0,-10.605944103124045
+[09Jun2025 18:21:55.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -253 65 -285
+[09Jun2025 18:22:00.208] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4583, l='ServerLevel[world]', x=-287.45, y=77.00, z=-312.59] died, message: 'Villager was slain by Zombie'
+[09Jun2025 18:22:48.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 138 block(s)]
+[09Jun2025 18:23:09.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -228 65 -282
+[09Jun2025 18:23:22.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 18:23:22.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
