@@ -263,3 +263,11 @@
 [09Jun2025 17:31:47.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported amoaminoviajulie to -247.500000, 36.500000, -205.500000]
 [09Jun2025 17:31:56.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! -1.8916806112783604,10.125000402331132,-0.5145562829787309
 [09Jun2025 17:32:55.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
+[09Jun2025 17:38:21.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gamerule keepInventory is now set to: false]
+[09Jun2025 17:38:39.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Applied effect Night Vision to amoaminoviajulie]
+[09Jun2025 17:39:31.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie lost connection: Timed out
+[09Jun2025 17:39:31.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie left the game
+[09Jun2025 17:40:51.765] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amoaminoviajulie[/127.168.201.233:43879] logged in with entity id 4476 at (-235.3867665744809, 63.0, -243.98724493797175)
+[09Jun2025 17:40:51.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie joined the game
+[09Jun2025 17:42:13.658] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4536, l='ServerLevel[world]', x=-180.74, y=46.00, z=-309.70] died, message: 'Villager hit the ground too hard whilst trying to escape Zombie'
+[09Jun2025 17:42:47.558] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4525, l='ServerLevel[world]', x=-267.69, y=68.00, z=-347.30] died, message: 'Villager was slain by Zombie'
