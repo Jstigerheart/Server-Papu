@@ -318,3 +318,9 @@
 [09Jun2025 18:52:40.413] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amoaminoviajulie[/127.168.201.233:58317] logged in with entity id 19711 at (-251.05102962620686, 68.59690801558276, -281.74723656494814)
 [09Jun2025 18:52:40.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie joined the game
 [09Jun2025 19:20:29.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
+[09Jun2025 19:26:30.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! -8.85348370342183,4.848208030858665,-0.7037967230502318
+[09Jun2025 19:26:36.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 10.045143909505043,0.0,-3.1284163738598636
+[09Jun2025 19:27:28.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! -9.922741812393355,0.0,-3.7078878314266603
+[09Jun2025 19:31:14.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 10.097523075032711,0.0,-1.4047177538529922
+[09Jun2025 19:33:05.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 5.550043242485145,4.125000163877829,-8.302564687657423
+[09Jun2025 19:33:25.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 10.103594638973647,0.0,0.9876758541260529
