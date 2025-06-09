@@ -1,365 +1,130 @@
-[09Jun2025 17:02:57.207] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[09Jun2025 17:02:57.213] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[09Jun2025 17:02:57.487] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[09Jun2025 17:02:57.538] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server-Papu/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[09Jun2025 17:02:57.763] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[09Jun2025 17:02:57.766] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[09Jun2025 17:02:57.767] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[09Jun2025 17:02:57.769] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[09Jun2025 17:02:57.962] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[09Jun2025 17:02:59.916] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[09Jun2025 17:02:59.924] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[09Jun2025 17:03:00.989] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[09Jun2025 17:03:06.615] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[09Jun2025 17:03:06.619] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[09Jun2025 17:03:06.680] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[09Jun2025 17:03:06.680] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
-[09Jun2025 17:03:06.683] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
-[09Jun2025 17:03:07.513] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[09Jun2025 17:03:07.546] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[09Jun2025 17:03:07.548] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[09Jun2025 17:03:07.907] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[09Jun2025 17:03:08.240] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: AHEAD Current: 8.9.6 Target: null
-[09Jun2025 17:03:08.241] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[09Jun2025 17:03:08.445] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[09Jun2025 17:03:09.467] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[09Jun2025 17:03:10.261] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23113!/assets/.mcassetsroot' uses unexpected schema
-[09Jun2025 17:03:10.262] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23113!/data/.mcassetsroot' uses unexpected schema
-[09Jun2025 17:03:11.406] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
-[09Jun2025 17:03:11.879] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[09Jun2025 17:03:11.961] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[09Jun2025 17:03:11.971] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[09Jun2025 17:03:12.008] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[09Jun2025 17:03:12.009] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
-[09Jun2025 17:03:12.017] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[09Jun2025 17:03:12.017] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
-[09Jun2025 17:03:12.020] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
-[09Jun2025 17:03:12.020] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
-[09Jun2025 17:03:12.028] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
-[09Jun2025 17:03:12.029] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
-[09Jun2025 17:03:12.030] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/copper" Skipping...
-[09Jun2025 17:03:12.031] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:copper_nugget_from_smelting_copper_weapons as it's serializer returned null
-[09Jun2025 17:03:12.032] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[09Jun2025 17:03:12.032] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
-[09Jun2025 17:03:12.032] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
-[09Jun2025 17:03:12.033] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
-[09Jun2025 17:03:12.040] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
-[09Jun2025 17:03:12.041] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
-[09Jun2025 17:03:12.042] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
-[09Jun2025 17:03:12.042] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_blasting_steel_weapons as it's serializer returned null
-[09Jun2025 17:03:12.044] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[09Jun2025 17:03:12.044] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
-[09Jun2025 17:03:12.045] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[09Jun2025 17:03:12.045] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
-[09Jun2025 17:03:12.052] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[09Jun2025 17:03:12.053] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
-[09Jun2025 17:03:12.053] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[09Jun2025 17:03:12.053] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
-[09Jun2025 17:03:12.059] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[09Jun2025 17:03:12.059] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
-[09Jun2025 17:03:12.061] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
-[09Jun2025 17:03:12.061] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
-[09Jun2025 17:03:12.064] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[09Jun2025 17:03:12.064] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
-[09Jun2025 17:03:12.070] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
-[09Jun2025 17:03:12.070] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_smelting_steel_weapons as it's serializer returned null
-[09Jun2025 17:03:12.073] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
-[09Jun2025 17:03:12.073] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
-[09Jun2025 17:03:12.075] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/silver" Skipping...
-[09Jun2025 17:03:12.075] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:silver_nugget_from_smelting_silver_weapons as it's serializer returned null
-[09Jun2025 17:03:12.077] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[09Jun2025 17:03:12.077] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
-[09Jun2025 17:03:12.077] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/silver" Skipping...
-[09Jun2025 17:03:12.077] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:silver_nugget_from_blasting_silver_weapons as it's serializer returned null
-[09Jun2025 17:03:12.079] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/copper" Skipping...
-[09Jun2025 17:03:12.079] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:copper_nugget_from_blasting_copper_weapons as it's serializer returned null
-[09Jun2025 17:03:12.079] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[09Jun2025 17:03:12.080] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
-[09Jun2025 17:03:12.080] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[09Jun2025 17:03:12.080] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
-[09Jun2025 17:03:12.085] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[09Jun2025 17:03:12.221] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1963 advancements
-[09Jun2025 17:03:12.755] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 5.091327ms
-[09Jun2025 17:03:12.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[09Jun2025 17:03:12.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[09Jun2025 17:03:12.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[09Jun2025 17:03:12.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[09Jun2025 17:03:12.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[09Jun2025 17:03:13.012] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[09Jun2025 17:03:13.096] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[09Jun2025 17:03:13.097] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[09Jun2025 17:03:13.097] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[09Jun2025 17:03:13.097] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[09Jun2025 17:03:13.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[09Jun2025 17:03:16.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[09Jun2025 17:03:21.359] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jun2025 17:03:21.372] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jun2025 17:03:21.373] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jun2025 17:03:21.374] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jun2025 17:03:21.375] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jun2025 17:03:21.376] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jun2025 17:03:21.378] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jun2025 17:03:21.379] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jun2025 17:03:21.381] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jun2025 17:03:21.384] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jun2025 17:03:21.384] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jun2025 17:03:21.694] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[09Jun2025 17:03:22.194] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 59%
-[09Jun2025 17:03:22.470] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6276 ms
-[09Jun2025 17:03:22.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.358s)! For help, type "help"
-[09Jun2025 17:03:22.499] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[09Jun2025 17:03:46.881] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amoaminoviajulie[/127.168.201.233:33293] logged in with entity id 162 at (-70.19023416800387, 58.000175843323966, -223.03197024351385)
-[09Jun2025 17:03:46.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie joined the game
-[09Jun2025 17:06:17.206] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie lost connection: Timed out
-[09Jun2025 17:06:17.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie left the game
-[09Jun2025 17:09:01.923] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amoaminoviajulie[/127.168.201.233:44917] logged in with entity id 270 at (-113.6200014000152, 68.48849255038999, -226.6785624699815)
-[09Jun2025 17:09:01.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie joined the game
-[09Jun2025 17:09:46.281] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:09:46.283] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:11:53.349] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:fortress took 0 ms
-[09Jun2025 17:12:12.520] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:14.131] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:14.131] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:14.132] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:37.671] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:37.677] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:45.394] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:45.395] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:47.178] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:50.617] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:50.617] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:50.618] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:50.618] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:50.619] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:50.620] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:50.620] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:50.665] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:50.666] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:50.667] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:50.667] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:50.667] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:50.668] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:50.668] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:50.669] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:50.670] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:52.500] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:52.500] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:52.501] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:52.503] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:52.504] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:52.504] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:52.505] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:52.522] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:12:52.522] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:10.797] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:10.798] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:10.798] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:12.916] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:12.917] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:13.972] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:13.972] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:13.973] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:13.973] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:13.979] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:13.979] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:13.980] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:13.981] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:13.981] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:13.982] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:13.982] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:13.983] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:13.983] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:13.984] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:13.985] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:13.985] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:13.986] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:13.998] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:13.999] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:13.999] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:13.999] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:15.624] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:15.625] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:15.626] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:15.627] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:15.660] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:15.661] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:15.662] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:15.991] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:16.012] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:16.013] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:21.936] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:21.937] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:21.937] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:21.938] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:21.938] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:22.201] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:24.843] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:25.098] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:28.976] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:28.977] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:28.981] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:29.015] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:29.015] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:29.178] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:29.179] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:29.182] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:29.182] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:29.182] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:29.183] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:29.183] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:29.183] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:29.184] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:29.200] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:29.349] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:29.352] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:30.787] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:30.788] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:30.980] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:30.981] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:30.981] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:30.981] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:30.982] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:30.982] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:30.983] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:30.983] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:31.069] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:31.070] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:31.070] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:31.090] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:31.091] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:32.693] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:13:32.717] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[09Jun2025 17:16:02.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie lost connection: Timed out
-[09Jun2025 17:16:02.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie left the game
-[09Jun2025 17:16:41.170] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amoaminoviajulie[/127.168.201.233:59881] logged in with entity id 1060 at (-506.5355874821861, 17.496900693976492, 334.6209556155464)
-[09Jun2025 17:16:41.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie joined the game
-[09Jun2025 17:17:29.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported amoaminoviajulie to -775.500000, 60.000000, 518.500000]
-[09Jun2025 17:17:30.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie has completed the challenge [Hot Tourist Destinations]
-[09Jun2025 17:17:39.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! -8.660920268484688,-3.7499660797817,-4.522778043229209
-[09Jun2025 17:18:14.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -516 345
-[09Jun2025 17:18:33.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported amoaminoviajulie to -935.500000, 60.000000, 714.500000]
-[09Jun2025 17:19:00.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
-[09Jun2025 17:19:21.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
-[09Jun2025 17:20:51.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported amoaminoviajulie to -775.500000, 60.000000, 518.500000]
-[09Jun2025 17:21:32.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
-[09Jun2025 17:23:54.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
-[09Jun2025 17:24:19.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Applied effect Health Boost to amoaminoviajulie]
-[09Jun2025 17:24:33.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Applied effect Instant Health to amoaminoviajulie]
-[09Jun2025 17:24:34.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
-[09Jun2025 17:24:55.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
-[09Jun2025 17:25:50.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Applied effect Regeneration to amoaminoviajulie]
-[09Jun2025 17:25:51.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
-[09Jun2025 17:26:08.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
-[09Jun2025 17:26:18.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Applied effect Fire Resistance to amoaminoviajulie]
-[09Jun2025 17:26:22.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
-[09Jun2025 17:27:20.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
-[09Jun2025 17:28:57.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie lost connection: Timed out
-[09Jun2025 17:28:57.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie left the game
-[09Jun2025 17:30:45.864] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amoaminoviajulie[/127.168.201.233:37719] logged in with entity id 2356 at (-767.1051017440127, 63.24566749005596, 534.5684713493381)
-[09Jun2025 17:30:45.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie joined the game
-[09Jun2025 17:31:18.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gamerule keepInventory is now set to: true]
-[09Jun2025 17:31:20.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie was killed
-[09Jun2025 17:31:20.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Killed amoaminoviajulie]
-[09Jun2025 17:31:47.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported amoaminoviajulie to -247.500000, 36.500000, -205.500000]
-[09Jun2025 17:31:56.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! -1.8916806112783604,10.125000402331132,-0.5145562829787309
-[09Jun2025 17:32:55.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
-[09Jun2025 17:38:21.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gamerule keepInventory is now set to: false]
-[09Jun2025 17:38:39.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Applied effect Night Vision to amoaminoviajulie]
-[09Jun2025 17:39:31.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie lost connection: Timed out
-[09Jun2025 17:39:31.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie left the game
-[09Jun2025 17:40:51.765] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amoaminoviajulie[/127.168.201.233:43879] logged in with entity id 4476 at (-235.3867665744809, 63.0, -243.98724493797175)
-[09Jun2025 17:40:51.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie joined the game
-[09Jun2025 17:42:13.658] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4536, l='ServerLevel[world]', x=-180.74, y=46.00, z=-309.70] died, message: 'Villager hit the ground too hard whilst trying to escape Zombie'
-[09Jun2025 17:42:47.558] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4525, l='ServerLevel[world]', x=-267.69, y=68.00, z=-347.30] died, message: 'Villager was slain by Zombie'
-[09Jun2025 17:47:24.758] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4606, l='ServerLevel[world]', x=-136.34, y=56.00, z=-278.46] died, message: 'Villager was slain by Zombie'
-[09Jun2025 17:49:42.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -230 62 -259
-[09Jun2025 17:50:09.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 3676 block(s)]
-[09Jun2025 17:50:14.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 1.6295203964227483,-10.154720359921214,0.915299913101876
-[09Jun2025 17:53:04.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 1.5485364778662927,0.1158313006027214,10.647479402876286
-[09Jun2025 17:53:13.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! -0.519040318102185,-2.8181688159839524,-10.444615769590513
-[09Jun2025 17:53:14.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 0.4002001400331494,-0.3174596485856398,-10.534733462629475
-[09Jun2025 17:54:41.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! -10.07715884195369,-1.713744068098066,0.38598320073725745
-[09Jun2025 18:15:40.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -257 64 -259
-[09Jun2025 18:16:17.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 2581 block(s)]
-[09Jun2025 18:16:41.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 2600 block(s)]
-[09Jun2025 18:16:45.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 9.13019688797786,0.0,4.216170598212727
-[09Jun2025 18:16:56.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! -2.727618546574405,-9.924564668776895,-1.1032021255157929
-[09Jun2025 18:20:02.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -256 65 -260
-[09Jun2025 18:20:12.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 1.9391329735581166,-1.713744068098066,9.878379404592238
-[09Jun2025 18:21:01.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 132 block(s)]
-[09Jun2025 18:21:10.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! -0.301935812468912,-9.360720679804714,3.798679642846821
-[09Jun2025 18:21:15.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 0.7534246848659052,0.0,-10.605944103124045
-[09Jun2025 18:21:55.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -253 65 -285
-[09Jun2025 18:22:00.208] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4583, l='ServerLevel[world]', x=-287.45, y=77.00, z=-312.59] died, message: 'Villager was slain by Zombie'
-[09Jun2025 18:22:48.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 138 block(s)]
-[09Jun2025 18:23:09.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -228 65 -282
-[09Jun2025 18:23:50.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 138 block(s)]
-[09Jun2025 18:24:12.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -231 65 -257
-[09Jun2025 18:24:50.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 161 block(s)]
-[09Jun2025 18:27:09.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -263 66 -260
-[09Jun2025 18:27:12.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 3.660502118984084,4.2540433022972906,-8.739360206978347
-[09Jun2025 18:28:53.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 138 block(s)]
-[09Jun2025 18:29:55.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -268 64 -294
-[09Jun2025 18:30:20.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 4715 block(s)]
-[09Jun2025 18:31:00.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -253 66 -292
-[09Jun2025 18:31:38.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 138 block(s)]
-[09Jun2025 18:32:48.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -216 66 -282
-[09Jun2025 18:33:18.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 138 block(s)]
-[09Jun2025 18:34:20.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -253 66 -244
-[09Jun2025 18:35:06.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 138 block(s)]
-[09Jun2025 18:35:46.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
-[09Jun2025 18:36:32.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
-[09Jun2025 18:38:39.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -269 64 -249
-[09Jun2025 18:39:14.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 5377 block(s)]
-[09Jun2025 18:47:54.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 3.0227030398607724,3.706524626337867,8.851653144013255
-[09Jun2025 18:48:06.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
-[09Jun2025 18:50:57.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie lost connection: Timed out
-[09Jun2025 18:50:57.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie left the game
-[09Jun2025 18:52:40.413] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amoaminoviajulie[/127.168.201.233:58317] logged in with entity id 19711 at (-251.05102962620686, 68.59690801558276, -281.74723656494814)
-[09Jun2025 18:52:40.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie joined the game
-[09Jun2025 19:20:29.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
-[09Jun2025 19:26:30.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! -8.85348370342183,4.848208030858665,-0.7037967230502318
-[09Jun2025 19:26:36.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 10.045143909505043,0.0,-3.1284163738598636
-[09Jun2025 19:27:28.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! -9.922741812393355,0.0,-3.7078878314266603
-[09Jun2025 19:31:14.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 10.097523075032711,0.0,-1.4047177538529922
-[09Jun2025 19:33:05.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 5.550043242485145,4.125000163877829,-8.302564687657423
-[09Jun2025 19:33:25.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 10.103594638973647,0.0,0.9876758541260529
-[09Jun2025 19:45:30.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie has made the advancement [Sweet Dreams]
-[09Jun2025 19:51:28.005] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19819, l='ServerLevel[world]', x=-242.29, y=48.99, z=-271.29] died, message: 'Villager tried to swim in lava'
-[09Jun2025 20:01:57.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 1.787507361165325,-10.440534483009301,2.4003730353622927
-[09Jun2025 20:08:55.241] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/30772, l='ServerLevel[world]', x=-219.11, y=73.56, z=-262.51] died, message: 'Villager was slain by amoaminoviajulie'
-[09Jun2025 20:08:55.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie has made the advancement [Neighborhood Brawl]
-[09Jun2025 20:15:28.860] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19859, l='ServerLevel[world]', x=-267.70, y=71.00, z=-236.30] died, message: 'Villager was slain by Zombie'
-[09Jun2025 20:16:38.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! -0.2103379541321715,-10.33764139869757,1.948279655063942
-[09Jun2025 20:19:02.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie has made the advancement [Acquire Hardware]
-[09Jun2025 20:23:27.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
-[09Jun2025 20:25:33.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
-[09Jun2025 20:28:14.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
-[09Jun2025 20:30:42.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 1 [Yellow Bed] to amoaminoviajulie]
-[09Jun2025 20:31:40.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 1 [Shield] to amoaminoviajulie]
-[09Jun2025 20:31:56.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
-[09Jun2025 20:35:05.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
-[09Jun2025 20:35:51.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 50 experience points to amoaminoviajulie]
-[09Jun2025 20:36:08.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 30 experience levels to amoaminoviajulie]
-[09Jun2025 20:37:19.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie lost connection: Timed out
-[09Jun2025 20:37:19.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie left the game
-[09Jun2025 20:42:42.961] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amoaminoviajulie[/127.168.201.233:53409] logged in with entity id 39264 at (-242.58858883004046, 64.0, -234.50838159643806)
-[09Jun2025 20:42:42.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie joined the game
-[09Jun2025 20:47:53.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie has made the advancement [A Seedy Place]
-[09Jun2025 20:52:49.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
-[09Jun2025 20:52:54.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
-[09Jun2025 20:53:03.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
-[09Jun2025 20:53:06.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
-[09Jun2025 20:58:19.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie lost connection: Disconnected
-[09Jun2025 20:58:19.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie left the game
-[09Jun2025 20:59:44.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[09Jun2025 20:59:44.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[09Jun2025 20:59:44.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[09Jun2025 20:59:44.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[09Jun2025 20:59:44.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[09Jun2025 20:59:45.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[09Jun2025 20:59:45.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[09Jun2025 20:59:45.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09Jun2025 20:59:45.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09Jun2025 20:59:45.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09Jun2025 20:59:45.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09Jun2025 21:56:58.451] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[09Jun2025 21:56:58.455] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[09Jun2025 21:56:58.731] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[09Jun2025 21:56:58.784] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server-Papu/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[09Jun2025 21:56:59.000] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[09Jun2025 21:56:59.003] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[09Jun2025 21:56:59.004] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[09Jun2025 21:56:59.006] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[09Jun2025 21:56:59.158] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[09Jun2025 21:57:00.923] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[09Jun2025 21:57:00.931] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[09Jun2025 21:57:01.999] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[09Jun2025 21:57:07.575] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[09Jun2025 21:57:07.578] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[09Jun2025 21:57:07.648] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[09Jun2025 21:57:07.649] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
+[09Jun2025 21:57:07.652] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
+[09Jun2025 21:57:08.419] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[09Jun2025 21:57:08.455] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[09Jun2025 21:57:08.458] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[09Jun2025 21:57:08.643] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[09Jun2025 21:57:08.885] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: AHEAD Current: 8.9.6 Target: null
+[09Jun2025 21:57:08.886] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[09Jun2025 21:57:09.188] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[09Jun2025 21:57:09.815] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09Jun2025 21:57:10.504] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23113!/assets/.mcassetsroot' uses unexpected schema
+[09Jun2025 21:57:10.504] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23113!/data/.mcassetsroot' uses unexpected schema
+[09Jun2025 21:57:11.539] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[09Jun2025 21:57:12.179] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[09Jun2025 21:57:12.250] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[09Jun2025 21:57:12.259] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[09Jun2025 21:57:12.295] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[09Jun2025 21:57:12.295] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
+[09Jun2025 21:57:12.302] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[09Jun2025 21:57:12.303] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
+[09Jun2025 21:57:12.307] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[09Jun2025 21:57:12.307] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
+[09Jun2025 21:57:12.318] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[09Jun2025 21:57:12.318] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
+[09Jun2025 21:57:12.319] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/copper" Skipping...
+[09Jun2025 21:57:12.320] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:copper_nugget_from_smelting_copper_weapons as it's serializer returned null
+[09Jun2025 21:57:12.321] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[09Jun2025 21:57:12.322] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
+[09Jun2025 21:57:12.323] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[09Jun2025 21:57:12.324] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
+[09Jun2025 21:57:12.334] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[09Jun2025 21:57:12.335] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
+[09Jun2025 21:57:12.338] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[09Jun2025 21:57:12.339] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_blasting_steel_weapons as it's serializer returned null
+[09Jun2025 21:57:12.342] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[09Jun2025 21:57:12.343] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
+[09Jun2025 21:57:12.344] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[09Jun2025 21:57:12.345] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
+[09Jun2025 21:57:12.357] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[09Jun2025 21:57:12.357] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
+[09Jun2025 21:57:12.358] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[09Jun2025 21:57:12.358] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
+[09Jun2025 21:57:12.363] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[09Jun2025 21:57:12.363] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
+[09Jun2025 21:57:12.365] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[09Jun2025 21:57:12.365] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
+[09Jun2025 21:57:12.367] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[09Jun2025 21:57:12.367] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
+[09Jun2025 21:57:12.374] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[09Jun2025 21:57:12.375] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_smelting_steel_weapons as it's serializer returned null
+[09Jun2025 21:57:12.381] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[09Jun2025 21:57:12.382] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
+[09Jun2025 21:57:12.385] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/silver" Skipping...
+[09Jun2025 21:57:12.386] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:silver_nugget_from_smelting_silver_weapons as it's serializer returned null
+[09Jun2025 21:57:12.389] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[09Jun2025 21:57:12.389] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
+[09Jun2025 21:57:12.390] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/silver" Skipping...
+[09Jun2025 21:57:12.390] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:silver_nugget_from_blasting_silver_weapons as it's serializer returned null
+[09Jun2025 21:57:12.392] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/copper" Skipping...
+[09Jun2025 21:57:12.393] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:copper_nugget_from_blasting_copper_weapons as it's serializer returned null
+[09Jun2025 21:57:12.394] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[09Jun2025 21:57:12.395] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
+[09Jun2025 21:57:12.396] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[09Jun2025 21:57:12.397] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
+[09Jun2025 21:57:12.403] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[09Jun2025 21:57:12.530] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1963 advancements
+[09Jun2025 21:57:13.003] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 5.010381ms
+[09Jun2025 21:57:13.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[09Jun2025 21:57:13.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[09Jun2025 21:57:13.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[09Jun2025 21:57:13.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[09Jun2025 21:57:13.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[09Jun2025 21:57:13.353] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[09Jun2025 21:57:13.435] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09Jun2025 21:57:13.435] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[09Jun2025 21:57:13.435] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09Jun2025 21:57:13.435] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[09Jun2025 21:57:13.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[09Jun2025 21:57:16.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[09Jun2025 21:57:21.374] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jun2025 21:57:21.388] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jun2025 21:57:21.394] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jun2025 21:57:21.398] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jun2025 21:57:21.405] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jun2025 21:57:21.407] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jun2025 21:57:21.410] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jun2025 21:57:21.416] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jun2025 21:57:21.417] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jun2025 21:57:21.426] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jun2025 21:57:21.548] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jun2025 21:57:22.047] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[09Jun2025 21:57:22.548] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 99%
+[09Jun2025 21:57:22.550] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6003 ms
+[09Jun2025 21:57:22.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.100s)! For help, type "help"
+[09Jun2025 21:57:22.575] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[09Jun2025 21:58:57.024] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rubiocraft123[/127.51.61.162:55739] logged in with entity id 161 at (-245.58583712643818, 37.0, -206.6551555246147)
+[09Jun2025 21:58:57.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 joined the game
+[09Jun2025 21:59:27.757] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amoaminoviajulie[/127.168.201.233:37293] logged in with entity id 612 at (-244.4619112454258, 37.0, -202.54869496289092)
+[09Jun2025 21:59:27.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie joined the game
+[09Jun2025 22:01:26.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Rubiocraft123 to amoaminoviajulie]
+[09Jun2025 22:04:33.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Rubiocraft123 to amoaminoviajulie]
+[09Jun2025 22:05:58.585] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [tombstone:tombstone_channel,spartanweaponry:network,backpackes:backpackes] rejected vanilla connections
+[09Jun2025 22:05:58.585] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.144.252.200:33819] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[09Jun2025 22:06:16.363] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [tombstone:tombstone_channel,spartanweaponry:network,backpackes:backpackes] rejected vanilla connections
+[09Jun2025 22:06:16.364] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.144.252.200:50091] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[09Jun2025 22:06:18.692] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [tombstone:tombstone_channel,spartanweaponry:network,backpackes:backpackes] rejected vanilla connections
+[09Jun2025 22:06:18.693] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.144.252.200:46633] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[09Jun2025 22:06:20.554] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [tombstone:tombstone_channel,spartanweaponry:network,backpackes:backpackes] rejected vanilla connections
+[09Jun2025 22:06:20.555] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.144.252.200:41971] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[09Jun2025 22:06:21.553] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [tombstone:tombstone_channel,spartanweaponry:network,backpackes:backpackes] rejected vanilla connections
+[09Jun2025 22:06:21.553] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.144.252.200:36579] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[09Jun2025 22:06:34.779] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [tombstone:tombstone_channel,spartanweaponry:network,backpackes:backpackes] rejected vanilla connections
+[09Jun2025 22:06:34.780] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.144.252.200:42363] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[09Jun2025 22:06:36.649] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [tombstone:tombstone_channel,spartanweaponry:network,backpackes:backpackes] rejected vanilla connections
+[09Jun2025 22:06:36.650] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.144.252.200:36515] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
