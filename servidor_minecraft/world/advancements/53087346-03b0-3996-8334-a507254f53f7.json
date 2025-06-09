@@ -2005,6 +2005,36 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-09 19:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-06-09 19:56:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-06-09 19:59:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-06-09 19:59:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-06-09 20:08:55 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_javelin": {
     "criteria": {
       "has_iron_ingot": "2025-06-09 20:19:02 +0000"
@@ -2014,12 +2044,6 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-06-09 20:19:02 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/neighborhood_brawl": {
-    "criteria": {
-      "coded_trigger": "2025-06-09 20:08:55 +0000"
     },
     "done": true
   },
@@ -2107,21 +2131,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/orange_dye_from_torchflower": {
-    "criteria": {
-      "has_torchflower": "2025-06-09 19:56:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-06-09 20:19:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-06-09 19:45:30 +0000"
     },
     "done": true
   },
@@ -2173,12 +2185,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-06-09 19:59:16 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/iron_rapier": {
     "criteria": {
       "has_iron_ingot": "2025-06-09 20:19:02 +0000"
@@ -2194,12 +2200,6 @@
   "spartanweaponry:recipes/iron_lance": {
     "criteria": {
       "has_iron_ingot": "2025-06-09 20:19:02 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/explosive_charge": {
-    "criteria": {
-      "has_gunpowder": "2025-06-09 20:19:30 +0000"
     },
     "done": true
   },
@@ -2251,12 +2251,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2025-06-09 20:29:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-06-09 20:19:02 +0000"
@@ -2278,12 +2272,6 @@
   "spartanweaponry:recipes/iron_greatsword": {
     "criteria": {
       "has_iron_ingot": "2025-06-09 20:19:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-06-09 19:59:16 +0000"
     },
     "done": true
   },
@@ -2329,6 +2317,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-09 20:19:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-09 20:19:02 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-06-09 20:19:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-06-09 20:19:30 +0000"
@@ -2341,15 +2347,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/iron_door": {
+  "minecraft:recipes/misc/black_dye": {
     "criteria": {
-      "has_iron_ingot": "2025-06-09 20:19:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
-    "criteria": {
-      "has_iron_ingot": "2025-06-09 20:19:02 +0000"
+      "has_ink_sac": "2025-06-09 20:29:33 +0000"
     },
     "done": true
   },

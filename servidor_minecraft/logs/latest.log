@@ -338,3 +338,10 @@
 [09Jun2025 20:30:42.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 1 [Yellow Bed] to amoaminoviajulie]
 [09Jun2025 20:31:40.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 1 [Shield] to amoaminoviajulie]
 [09Jun2025 20:31:56.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
+[09Jun2025 20:35:05.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
+[09Jun2025 20:35:51.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 50 experience points to amoaminoviajulie]
+[09Jun2025 20:36:08.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 30 experience levels to amoaminoviajulie]
+[09Jun2025 20:37:19.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie lost connection: Timed out
+[09Jun2025 20:37:19.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie left the game
+[09Jun2025 20:42:42.961] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amoaminoviajulie[/127.168.201.233:53409] logged in with entity id 39264 at (-242.58858883004046, 64.0, -234.50838159643806)
+[09Jun2025 20:42:42.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie joined the game
