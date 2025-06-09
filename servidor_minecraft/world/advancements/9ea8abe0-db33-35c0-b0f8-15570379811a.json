@@ -2191,9 +2191,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
+  "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
-      "has_gravel": "2025-06-08 23:15:29 +0000"
+      "has_soul_sand": "2025-06-08 23:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-06-08 23:05:45 +0000"
     },
     "done": true
   },
@@ -2209,9 +2215,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_torch": {
+  "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
-      "has_soul_sand": "2025-06-08 23:05:45 +0000"
+      "has_gravel": "2025-06-08 23:15:29 +0000"
     },
     "done": true
   },
@@ -2224,12 +2230,6 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-06-08 23:20:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-06-08 23:05:45 +0000"
     },
     "done": true
   },

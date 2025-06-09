@@ -128,3 +128,164 @@
 [09Jun2025 22:06:34.780] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.144.252.200:42363] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
 [09Jun2025 22:06:36.649] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [tombstone:tombstone_channel,spartanweaponry:network,backpackes:backpackes] rejected vanilla connections
 [09Jun2025 22:06:36.650] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.144.252.200:36515] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[09Jun2025 22:07:54.237] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json: Don't know what spartanweaponry:longsword_diamond is
+[09Jun2025 22:07:54.237] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json: Don't know what spartanweaponry:material is
+[09Jun2025 22:07:54.238] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json: Don't know what ironbackpacks:backpack is
+[09Jun2025 22:07:54.238] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json: Don't know what ironbackpacks:upgrade is
+[09Jun2025 22:07:54.238] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json: Don't know what ironbackpacks:backpack is
+[09Jun2025 22:07:54.238] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json: Don't know what srparasites:lurecomponent1 is
+[09Jun2025 22:07:54.239] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json: Don't know what srparasites:lurecomponent2 is
+[09Jun2025 22:07:54.239] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json: Don't know what srparasites:assimilated_flesh is
+[09Jun2025 22:07:54.239] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json: Don't know what ironbackpacks:backpack is
+[09Jun2025 22:07:54.239] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json: Don't know what tombstone:crafting_ingredient is
+[09Jun2025 22:07:54.240] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json: Don't know what spartanweaponry:longsword_diamond is
+[09Jun2025 22:07:54.283] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:tutorial/root' in progress file ./world/advancements/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json - it doesn't exist anymore?
+[09Jun2025 22:07:54.283] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:tutorial/cancel_ghostly_shape' in progress file ./world/advancements/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json - it doesn't exist anymore?
+[09Jun2025 22:07:54.284] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:tutorial/first_knowledge' in progress file ./world/advancements/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json - it doesn't exist anymore?
+[09Jun2025 22:07:54.284] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:tutorial/first_grave' in progress file ./world/advancements/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json - it doesn't exist anymore?
+[09Jun2025 22:07:54.284] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:tutorial/chain_death' in progress file ./world/advancements/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json - it doesn't exist anymore?
+[09Jun2025 22:07:54.284] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/decorations/sign' in progress file ./world/advancements/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json - it doesn't exist anymore?
+[09Jun2025 22:07:54.285] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/light_gray_wool' in progress file ./world/advancements/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json - it doesn't exist anymore?
+[09Jun2025 22:07:54.285] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/gray_wool' in progress file ./world/advancements/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json - it doesn't exist anymore?
+[09Jun2025 22:07:54.285] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/cyan_wool' in progress file ./world/advancements/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json - it doesn't exist anymore?
+[09Jun2025 22:07:54.285] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/orange_wool' in progress file ./world/advancements/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json - it doesn't exist anymore?
+[09Jun2025 22:07:54.286] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/light_blue_wool' in progress file ./world/advancements/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json - it doesn't exist anymore?
+[09Jun2025 22:07:54.286] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/blue_wool' in progress file ./world/advancements/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json - it doesn't exist anymore?
+[09Jun2025 22:07:54.286] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/brown_wool' in progress file ./world/advancements/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json - it doesn't exist anymore?
+[09Jun2025 22:07:54.286] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/green_wool' in progress file ./world/advancements/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json - it doesn't exist anymore?
+[09Jun2025 22:07:54.286] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/pink_wool' in progress file ./world/advancements/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json - it doesn't exist anymore?
+[09Jun2025 22:07:54.287] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/purple_wool' in progress file ./world/advancements/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json - it doesn't exist anymore?
+[09Jun2025 22:07:54.287] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/red_wool' in progress file ./world/advancements/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json - it doesn't exist anymore?
+[09Jun2025 22:07:54.287] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/magenta_wool' in progress file ./world/advancements/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json - it doesn't exist anymore?
+[09Jun2025 22:07:54.287] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/black_wool' in progress file ./world/advancements/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json - it doesn't exist anymore?
+[09Jun2025 22:07:54.287] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/yellow_wool' in progress file ./world/advancements/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json - it doesn't exist anymore?
+[09Jun2025 22:07:54.288] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/building_blocks/lime_wool' in progress file ./world/advancements/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json - it doesn't exist anymore?
+[09Jun2025 22:07:54.288] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:tutorial/find_grave_dust' in progress file ./world/advancements/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json - it doesn't exist anymore?
+[09Jun2025 22:07:54.289] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:tutorial/ashes_and_bones' in progress file ./world/advancements/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json - it doesn't exist anymore?
+[09Jun2025 22:07:54.289] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal' in progress file ./world/advancements/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json - it doesn't exist anymore?
+[09Jun2025 22:07:54.289] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/misc/magenta_dye_from_lapis_red_pink' in progress file ./world/advancements/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json - it doesn't exist anymore?
+[09Jun2025 22:07:54.289] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal' in progress file ./world/advancements/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json - it doesn't exist anymore?
+[09Jun2025 22:07:54.289] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:tutorial/bone_crusher' in progress file ./world/advancements/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json - it doesn't exist anymore?
+[09Jun2025 22:07:54.290] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:tutorial/mutual_aid' in progress file ./world/advancements/4dcef5f5-56a9-320b-a8d7-3f84d669c966.json - it doesn't exist anymore?
+[09Jun2025 22:07:55.102] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[09Jun2025 22:07:55.104] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'generic.reachDistance'
+[09Jun2025 22:07:55.104] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:yellow_wool removed now.
+[09Jun2025 22:07:55.105] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:sign removed now.
+[09Jun2025 22:07:55.105] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:red_wool removed now.
+[09Jun2025 22:07:55.105] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:purple_wool removed now.
+[09Jun2025 22:07:55.105] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:pink_wool removed now.
+[09Jun2025 22:07:55.106] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:orange_wool removed now.
+[09Jun2025 22:07:55.106] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:magenta_wool removed now.
+[09Jun2025 22:07:55.106] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:magenta_dye_from_lapis_red_pink removed now.
+[09Jun2025 22:07:55.106] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:magenta_dye_from_lapis_ink_bonemeal removed now.
+[09Jun2025 22:07:55.106] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:lime_wool removed now.
+[09Jun2025 22:07:55.107] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:light_gray_wool removed now.
+[09Jun2025 22:07:55.107] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:light_blue_wool removed now.
+[09Jun2025 22:07:55.107] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:light_blue_dye_from_lapis_bonemeal removed now.
+[09Jun2025 22:07:55.107] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:green_wool removed now.
+[09Jun2025 22:07:55.108] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:gray_wool removed now.
+[09Jun2025 22:07:55.108] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:cyan_wool removed now.
+[09Jun2025 22:07:55.108] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:brown_wool removed now.
+[09Jun2025 22:07:55.109] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:blue_wool removed now.
+[09Jun2025 22:07:55.109] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:black_wool removed now.
+[09Jun2025 22:07:55.109] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: spartanweaponry:longsword_diamond removed now.
+[09Jun2025 22:07:55.109] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: spartanweaponry:handle_wool removed now.
+[09Jun2025 22:07:55.110] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tombstone:dust_of_vanishing removed now.
+[09Jun2025 22:07:55.110] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: ironbackpacks:pack_basic removed now.
+[09Jun2025 22:07:55.110] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: ironbackpacks:pack_iron_storage removed now.
+[09Jun2025 22:07:55.110] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: ironbackpacks:pack_iron_upgrade removed now.
+[09Jun2025 22:07:55.110] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: ironbackpacks:pack_gold_storage removed now.
+[09Jun2025 22:07:55.110] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: ironbackpacks:upgrade_blank removed now.
+[09Jun2025 22:07:55.111] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:yellow_wool removed now.
+[09Jun2025 22:07:55.111] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:sign removed now.
+[09Jun2025 22:07:55.111] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:red_wool removed now.
+[09Jun2025 22:07:55.111] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:purple_wool removed now.
+[09Jun2025 22:07:55.111] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:pink_wool removed now.
+[09Jun2025 22:07:55.112] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:orange_wool removed now.
+[09Jun2025 22:07:55.112] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:magenta_wool removed now.
+[09Jun2025 22:07:55.112] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:magenta_dye_from_lapis_red_pink removed now.
+[09Jun2025 22:07:55.112] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:magenta_dye_from_lapis_ink_bonemeal removed now.
+[09Jun2025 22:07:55.112] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:lime_wool removed now.
+[09Jun2025 22:07:55.112] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:light_gray_wool removed now.
+[09Jun2025 22:07:55.113] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:light_blue_wool removed now.
+[09Jun2025 22:07:55.113] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:light_blue_dye_from_lapis_bonemeal removed now.
+[09Jun2025 22:07:55.113] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:green_wool removed now.
+[09Jun2025 22:07:55.113] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:gray_wool removed now.
+[09Jun2025 22:07:55.114] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:cyan_wool removed now.
+[09Jun2025 22:07:55.114] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:brown_wool removed now.
+[09Jun2025 22:07:55.114] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:blue_wool removed now.
+[09Jun2025 22:07:55.114] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: minecraft:black_wool removed now.
+[09Jun2025 22:07:55.114] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: spartanweaponry:longsword_diamond removed now.
+[09Jun2025 22:07:55.114] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: spartanweaponry:handle_wool removed now.
+[09Jun2025 22:07:55.115] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tombstone:dust_of_vanishing removed now.
+[09Jun2025 22:07:55.115] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: ironbackpacks:pack_basic removed now.
+[09Jun2025 22:07:55.115] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: ironbackpacks:pack_iron_storage removed now.
+[09Jun2025 22:07:55.115] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: ironbackpacks:pack_iron_upgrade removed now.
+[09Jun2025 22:07:55.115] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: ironbackpacks:pack_gold_storage removed now.
+[09Jun2025 22:07:55.115] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: ironbackpacks:upgrade_blank removed now.
+[09Jun2025 22:07:55.116] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ExterminadorAF[/127.144.252.200:47679] logged in with entity id 3651 at (-242.30000001192093, 37.875, -210.69999998807907)
+[09Jun2025 22:07:55.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExterminadorAF joined the game
+[09Jun2025 22:08:09.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported amoaminoviajulie to ExterminadorAF]
+[09Jun2025 22:08:52.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported ExterminadorAF to amoaminoviajulie]
+[09Jun2025 22:09:30.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExterminadorAF has made the advancement [Knowledge of Death]
+[09Jun2025 22:09:30.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExterminadorAF has reached the goal [Strong or Careful]
+[09Jun2025 22:09:30.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExterminadorAF was slain by amoaminoviajulie
+[09Jun2025 22:09:30.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExterminadorAF has made the advancement [Your First Grave]
+[09Jun2025 22:09:30.371] [Server thread/INFO] [tombstone/]: The player ExterminadorAF has successfully been saved
+[09Jun2025 22:09:35.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported ExterminadorAF to amoaminoviajulie]
+[09Jun2025 22:09:42.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExterminadorAF has reached the goal [Here They Come]
+[09Jun2025 22:10:20.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set the weather to clear]
+[09Jun2025 22:11:02.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie was slain by ExterminadorAF
+[09Jun2025 22:11:02.699] [Server thread/INFO] [tombstone/]: The player amoaminoviajulie has successfully been saved
+[09Jun2025 22:11:08.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported amoaminoviajulie to ExterminadorAF]
+[09Jun2025 22:11:48.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Banned ExterminadorAF: Banned by an operator.]
+[09Jun2025 22:11:48.297] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ExterminadorAF lost connection: You are banned from this server
+[09Jun2025 22:11:48.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExterminadorAF left the game
+[09Jun2025 22:11:50.256] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santiago[/127.198.22.94:49493] logged in with entity id 5194 at (-247.76712516091675, 37.0, -203.2020257553539)
+[09Jun2025 22:11:50.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago joined the game
+[09Jun2025 22:11:53.099] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3a68d0d7[id=<null>,name=ExterminadorAF,properties={},legacy=false] (/127.144.252.200:38217) lost connection: Disconnected
+[09Jun2025 22:11:56.538] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@70833948[id=<null>,name=ExterminadorAF,properties={},legacy=false] (/127.144.252.200:50383) lost connection: Disconnected
+[09Jun2025 22:12:12.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Unbanned ExterminadorAF]
+[09Jun2025 22:12:24.339] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@431f78f7[id=<null>,name=ExterminadorAF,properties={},legacy=false] (/127.144.252.200:40463) lost connection: Disconnected
+[09Jun2025 22:12:27.449] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ExterminadorAF[/127.144.252.200:54577] logged in with entity id 5398 at (-229.72149574752132, 71.41999998688698, -205.09377344606963)
+[09Jun2025 22:12:27.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExterminadorAF joined the game
+[09Jun2025 22:12:48.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported amoaminoviajulie to Santiago]
+[09Jun2025 22:13:45.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago was slain by amoaminoviajulie
+[09Jun2025 22:13:45.993] [Server thread/INFO] [tombstone/]: The player Santiago has successfully been saved
+[09Jun2025 22:14:33.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 was slain by amoaminoviajulie
+[09Jun2025 22:14:33.893] [Server thread/INFO] [tombstone/]: The player Rubiocraft123 has successfully been saved
+[09Jun2025 22:14:38.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Rubiocraft123 to Santiago]
+[09Jun2025 22:14:55.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago was slain by ExterminadorAF
+[09Jun2025 22:14:55.544] [Server thread/INFO] [tombstone/]: The player Santiago has successfully been saved
+[09Jun2025 22:15:23.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 has reached the goal [Chain Death]
+[09Jun2025 22:15:23.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 was slain by amoaminoviajulie
+[09Jun2025 22:15:23.601] [Server thread/INFO] [tombstone/]: The player Rubiocraft123 has successfully been saved
+[09Jun2025 22:15:27.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Rubiocraft123 to amoaminoviajulie]
+[09Jun2025 22:15:57.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 was slain by ExterminadorAF
+[09Jun2025 22:15:57.792] [Server thread/INFO] [tombstone/]: The player Rubiocraft123 has successfully been saved
+[09Jun2025 22:15:59.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set the time to 1000]
+[09Jun2025 22:16:16.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Rubiocraft123 to amoaminoviajulie]
+[09Jun2025 22:16:32.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExterminadorAF has made the advancement [Not Today, Thank You]
+[09Jun2025 22:16:42.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago was slain by ExterminadorAF
+[09Jun2025 22:16:42.794] [Server thread/INFO] [tombstone/]: The player Santiago has successfully been saved
+[09Jun2025 22:17:08.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie was slain by Rubiocraft123
+[09Jun2025 22:17:08.958] [Server thread/INFO] [tombstone/]: The player amoaminoviajulie has successfully been saved
+[09Jun2025 22:17:13.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported ExterminadorAF to amoaminoviajulie]
+[09Jun2025 22:18:29.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago was slain by ExterminadorAF
+[09Jun2025 22:18:29.345] [Server thread/INFO] [tombstone/]: The player Santiago has successfully been saved
+[09Jun2025 22:18:35.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to amoaminoviajulie]
+[09Jun2025 22:20:15.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 2 [Diamondbackpack] to ExterminadorAF]
+[09Jun2025 22:21:31.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago was slain by amoaminoviajulie
+[09Jun2025 22:21:31.598] [Server thread/INFO] [tombstone/]: The player Santiago has successfully been saved
+[09Jun2025 22:21:47.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to amoaminoviajulie]
+[09Jun2025 22:22:57.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago was slain by ExterminadorAF
+[09Jun2025 22:22:57.395] [Server thread/INFO] [tombstone/]: The player Santiago has successfully been saved
+[09Jun2025 22:23:03.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExterminadorAF has made the advancement [A Seedy Place]
+[09Jun2025 22:24:34.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago was slain by ExterminadorAF
+[09Jun2025 22:24:34.045] [Server thread/INFO] [tombstone/]: The player Santiago has successfully been saved
+[09Jun2025 22:25:16.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ExterminadorAF has made the advancement [Best Friends Forever]
+[09Jun2025 22:26:02.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set the time to 1000]
+[09Jun2025 22:26:07.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago was slain by ExterminadorAF
+[09Jun2025 22:26:07.741] [Server thread/INFO] [tombstone/]: The player Santiago has successfully been saved
+[09Jun2025 22:26:12.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to amoaminoviajulie]
+[09Jun2025 22:26:32.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported ExterminadorAF to Santiago]
