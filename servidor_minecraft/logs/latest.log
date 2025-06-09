@@ -327,3 +327,5 @@
 [09Jun2025 19:45:30.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie has made the advancement [Sweet Dreams]
 [09Jun2025 19:51:28.005] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19819, l='ServerLevel[world]', x=-242.29, y=48.99, z=-271.29] died, message: 'Villager tried to swim in lava'
 [09Jun2025 20:01:57.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 1.787507361165325,-10.440534483009301,2.4003730353622927
+[09Jun2025 20:08:55.241] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/30772, l='ServerLevel[world]', x=-219.11, y=73.56, z=-262.51] died, message: 'Villager was slain by amoaminoviajulie'
+[09Jun2025 20:08:55.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie has made the advancement [Neighborhood Brawl]

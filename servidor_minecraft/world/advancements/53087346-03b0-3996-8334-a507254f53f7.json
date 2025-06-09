@@ -2004,6 +2004,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-06-09 20:08:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_torchflower": {
     "criteria": {
       "has_torchflower": "2025-06-09 19:56:55 +0000"
