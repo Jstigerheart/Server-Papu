@@ -3,15 +3,19 @@
     "criteria": {
       "minecraft:eroded_badlands": "2025-06-10 19:47:34 +0000",
       "minecraft:birch_forest": "2025-06-08 05:48:38 +0000",
+      "minecraft:wooded_badlands": "2025-06-10 20:23:44 +0000",
       "minecraft:badlands": "2025-06-10 00:06:24 +0000",
       "minecraft:beach": "2025-06-09 22:19:43 +0000",
       "minecraft:dark_forest": "2025-06-08 02:55:34 +0000",
+      "minecraft:sparse_jungle": "2025-06-10 20:18:34 +0000",
       "minecraft:river": "2025-06-08 02:54:19 +0000",
       "minecraft:stony_shore": "2025-06-10 19:03:03 +0000",
       "minecraft:forest": "2025-06-08 03:59:25 +0000",
       "minecraft:desert": "2025-06-10 00:10:57 +0000",
       "minecraft:ocean": "2025-06-09 22:39:59 +0000",
+      "minecraft:jungle": "2025-06-10 20:10:50 +0000",
       "minecraft:warm_ocean": "2025-06-10 19:35:27 +0000",
+      "minecraft:savanna": "2025-06-10 20:07:20 +0000",
       "minecraft:plains": "2025-06-08 02:47:40 +0000"
     },
     "done": false
@@ -137,7 +141,8 @@
       "minecraft:cave_spider": "2025-06-10 00:15:13 +0000",
       "minecraft:piglin": "2025-06-08 22:49:44 +0000",
       "minecraft:enderman": "2025-06-08 05:37:20 +0000",
-      "minecraft:zombie": "2025-06-08 02:51:00 +0000"
+      "minecraft:zombie": "2025-06-08 02:51:00 +0000",
+      "minecraft:zombie_villager": "2025-06-10 20:09:44 +0000"
     },
     "done": false
   },
@@ -2389,6 +2394,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-06-10 20:23:00 +0000",
       "minecraft:nether_wastes": "2025-06-08 22:21:09 +0000",
       "minecraft:soul_sand_valley": "2025-06-08 22:45:03 +0000",
       "minecraft:basalt_deltas": "2025-06-08 22:37:43 +0000"
@@ -2953,9 +2959,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-06-10 20:25:03 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_spear": {
     "criteria": {
       "has_diamond": "2025-06-10 19:53:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-10 20:21:43 +0000"
     },
     "done": true
   },
@@ -3010,6 +3028,12 @@
   "spartanweaponry:recipes/diamond_warhammer": {
     "criteria": {
       "has_diamond": "2025-06-10 19:53:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2025-06-10 20:38:47 +0000"
     },
     "done": true
   },
@@ -3109,6 +3133,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-06-10 20:28:09 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2025-06-10 20:01:17 +0000"
@@ -3139,6 +3169,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-06-10 20:29:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-06-10 20:02:26 +0000"
@@ -3154,6 +3190,18 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-10 19:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-06-10 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-06-10 20:05:34 +0000"
     },
     "done": true
   },
@@ -3202,6 +3250,18 @@
   "spartanweaponry:recipes/diamond_longsword": {
     "criteria": {
       "has_diamond": "2025-06-10 19:53:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-06-10 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-06-10 20:28:09 +0000"
     },
     "done": true
   },
@@ -3268,6 +3328,12 @@
   "spartanweaponry:recipes/diamond_dagger": {
     "criteria": {
       "has_diamond": "2025-06-10 19:53:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-06-10 20:28:06 +0000"
     },
     "done": true
   },
