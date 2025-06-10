@@ -2,6 +2,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-06-08 05:48:38 +0000",
+      "minecraft:badlands": "2025-06-10 00:06:24 +0000",
       "minecraft:beach": "2025-06-09 22:19:43 +0000",
       "minecraft:dark_forest": "2025-06-08 02:55:34 +0000",
       "minecraft:river": "2025-06-08 02:54:19 +0000",
@@ -2764,15 +2765,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-09 23:58:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-06-09 22:20:26 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-06-10 00:02:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-06-09 22:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-09 23:58:47 +0000"
     },
     "done": true
   },
@@ -2875,6 +2894,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-06-09 22:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-09 23:58:47 +0000"
     },
     "done": true
   },
