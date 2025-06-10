@@ -545,3 +545,6 @@
 [10Jun2025 22:06:33.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santiago lost connection: Disconnected
 [10Jun2025 22:06:33.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago left the game
 [10Jun2025 22:11:27.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set the time to 1000]
+[10Jun2025 22:29:55.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-162, y=64, z=-230} BlockPos{x=-162, y=65, z=-229}
+[10Jun2025 22:29:55.871] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-162, y=64, z=-230} BlockPos{x=-162, y=65, z=-229}
+[10Jun2025 22:29:55.897] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-162, y=64, z=-230} BlockPos{x=-162, y=65, z=-229}
