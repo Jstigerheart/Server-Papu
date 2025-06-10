@@ -134,3 +134,65 @@
 [10Jun2025 19:22:19.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackCusk has made the advancement [Stone Age]
 [10Jun2025 19:22:40.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackCusk has made the advancement [Getting an Upgrade]
 [10Jun2025 19:23:59.896] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-268, y=68, z=-240} BlockPos{x=-268, y=66, z=-240}
+[10Jun2025 19:24:48.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 32 [Baked Potato] to 4]
+[10Jun2025 19:25:46.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackCusk has made the advancement [Acquire Hardware]
+[10Jun2025 19:26:02.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santiago lost connection: You logged in from another location
+[10Jun2025 19:26:02.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago left the game
+[10Jun2025 19:26:03.038] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Jun2025 19:26:03.040] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santiago[/127.198.22.94:41707] logged in with entity id 11277 at (1437.7631759376661, 100.0, 2605.5780384980717)
+[10Jun2025 19:26:03.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago joined the game
+[10Jun2025 19:26:34.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackCusk fell from a high place
+[10Jun2025 19:26:34.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackCusk has made the advancement [Your First Grave]
+[10Jun2025 19:26:34.153] [Server thread/INFO] [tombstone/]: The player BackCusk has successfully been saved
+[10Jun2025 19:26:47.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> pasa coordenadas de la tumba
+[10Jun2025 19:27:09.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackCusk has reached the goal [Here They Come]
+[10Jun2025 19:27:21.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> tp me a rubio
+[10Jun2025 19:28:05.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackCusk hit the ground too hard
+[10Jun2025 19:28:05.897] [Server thread/INFO] [tombstone/]: The player BackCusk has successfully been saved
+[10Jun2025 19:28:48.888] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackCusk lost connection: Disconnected
+[10Jun2025 19:28:48.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackCusk left the game
+[10Jun2025 19:30:33.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago has made the advancement [Ambush]
+[10Jun2025 19:31:15.396] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-270, y=64, z=-190} BlockPos{x=-271, y=70, z=-195}
+[10Jun2025 19:31:15.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-270, y=64, z=-190} BlockPos{x=-271, y=70, z=-195}
+[10Jun2025 19:31:49.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie was kicked for floating too long!
+[10Jun2025 19:31:49.534] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie lost connection: Flying is not enabled on this server
+[10Jun2025 19:31:49.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie left the game
+[10Jun2025 19:32:05.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago has made the advancement [Where Is The Stone Pen?]
+[10Jun2025 19:32:21.483] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amoaminoviajulie[/127.168.201.233:36083] logged in with entity id 16857 at (-249.0071575345333, 65.16610926093821, -228.47985085081027)
+[10Jun2025 19:32:21.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie joined the game
+[10Jun2025 19:33:00.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago has made the advancement [Voluntary Exile]
+[10Jun2025 19:33:34.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago has reached the goal [Fortuitous Militia]
+[10Jun2025 19:35:14.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> pq me dice pedazo de enfermo?
+[10Jun2025 19:35:25.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to amoaminoviajulie]
+[10Jun2025 19:35:29.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> eis lo que eres bro
+[10Jun2025 19:35:31.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to Rubiocraft123]
+[10Jun2025 19:36:08.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> maldito hijo de puta
+[10Jun2025 19:36:10.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> q
+[10Jun2025 19:36:14.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> pq?
+[10Jun2025 19:36:18.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> mato a mi perro
+[10Jun2025 19:36:21.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> UE
+[10Jun2025 19:36:25.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> Usted tenia perro?
+[10Jun2025 19:36:29.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> claro
+[10Jun2025 19:36:31.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> Yo le doy otro
+[10Jun2025 19:36:39.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> </3
+[10Jun2025 19:36:42.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 1 [Wolf Spawn Egg] to Santiago]
+[10Jun2025 19:36:49.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 30 [Bone] to Santiago]
+[10Jun2025 19:36:59.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> y le quiere teñir el collar de algun color?
+[10Jun2025 19:37:04.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> azul
+[10Jun2025 19:37:19.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 1 [Blue Dye] to Santiago]
+[10Jun2025 19:41:00.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rubiocraft123) moved wrongly! 0.5257169750484536
+[10Jun2025 19:44:17.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> voy a aplanar por chunks
+[10Jun2025 19:50:11.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
+[10Jun2025 19:50:12.731] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2375, y=64, z=2698} BlockPos{x=2376, y=62, z=2698}
+[10Jun2025 19:50:21.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
+[10Jun2025 19:50:29.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
+[10Jun2025 19:51:41.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
+[10Jun2025 19:52:24.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rubiocraft123> 2184,71,2391
+[10Jun2025 19:53:56.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 0.27380379470815797,-2.5705949848162604,-9.910891539646798
+[10Jun2025 19:58:08.435] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-157, y=65, z=-210} BlockPos{x=-158, y=63, z=-209}
+[10Jun2025 20:00:01.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-150, y=65, z=-217} BlockPos{x=-151, y=63, z=-215}
+[10Jun2025 20:00:20.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rubiocraft123> TP A SANTIAGO
+[10Jun2025 20:00:24.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Rubiocraft123 to Santiago]
+[10Jun2025 20:00:45.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago has made the advancement [Your First Receptacle]
+[10Jun2025 20:01:17.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 has made the advancement [Your First Receptacle]
+[10Jun2025 20:03:08.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 has made the advancement [Upgrade Backpack]
