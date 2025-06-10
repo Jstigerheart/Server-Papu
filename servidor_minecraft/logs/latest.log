@@ -428,3 +428,5 @@
 [10Jun2025 20:54:22.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie left the game
 [10Jun2025 20:55:05.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amoaminoviajulie[/127.168.201.233:49853] logged in with entity id 73645 at (-237.22950853829454, 66.79673560066871, -233.0043135996005)
 [10Jun2025 20:55:05.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie joined the game
+[10Jun2025 20:58:33.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
+[10Jun2025 21:02:13.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]

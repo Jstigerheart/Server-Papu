@@ -6350,3 +6350,130 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [10Jun2025 20:55:05.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amoaminoviajulie[/127.168.201.233:49853] logged in with entity id 73645 at (-237.22950853829454, 66.79673560066871, -233.0043135996005)
 [10Jun2025 20:55:05.378] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@59589c8b into net.minecraft.network.Connection@3faff148
 [10Jun2025 20:55:05.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie joined the game
+[10Jun2025 20:55:21.432] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:55:28.585] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:56:06.827] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:56:08.828] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:56:09.622] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:56:09.623] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jun2025 20:56:09.623] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 8.5 * Magnitude: 1.0 = Result damage: 8.5 - Overridden sweep damage ratio to 0.88235295
+[10Jun2025 20:56:10.579] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:56:10.579] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jun2025 20:56:10.579] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 8.5 * Magnitude: 1.0 = Result damage: 8.5 - Overridden sweep damage ratio to 0.88235295
+[10Jun2025 20:56:11.277] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:56:11.277] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jun2025 20:56:11.277] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 8.5 * Magnitude: 1.0 = Result damage: 8.5 - Overridden sweep damage ratio to 0.88235295
+[10Jun2025 20:56:12.061] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:56:12.061] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jun2025 20:56:12.061] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 8.5 * Magnitude: 1.0 = Result damage: 8.5 - Overridden sweep damage ratio to 0.88235295
+[10Jun2025 20:56:12.705] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:56:12.705] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jun2025 20:56:12.706] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 8.5 * Magnitude: 1.0 = Result damage: 8.5 - Overridden sweep damage ratio to 0.88235295
+[10Jun2025 20:56:13.201] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:56:13.201] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jun2025 20:56:13.201] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 8.5 * Magnitude: 1.0 = Result damage: 8.5 - Overridden sweep damage ratio to 0.88235295
+[10Jun2025 20:56:13.754] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:56:13.754] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jun2025 20:56:13.754] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 8.5 * Magnitude: 1.0 = Result damage: 8.5 - Overridden sweep damage ratio to 0.88235295
+[10Jun2025 20:56:14.352] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:56:14.352] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jun2025 20:56:14.352] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 8.5 * Magnitude: 1.0 = Result damage: 8.5 - Overridden sweep damage ratio to 0.88235295
+[10Jun2025 20:56:14.938] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:56:14.938] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jun2025 20:56:14.938] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 8.5 * Magnitude: 1.0 = Result damage: 8.5 - Overridden sweep damage ratio to 0.88235295
+[10Jun2025 20:56:24.329] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:56:24.377] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:24.427] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:24.478] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:24.526] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:24.580] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:24.627] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:24.677] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:24.726] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:24.780] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:24.829] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:24.877] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:24.930] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:24.980] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:25.028] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:25.077] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:25.078] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:56:25.130] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:25.181] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:25.231] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:25.277] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:25.328] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:25.377] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:25.428] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:25.478] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:25.530] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:25.577] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:25.628] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:25.678] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:25.726] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:25.777] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:25.831] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:25.876] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:25.928] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:25.977] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:26.027] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:26.078] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:26.128] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:26.128] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:26.179] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:26.180] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:26.233] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:26.233] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:26.279] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:26.279] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:26.333] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:26.333] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:26.380] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:26.380] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jun2025 20:56:29.550] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:56:30.038] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:56:33.079] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:56:35.145] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:56:35.145] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jun2025 20:56:35.145] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:56:55.846] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:56:56.648] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:56:57.548] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:57:15.627] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:57:16.127] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:57:17.782] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:57:30.634] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:57:31.535] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:57:34.100] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:57:34.101] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jun2025 20:57:34.101] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:57:54.229] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:57:54.957] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:57:55.708] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:58:09.983] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:58:10.761] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:58:30.679] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:58:30.680] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jun2025 20:58:30.680] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 8.5 * Magnitude: 1.0 = Result damage: 8.5 - Overridden sweep damage ratio to 0.88235295
+[10Jun2025 20:58:32.534] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:58:32.535] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jun2025 20:58:32.535] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 8.5 * Magnitude: 1.0 = Result damage: 8.5 - Overridden sweep damage ratio to 0.88235295
+[10Jun2025 20:58:33.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
+[10Jun2025 20:58:42.081] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 20:59:31.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 20:59:31.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 21:01:03.482] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 21:01:04.630] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 21:01:57.779] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 21:01:57.929] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 21:01:58.082] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 21:01:58.236] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 21:01:58.378] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 21:01:58.679] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 21:01:59.081] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 21:01:59.446] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 21:02:13.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
+[10Jun2025 21:02:16.880] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 21:02:55.290] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jun2025 21:04:31.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 21:04:31.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
