@@ -6,10 +6,12 @@
       "minecraft:beach": "2025-06-08 03:59:41 +0000",
       "minecraft:dark_forest": "2025-06-08 03:28:36 +0000",
       "minecraft:river": "2025-06-08 03:32:01 +0000",
+      "minecraft:stony_shore": "2025-06-10 00:18:36 +0000",
       "minecraft:swamp": "2025-06-08 04:00:19 +0000",
       "minecraft:forest": "2025-06-09 22:14:12 +0000",
       "minecraft:desert": "2025-06-10 00:17:22 +0000",
       "minecraft:ocean": "2025-06-08 04:00:14 +0000",
+      "minecraft:warm_ocean": "2025-06-10 00:21:31 +0000",
       "minecraft:plains": "2025-06-08 03:27:09 +0000"
     },
     "done": false
@@ -37,6 +39,7 @@
       "minecraft:skeleton": "2025-06-08 03:59:27 +0000",
       "minecraft:spider": "2025-06-08 03:33:09 +0000",
       "minecraft:creeper": "2025-06-08 03:35:01 +0000",
+      "minecraft:husk": "2025-06-10 00:25:14 +0000",
       "minecraft:cave_spider": "2025-06-10 00:08:53 +0000",
       "minecraft:enderman": "2025-06-08 05:45:30 +0000",
       "minecraft:zombie": "2025-06-08 03:31:07 +0000",
@@ -2110,6 +2113,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-06-10 00:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-10 00:21:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-06-09 23:32:48 +0000"
@@ -2147,6 +2162,20 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-06-10 00:20:02 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "enderman_head": "2025-06-10 00:25:44 +0000",
+      "zombie_head": "2025-06-10 00:25:38 +0000",
+      "husk_head": "2025-06-10 00:25:42 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2025-06-10 00:08:35 +0000"
@@ -2171,9 +2200,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-10 00:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-06-10 00:20:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-06-09 23:24:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-10 00:21:01 +0000"
     },
     "done": true
   },
@@ -2195,9 +2242,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-10 00:21:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-10 00:21:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-10 00:21:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-10 00:20:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-06-09 23:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-06-10 00:18:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-06-10 00:23:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-10 00:21:01 +0000"
     },
     "done": true
   },
@@ -2207,9 +2296,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-10 00:21:01 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:rapier": {
     "criteria": {
       "has_rapier": "2025-06-10 00:14:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-10 00:21:01 +0000"
     },
     "done": true
   },
@@ -2231,6 +2332,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-06-10 00:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-10 00:21:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-06-09 23:42:40 +0000"
@@ -2243,9 +2356,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-06-10 00:21:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-06-09 23:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-10 00:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-10 00:20:02 +0000"
     },
     "done": true
   },
@@ -2258,6 +2389,18 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-06-09 23:32:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-10 00:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-10 00:20:02 +0000"
     },
     "done": true
   },
@@ -2279,6 +2422,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-10 00:19:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-06-10 00:20:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-06-09 23:38:11 +0000"
@@ -2294,6 +2449,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-06-09 23:53:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-06-10 00:23:18 +0000"
     },
     "done": true
   },
