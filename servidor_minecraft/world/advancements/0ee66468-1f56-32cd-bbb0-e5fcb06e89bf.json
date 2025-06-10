@@ -12,6 +12,7 @@
       "minecraft:river": "2025-06-08 02:54:19 +0000",
       "minecraft:stony_shore": "2025-06-10 19:03:03 +0000",
       "minecraft:forest": "2025-06-08 03:59:25 +0000",
+      "minecraft:lush_caves": "2025-06-10 21:06:46 +0000",
       "minecraft:desert": "2025-06-10 00:10:57 +0000",
       "minecraft:ocean": "2025-06-09 22:39:59 +0000",
       "minecraft:jungle": "2025-06-10 20:10:50 +0000",
@@ -138,6 +139,7 @@
       "minecraft:spider": "2025-06-08 03:47:24 +0000",
       "minecraft:creeper": "2025-06-08 21:48:09 +0000",
       "minecraft:zombified_piglin": "2025-06-08 05:25:36 +0000",
+      "minecraft:witch": "2025-06-10 21:10:12 +0000",
       "minecraft:husk": "2025-06-10 19:01:10 +0000",
       "minecraft:cave_spider": "2025-06-10 00:15:13 +0000",
       "minecraft:piglin": "2025-06-08 22:49:44 +0000",
@@ -3104,6 +3106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-10 21:20:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-10 19:35:07 +0000"
@@ -3137,6 +3145,12 @@
   "spartanweaponry:recipes/diamond_scythe": {
     "criteria": {
       "has_diamond": "2025-06-10 19:53:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-06-10 21:07:04 +0000"
     },
     "done": true
   },
@@ -3242,6 +3256,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-10 21:20:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-10 21:20:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-10 19:35:07 +0000"
@@ -3290,6 +3316,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-06-10 21:10:12 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_longbow": {
     "criteria": {
       "has_diamond": "2025-06-10 19:53:57 +0000"
@@ -3332,6 +3364,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-06-10 21:07:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-06-10 20:28:09 +0000"
@@ -3350,6 +3388,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-10 21:20:32 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_rapier": {
     "criteria": {
       "has_diamond": "2025-06-10 19:53:57 +0000"
@@ -3359,6 +3403,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-06-10 19:57:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-06-10 21:08:01 +0000"
     },
     "done": true
   },
