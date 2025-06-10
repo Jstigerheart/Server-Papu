@@ -108,3 +108,29 @@
 [10Jun2025 18:54:29.257] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [10Jun2025 18:57:42.810] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rubiocraft123[/127.51.61.162:60565] logged in with entity id 165 at (1663.1165643203894, 74.0, 2575.9671561229493)
 [10Jun2025 18:57:42.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 joined the game
+[10Jun2025 19:08:29.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 fell from a high place
+[10Jun2025 19:08:29.190] [Server thread/INFO] [tombstone/]: The player Rubiocraft123 has successfully been saved
+[10Jun2025 19:09:36.791] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amoaminoviajulie[/127.168.201.233:53631] logged in with entity id 2142 at (-185.24926941506965, 64.0, -230.77125722082837)
+[10Jun2025 19:09:36.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie joined the game
+[10Jun2025 19:11:12.836] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [tombstone:tombstone_channel,spartanweaponry:network,backpackes:backpackes] rejected their client side version number
+[10Jun2025 19:11:12.837] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[10Jun2025 19:11:12.881] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a261173[id=<null>,name=BackCusk,properties={},legacy=false] (/127.94.69.233:36677) lost connection: Connection closed - mismatched mod channel list
+[10Jun2025 19:11:37.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Rubiocraft123 to 1776.500000, 14.000000, 2609.500000]
+[10Jun2025 19:13:03.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -216 63 -245
+[10Jun2025 19:13:45.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 8113 block(s)]
+[10Jun2025 19:14:11.081] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5f3ae4b0[id=<null>,name=BackCusk,properties={},legacy=false] (/127.94.69.233:42605) lost connection: Disconnected
+[10Jun2025 19:16:29.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -159 60 -245
+[10Jun2025 19:17:10.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 2526 block(s)]
+[10Jun2025 19:17:21.080] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BackCusk[/127.94.69.233:57651] logged in with entity id 4977 at (-206.5, 66.0, 252.5)
+[10Jun2025 19:17:21.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackCusk joined the game
+[10Jun2025 19:18:01.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported BackCusk to amoaminoviajulie]
+[10Jun2025 19:18:03.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> ola plebe
+[10Jun2025 19:18:07.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> mire alla
+[10Jun2025 19:20:13.646] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santiago[/127.198.22.94:47093] logged in with entity id 6594 at (1495.3001060799904, 70.0, 2968.848649788909)
+[10Jun2025 19:20:13.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago joined the game
+[10Jun2025 19:20:28.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> The king of the niggerians has come
+[10Jun2025 19:22:11.483] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-264, y=65, z=-203} BlockPos{x=-265, y=63, z=-204}
+[10Jun2025 19:22:11.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-264, y=65, z=-203} BlockPos{x=-265, y=63, z=-204}
+[10Jun2025 19:22:19.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackCusk has made the advancement [Stone Age]
+[10Jun2025 19:22:40.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackCusk has made the advancement [Getting an Upgrade]
+[10Jun2025 19:23:59.896] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-268, y=68, z=-240} BlockPos{x=-268, y=66, z=-240}
