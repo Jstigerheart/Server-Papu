@@ -8,6 +8,7 @@
       "minecraft:river": "2025-06-08 03:32:01 +0000",
       "minecraft:swamp": "2025-06-08 04:00:19 +0000",
       "minecraft:forest": "2025-06-09 22:14:12 +0000",
+      "minecraft:desert": "2025-06-10 00:17:22 +0000",
       "minecraft:ocean": "2025-06-08 04:00:14 +0000",
       "minecraft:plains": "2025-06-08 03:27:09 +0000"
     },
@@ -36,6 +37,7 @@
       "minecraft:skeleton": "2025-06-08 03:59:27 +0000",
       "minecraft:spider": "2025-06-08 03:33:09 +0000",
       "minecraft:creeper": "2025-06-08 03:35:01 +0000",
+      "minecraft:cave_spider": "2025-06-10 00:08:53 +0000",
       "minecraft:enderman": "2025-06-08 05:45:30 +0000",
       "minecraft:zombie": "2025-06-08 03:31:07 +0000",
       "minecraft:zombie_villager": "2025-06-08 04:06:49 +0000"
@@ -2120,12 +2122,42 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2025-06-10 00:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-06-10 00:10:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-06-09 23:54:56 +0000",
       "minecraft:basalt_deltas": "2025-06-09 23:52:50 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-06-10 00:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-06-10 00:08:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:scythe": {
+    "criteria": {
+      "has_scythe": "2025-06-10 00:16:09 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
@@ -2145,6 +2177,18 @@
     },
     "done": true
   },
+  "spartanweaponry:battleaxe": {
+    "criteria": {
+      "has_battleaxe": "2025-06-10 00:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-10 00:16:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-06-09 23:55:08 +0000"
@@ -2157,6 +2201,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-06-10 00:10:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:rapier": {
+    "criteria": {
+      "has_rapier": "2025-06-10 00:14:07 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/explosive_charge": {
     "criteria": {
       "has_gunpowder": "2025-06-09 23:38:11 +0000"
@@ -2166,6 +2222,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-06-09 23:56:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-06-10 00:10:07 +0000"
     },
     "done": true
   },
@@ -2232,6 +2294,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-06-09 23:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-06-10 00:10:07 +0000"
     },
     "done": true
   },
