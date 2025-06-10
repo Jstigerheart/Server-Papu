@@ -464,3 +464,27 @@
 [10Jun2025 21:37:55.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
 [10Jun2025 21:37:56.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
 [10Jun2025 21:43:23.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to amoaminoviajulie]
+[10Jun2025 21:50:44.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=68, z=-255} BlockPos{x=-166, y=70, z=-255}
+[10Jun2025 21:50:44.587] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=68, z=-255} BlockPos{x=-166, y=70, z=-255}
+[10Jun2025 21:50:55.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Rubiocraft123 to amoaminoviajulie]
+[10Jun2025 21:53:07.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
+[10Jun2025 21:55:16.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to amoaminoviajulie]
+[10Jun2025 21:55:18.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago fell from a high place
+[10Jun2025 21:55:18.281] [Server thread/INFO] [tombstone/]: The player Santiago has successfully been saved
+[10Jun2025 21:55:27.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to amoaminoviajulie]
+[10Jun2025 21:56:18.401] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[10Jun2025 21:56:18.809] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[10Jun2025 21:56:20.388] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[10Jun2025 21:56:20.406] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[10Jun2025 21:56:21.058] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[10Jun2025 21:56:21.059] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[10Jun2025 21:56:21.060] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[10Jun2025 21:56:21.060] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[10Jun2025 21:56:21.061] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[10Jun2025 21:56:21.061] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[10Jun2025 21:56:21.062] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[10Jun2025 21:56:21.062] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[10Jun2025 21:56:21.604] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[10Jun2025 21:56:21.605] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[10Jun2025 21:56:21.605] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
+[10Jun2025 21:56:21.605] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'

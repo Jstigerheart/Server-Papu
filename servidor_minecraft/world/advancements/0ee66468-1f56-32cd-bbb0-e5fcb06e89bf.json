@@ -10,6 +10,7 @@
       "minecraft:dark_forest": "2025-06-08 02:55:34 +0000",
       "minecraft:sparse_jungle": "2025-06-10 20:18:34 +0000",
       "minecraft:river": "2025-06-08 02:54:19 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-10 21:48:18 +0000",
       "minecraft:stony_shore": "2025-06-10 19:03:03 +0000",
       "minecraft:forest": "2025-06-08 03:59:25 +0000",
       "minecraft:lush_caves": "2025-06-10 21:06:46 +0000",
@@ -17,6 +18,7 @@
       "minecraft:ocean": "2025-06-09 22:39:59 +0000",
       "minecraft:jungle": "2025-06-10 20:10:50 +0000",
       "minecraft:warm_ocean": "2025-06-10 19:35:27 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-10 21:45:38 +0000",
       "minecraft:savanna": "2025-06-10 20:07:20 +0000",
       "minecraft:plains": "2025-06-08 02:47:40 +0000"
     },
@@ -146,6 +148,7 @@
       "minecraft:piglin": "2025-06-08 22:49:44 +0000",
       "minecraft:enderman": "2025-06-08 05:37:20 +0000",
       "minecraft:zombie": "2025-06-08 02:51:00 +0000",
+      "minecraft:drowned": "2025-06-10 21:49:11 +0000",
       "minecraft:zombie_villager": "2025-06-10 20:09:44 +0000"
     },
     "done": false
@@ -2981,6 +2984,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-06-10 21:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-06-10 21:47:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_spear": {
     "criteria": {
       "has_diamond": "2025-06-10 19:53:57 +0000"
@@ -3020,6 +3035,18 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-06-10 19:57:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-06-10 21:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-10 21:44:32 +0000"
     },
     "done": true
   },
@@ -3074,6 +3101,12 @@
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2025-06-10 19:01:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-06-10 21:54:25 +0000"
     },
     "done": true
   },
@@ -3161,6 +3194,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-10 21:44:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-10 20:55:45 +0000"
@@ -3188,6 +3227,12 @@
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-06-10 19:02:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-10 21:44:32 +0000"
     },
     "done": true
   },
@@ -3245,6 +3290,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-06-10 21:54:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-06-10 20:02:26 +0000"
@@ -3254,6 +3305,18 @@
   "spartanweaponry:recipes/diamond_pike": {
     "criteria": {
       "has_diamond": "2025-06-10 19:53:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-06-10 21:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-06-10 21:47:41 +0000"
     },
     "done": true
   },
