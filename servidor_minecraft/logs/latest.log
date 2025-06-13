@@ -1,566 +1,320 @@
-[10Jun2025 18:54:04.857] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[10Jun2025 18:54:04.860] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[10Jun2025 18:54:05.150] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[10Jun2025 18:54:05.209] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server-Papu/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[10Jun2025 18:54:05.492] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[10Jun2025 18:54:05.495] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[10Jun2025 18:54:05.496] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[10Jun2025 18:54:05.498] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[10Jun2025 18:54:05.643] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[10Jun2025 18:54:07.294] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[10Jun2025 18:54:07.304] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[10Jun2025 18:54:08.284] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[10Jun2025 18:54:14.321] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[10Jun2025 18:54:14.324] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[10Jun2025 18:54:14.394] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[10Jun2025 18:54:14.396] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
-[10Jun2025 18:54:14.398] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
-[10Jun2025 18:54:15.220] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[10Jun2025 18:54:15.270] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[10Jun2025 18:54:15.272] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[10Jun2025 18:54:15.481] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[10Jun2025 18:54:15.766] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: AHEAD Current: 8.9.6 Target: null
-[10Jun2025 18:54:15.767] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[10Jun2025 18:54:15.976] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[10Jun2025 18:54:16.904] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[10Jun2025 18:54:17.792] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23113!/assets/.mcassetsroot' uses unexpected schema
-[10Jun2025 18:54:17.793] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23113!/data/.mcassetsroot' uses unexpected schema
-[10Jun2025 18:54:18.891] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
-[10Jun2025 18:54:19.554] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[10Jun2025 18:54:19.628] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[10Jun2025 18:54:19.638] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[10Jun2025 18:54:19.679] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[10Jun2025 18:54:19.680] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
-[10Jun2025 18:54:19.687] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[10Jun2025 18:54:19.688] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
-[10Jun2025 18:54:19.691] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
-[10Jun2025 18:54:19.692] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
-[10Jun2025 18:54:19.697] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
-[10Jun2025 18:54:19.698] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
-[10Jun2025 18:54:19.698] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/copper" Skipping...
-[10Jun2025 18:54:19.698] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:copper_nugget_from_smelting_copper_weapons as it's serializer returned null
-[10Jun2025 18:54:19.699] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[10Jun2025 18:54:19.699] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
-[10Jun2025 18:54:19.700] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
-[10Jun2025 18:54:19.700] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
-[10Jun2025 18:54:19.708] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
-[10Jun2025 18:54:19.708] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
-[10Jun2025 18:54:19.709] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
-[10Jun2025 18:54:19.709] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_blasting_steel_weapons as it's serializer returned null
-[10Jun2025 18:54:19.711] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[10Jun2025 18:54:19.711] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
-[10Jun2025 18:54:19.711] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[10Jun2025 18:54:19.712] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
-[10Jun2025 18:54:19.719] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[10Jun2025 18:54:19.719] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
-[10Jun2025 18:54:19.719] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[10Jun2025 18:54:19.720] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
-[10Jun2025 18:54:19.724] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[10Jun2025 18:54:19.725] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
-[10Jun2025 18:54:19.726] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
-[10Jun2025 18:54:19.726] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
-[10Jun2025 18:54:19.728] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[10Jun2025 18:54:19.729] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
-[10Jun2025 18:54:19.734] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
-[10Jun2025 18:54:19.734] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_smelting_steel_weapons as it's serializer returned null
-[10Jun2025 18:54:19.737] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
-[10Jun2025 18:54:19.737] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
-[10Jun2025 18:54:19.738] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/silver" Skipping...
-[10Jun2025 18:54:19.739] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:silver_nugget_from_smelting_silver_weapons as it's serializer returned null
-[10Jun2025 18:54:19.741] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[10Jun2025 18:54:19.741] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
-[10Jun2025 18:54:19.741] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/silver" Skipping...
-[10Jun2025 18:54:19.741] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:silver_nugget_from_blasting_silver_weapons as it's serializer returned null
-[10Jun2025 18:54:19.743] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/copper" Skipping...
-[10Jun2025 18:54:19.743] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:copper_nugget_from_blasting_copper_weapons as it's serializer returned null
-[10Jun2025 18:54:19.744] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[10Jun2025 18:54:19.744] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
-[10Jun2025 18:54:19.744] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[10Jun2025 18:54:19.745] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
-[10Jun2025 18:54:19.750] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[10Jun2025 18:54:19.868] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1963 advancements
-[10Jun2025 18:54:20.359] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 6.078356ms
-[10Jun2025 18:54:20.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[10Jun2025 18:54:20.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[10Jun2025 18:54:20.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[10Jun2025 18:54:20.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[10Jun2025 18:54:20.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[10Jun2025 18:54:20.632] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[10Jun2025 18:54:20.733] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10Jun2025 18:54:20.733] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[10Jun2025 18:54:20.734] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10Jun2025 18:54:20.734] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[10Jun2025 18:54:20.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[10Jun2025 18:54:23.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[10Jun2025 18:54:27.132] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 18:54:27.180] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 18:54:27.191] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 18:54:27.204] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 18:54:27.219] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 18:54:27.229] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 18:54:27.244] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 18:54:27.401] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 18:54:27.878] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 18:54:28.375] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[10Jun2025 18:54:28.875] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
-[10Jun2025 18:54:29.230] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5355 ms
-[10Jun2025 18:54:29.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.482s)! For help, type "help"
-[10Jun2025 18:54:29.257] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[10Jun2025 18:57:42.810] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rubiocraft123[/127.51.61.162:60565] logged in with entity id 165 at (1663.1165643203894, 74.0, 2575.9671561229493)
-[10Jun2025 18:57:42.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 joined the game
-[10Jun2025 19:08:29.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 fell from a high place
-[10Jun2025 19:08:29.190] [Server thread/INFO] [tombstone/]: The player Rubiocraft123 has successfully been saved
-[10Jun2025 19:09:36.791] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amoaminoviajulie[/127.168.201.233:53631] logged in with entity id 2142 at (-185.24926941506965, 64.0, -230.77125722082837)
-[10Jun2025 19:09:36.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie joined the game
-[10Jun2025 19:11:12.836] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [tombstone:tombstone_channel,spartanweaponry:network,backpackes:backpackes] rejected their client side version number
-[10Jun2025 19:11:12.837] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[10Jun2025 19:11:12.881] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a261173[id=<null>,name=BackCusk,properties={},legacy=false] (/127.94.69.233:36677) lost connection: Connection closed - mismatched mod channel list
-[10Jun2025 19:11:37.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Rubiocraft123 to 1776.500000, 14.000000, 2609.500000]
-[10Jun2025 19:13:03.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -216 63 -245
-[10Jun2025 19:13:45.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 8113 block(s)]
-[10Jun2025 19:14:11.081] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5f3ae4b0[id=<null>,name=BackCusk,properties={},legacy=false] (/127.94.69.233:42605) lost connection: Disconnected
-[10Jun2025 19:16:29.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -159 60 -245
-[10Jun2025 19:17:10.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 2526 block(s)]
-[10Jun2025 19:17:21.080] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BackCusk[/127.94.69.233:57651] logged in with entity id 4977 at (-206.5, 66.0, 252.5)
-[10Jun2025 19:17:21.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackCusk joined the game
-[10Jun2025 19:18:01.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported BackCusk to amoaminoviajulie]
-[10Jun2025 19:18:03.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> ola plebe
-[10Jun2025 19:18:07.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> mire alla
-[10Jun2025 19:20:13.646] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santiago[/127.198.22.94:47093] logged in with entity id 6594 at (1495.3001060799904, 70.0, 2968.848649788909)
-[10Jun2025 19:20:13.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago joined the game
-[10Jun2025 19:20:28.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> The king of the niggerians has come
-[10Jun2025 19:22:11.483] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-264, y=65, z=-203} BlockPos{x=-265, y=63, z=-204}
-[10Jun2025 19:22:11.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-264, y=65, z=-203} BlockPos{x=-265, y=63, z=-204}
-[10Jun2025 19:22:19.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackCusk has made the advancement [Stone Age]
-[10Jun2025 19:22:40.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackCusk has made the advancement [Getting an Upgrade]
-[10Jun2025 19:23:59.896] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-268, y=68, z=-240} BlockPos{x=-268, y=66, z=-240}
-[10Jun2025 19:24:48.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 32 [Baked Potato] to 4]
-[10Jun2025 19:25:46.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackCusk has made the advancement [Acquire Hardware]
-[10Jun2025 19:26:02.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santiago lost connection: You logged in from another location
-[10Jun2025 19:26:02.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago left the game
-[10Jun2025 19:26:03.038] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[10Jun2025 19:26:03.040] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santiago[/127.198.22.94:41707] logged in with entity id 11277 at (1437.7631759376661, 100.0, 2605.5780384980717)
-[10Jun2025 19:26:03.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago joined the game
-[10Jun2025 19:26:34.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackCusk fell from a high place
-[10Jun2025 19:26:34.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackCusk has made the advancement [Your First Grave]
-[10Jun2025 19:26:34.153] [Server thread/INFO] [tombstone/]: The player BackCusk has successfully been saved
-[10Jun2025 19:26:47.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> pasa coordenadas de la tumba
-[10Jun2025 19:27:09.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackCusk has reached the goal [Here They Come]
-[10Jun2025 19:27:21.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> tp me a rubio
-[10Jun2025 19:28:05.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackCusk hit the ground too hard
-[10Jun2025 19:28:05.897] [Server thread/INFO] [tombstone/]: The player BackCusk has successfully been saved
-[10Jun2025 19:28:48.888] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackCusk lost connection: Disconnected
-[10Jun2025 19:28:48.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackCusk left the game
-[10Jun2025 19:30:33.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago has made the advancement [Ambush]
-[10Jun2025 19:31:15.396] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-270, y=64, z=-190} BlockPos{x=-271, y=70, z=-195}
-[10Jun2025 19:31:15.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-270, y=64, z=-190} BlockPos{x=-271, y=70, z=-195}
-[10Jun2025 19:31:49.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie was kicked for floating too long!
-[10Jun2025 19:31:49.534] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie lost connection: Flying is not enabled on this server
-[10Jun2025 19:31:49.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie left the game
-[10Jun2025 19:32:05.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago has made the advancement [Where Is The Stone Pen?]
-[10Jun2025 19:32:21.483] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amoaminoviajulie[/127.168.201.233:36083] logged in with entity id 16857 at (-249.0071575345333, 65.16610926093821, -228.47985085081027)
-[10Jun2025 19:32:21.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie joined the game
-[10Jun2025 19:33:00.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago has made the advancement [Voluntary Exile]
-[10Jun2025 19:33:34.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago has reached the goal [Fortuitous Militia]
-[10Jun2025 19:35:14.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> pq me dice pedazo de enfermo?
-[10Jun2025 19:35:25.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to amoaminoviajulie]
-[10Jun2025 19:35:29.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> eis lo que eres bro
-[10Jun2025 19:35:31.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to Rubiocraft123]
-[10Jun2025 19:36:08.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> maldito hijo de puta
-[10Jun2025 19:36:10.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> q
-[10Jun2025 19:36:14.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> pq?
-[10Jun2025 19:36:18.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> mato a mi perro
-[10Jun2025 19:36:21.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> UE
-[10Jun2025 19:36:25.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> Usted tenia perro?
-[10Jun2025 19:36:29.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> claro
-[10Jun2025 19:36:31.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> Yo le doy otro
-[10Jun2025 19:36:39.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> </3
-[10Jun2025 19:36:42.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 1 [Wolf Spawn Egg] to Santiago]
-[10Jun2025 19:36:49.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 30 [Bone] to Santiago]
-[10Jun2025 19:36:59.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> y le quiere teñir el collar de algun color?
-[10Jun2025 19:37:04.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> azul
-[10Jun2025 19:37:19.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 1 [Blue Dye] to Santiago]
-[10Jun2025 19:41:00.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Rubiocraft123) moved wrongly! 0.5257169750484536
-[10Jun2025 19:44:17.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> voy a aplanar por chunks
-[10Jun2025 19:50:11.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
-[10Jun2025 19:50:12.731] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2375, y=64, z=2698} BlockPos{x=2376, y=62, z=2698}
-[10Jun2025 19:50:21.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
-[10Jun2025 19:50:29.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
-[10Jun2025 19:51:41.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
-[10Jun2025 19:52:24.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rubiocraft123> 2184,71,2391
-[10Jun2025 19:53:56.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 0.27380379470815797,-2.5705949848162604,-9.910891539646798
-[10Jun2025 19:58:08.435] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-157, y=65, z=-210} BlockPos{x=-158, y=63, z=-209}
-[10Jun2025 20:00:01.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-150, y=65, z=-217} BlockPos{x=-151, y=63, z=-215}
-[10Jun2025 20:00:20.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rubiocraft123> TP A SANTIAGO
-[10Jun2025 20:00:24.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Rubiocraft123 to Santiago]
-[10Jun2025 20:00:45.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago has made the advancement [Your First Receptacle]
-[10Jun2025 20:01:17.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 has made the advancement [Your First Receptacle]
-[10Jun2025 20:03:08.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 has made the advancement [Upgrade Backpack]
-[10Jun2025 20:10:18.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> oigan
-[10Jun2025 20:10:22.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> saben que estoy haciendo?
-[10Jun2025 20:10:53.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> yo soy la enfermedad de este mundo
-[10Jun2025 20:11:55.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Applied effect Haste to amoaminoviajulie]
-[10Jun2025 20:12:20.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-174, y=66, z=-206} BlockPos{x=-172, y=65, z=-203}
-[10Jun2025 20:12:22.035] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-174, y=66, z=-206} BlockPos{x=-173, y=65, z=-202}
-[10Jun2025 20:12:22.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-174, y=66, z=-206} BlockPos{x=-173, y=65, z=-201}
-[10Jun2025 20:12:23.199] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-174, y=66, z=-206} BlockPos{x=-175, y=65, z=-202}
-[10Jun2025 20:12:23.200] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-174, y=66, z=-206} BlockPos{x=-175, y=66, z=-202}
-[10Jun2025 20:12:26.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-175, y=65, z=-202} BlockPos{x=-172, y=65, z=-201}
-[10Jun2025 20:12:26.785] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-175, y=65, z=-202} BlockPos{x=-171, y=65, z=-201}
-[10Jun2025 20:12:30.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=65, z=-201} BlockPos{x=-172, y=65, z=-199}
-[10Jun2025 20:12:30.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=65, z=-199} BlockPos{x=-172, y=65, z=-197}
-[10Jun2025 20:12:30.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=65, z=-197} BlockPos{x=-173, y=65, z=-197}
-[10Jun2025 20:12:32.237] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=65, z=-197} BlockPos{x=-174, y=65, z=-196}
-[10Jun2025 20:12:33.537] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=65, z=-197} BlockPos{x=-175, y=65, z=-197}
-[10Jun2025 20:12:33.539] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=65, z=-197} BlockPos{x=-175, y=66, z=-197}
-[10Jun2025 20:12:35.989] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-175, y=65, z=-197} BlockPos{x=-173, y=65, z=-196}
-[10Jun2025 20:12:39.574] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=65, z=-196} BlockPos{x=-174, y=66, z=-201}
-[10Jun2025 20:12:46.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=65, z=-196} BlockPos{x=-175, y=64, z=-193}
-[10Jun2025 20:12:47.883] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=65, z=-196} BlockPos{x=-175, y=64, z=-194}
-[10Jun2025 20:12:52.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=65, z=-196} BlockPos{x=-174, y=64, z=-197}
-[10Jun2025 20:12:52.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=65, z=-196} BlockPos{x=-175, y=64, z=-196}
-[10Jun2025 20:12:53.037] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-175, y=64, z=-196} BlockPos{x=-175, y=64, z=-197}
-[10Jun2025 20:12:55.182] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-175, y=64, z=-196} BlockPos{x=-175, y=64, z=-201}
-[10Jun2025 20:12:55.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-175, y=64, z=-196} BlockPos{x=-175, y=64, z=-203}
-[10Jun2025 20:12:57.190] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-175, y=64, z=-196} BlockPos{x=-175, y=64, z=-207}
-[10Jun2025 20:12:58.636] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-175, y=64, z=-196} BlockPos{x=-173, y=64, z=-204}
-[10Jun2025 20:12:59.282] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-175, y=64, z=-196} BlockPos{x=-172, y=64, z=-204}
-[10Jun2025 20:12:59.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-175, y=64, z=-196} BlockPos{x=-174, y=64, z=-204}
-[10Jun2025 20:12:59.536] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-175, y=64, z=-196} BlockPos{x=-171, y=64, z=-204}
-[10Jun2025 20:12:59.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-175, y=64, z=-196} BlockPos{x=-172, y=64, z=-205}
-[10Jun2025 20:13:00.553] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=64, z=-204} BlockPos{x=-170, y=64, z=-203}
-[10Jun2025 20:13:00.991] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=64, z=-204} BlockPos{x=-172, y=64, z=-202}
-[10Jun2025 20:13:01.135] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=64, z=-204} BlockPos{x=-173, y=64, z=-202}
-[10Jun2025 20:13:01.258] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-171, y=64, z=-204} BlockPos{x=-172, y=64, z=-201}
-[10Jun2025 20:13:02.378] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=64, z=-201} BlockPos{x=-173, y=64, z=-201}
-[10Jun2025 20:13:03.959] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=64, z=-201} BlockPos{x=-173, y=64, z=-200}
-[10Jun2025 20:13:04.733] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=64, z=-201} BlockPos{x=-171, y=64, z=-199}
-[10Jun2025 20:13:04.734] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=64, z=-201} BlockPos{x=-172, y=64, z=-199}
-[10Jun2025 20:13:04.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=64, z=-201} BlockPos{x=-173, y=64, z=-199}
-[10Jun2025 20:13:04.838] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=64, z=-201} BlockPos{x=-174, y=64, z=-199}
-[10Jun2025 20:13:06.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-174, y=64, z=-199} BlockPos{x=-172, y=64, z=-198}
-[10Jun2025 20:13:06.738] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-174, y=64, z=-199} BlockPos{x=-172, y=64, z=-197}
-[10Jun2025 20:13:07.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-174, y=64, z=-199} BlockPos{x=-171, y=64, z=-197}
-[10Jun2025 20:13:13.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> que estan haciendo?
-[10Jun2025 20:13:27.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 1 [Lava Bucket] to amoaminoviajulie]
-[10Jun2025 20:13:35.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Santiago> buscando a mi pepor
-[10Jun2025 20:13:47.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-174, y=64, z=-199} BlockPos{x=-162, y=64, z=-202}
-[10Jun2025 20:13:47.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-174, y=64, z=-199} BlockPos{x=-161, y=64, z=-202}
-[10Jun2025 20:13:47.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-202} BlockPos{x=-161, y=64, z=-202}
-[10Jun2025 20:13:48.185] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-202} BlockPos{x=-161, y=64, z=-201}
-[10Jun2025 20:13:48.659] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-202} BlockPos{x=-162, y=64, z=-201}
-[10Jun2025 20:13:48.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-202} BlockPos{x=-162, y=64, z=-200}
-[10Jun2025 20:13:49.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-202} BlockPos{x=-161, y=64, z=-200}
-[10Jun2025 20:13:50.085] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-202} BlockPos{x=-161, y=64, z=-199}
-[10Jun2025 20:13:50.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-202} BlockPos{x=-162, y=64, z=-199}
-[10Jun2025 20:13:50.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-202} BlockPos{x=-161, y=64, z=-198}
-[10Jun2025 20:13:50.453] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-202} BlockPos{x=-161, y=64, z=-197}
-[10Jun2025 20:13:50.653] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-202} BlockPos{x=-162, y=64, z=-198}
-[10Jun2025 20:13:50.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-202} BlockPos{x=-162, y=64, z=-197}
-[10Jun2025 20:13:50.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-202} BlockPos{x=-161, y=64, z=-196}
-[10Jun2025 20:13:51.006] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-202} BlockPos{x=-162, y=64, z=-196}
-[10Jun2025 20:13:51.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-202} BlockPos{x=-161, y=64, z=-195}
-[10Jun2025 20:13:51.202] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-202} BlockPos{x=-162, y=64, z=-195}
-[10Jun2025 20:13:51.257] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-202} BlockPos{x=-163, y=64, z=-196}
-[10Jun2025 20:13:51.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-162, y=64, z=-195} BlockPos{x=-162, y=64, z=-194}
-[10Jun2025 20:13:51.790] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-162, y=64, z=-195} BlockPos{x=-162, y=64, z=-193}
-[10Jun2025 20:13:51.791] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-162, y=64, z=-195} BlockPos{x=-161, y=64, z=-194}
-[10Jun2025 20:13:52.396] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-194} BlockPos{x=-161, y=64, z=-194}
-[10Jun2025 20:13:52.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-194} BlockPos{x=-161, y=64, z=-193}
-[10Jun2025 20:13:52.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-193} BlockPos{x=-161, y=64, z=-193}
-[10Jun2025 20:13:52.761] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-193} BlockPos{x=-163, y=64, z=-193}
-[10Jun2025 20:13:53.287] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-193} BlockPos{x=-164, y=64, z=-193}
-[10Jun2025 20:13:53.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-193} BlockPos{x=-164, y=64, z=-194}
-[10Jun2025 20:13:53.585] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-193} BlockPos{x=-163, y=64, z=-194}
-[10Jun2025 20:13:53.791] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-193} BlockPos{x=-163, y=64, z=-195}
-[10Jun2025 20:13:54.135] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-193} BlockPos{x=-164, y=64, z=-195}
-[10Jun2025 20:13:54.136] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-193} BlockPos{x=-165, y=64, z=-194}
-[10Jun2025 20:13:54.256] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-193} BlockPos{x=-166, y=64, z=-194}
-[10Jun2025 20:13:54.589] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-193} BlockPos{x=-167, y=64, z=-194}
-[10Jun2025 20:13:54.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-193} BlockPos{x=-166, y=64, z=-193}
-[10Jun2025 20:13:55.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-193} BlockPos{x=-167, y=64, z=-193}
-[10Jun2025 20:13:55.534] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-193} BlockPos{x=-165, y=64, z=-195}
-[10Jun2025 20:13:56.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-193} BlockPos{x=-165, y=64, z=-193}
-[10Jun2025 20:13:57.895] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-193} BlockPos{x=-166, y=63, z=-194}
-[10Jun2025 20:14:06.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=64, z=-196} BlockPos{x=-169, y=64, z=-199}
-[10Jun2025 20:14:19.282] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=64, z=-196} BlockPos{x=-164, y=64, z=-199}
-[10Jun2025 20:14:19.484] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=64, z=-196} BlockPos{x=-164, y=64, z=-198}
-[10Jun2025 20:14:19.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=64, z=-196} BlockPos{x=-163, y=64, z=-198}
-[10Jun2025 20:14:19.932] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=64, z=-196} BlockPos{x=-163, y=64, z=-197}
-[10Jun2025 20:14:20.182] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=64, z=-196} BlockPos{x=-164, y=64, z=-197}
-[10Jun2025 20:14:20.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=64, z=-196} BlockPos{x=-165, y=64, z=-197}
-[10Jun2025 20:14:20.336] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=64, z=-196} BlockPos{x=-165, y=64, z=-198}
-[10Jun2025 20:14:20.541] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=64, z=-196} BlockPos{x=-165, y=64, z=-199}
-[10Jun2025 20:14:20.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=64, z=-196} BlockPos{x=-165, y=64, z=-200}
-[10Jun2025 20:14:40.603] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=64, z=-196} BlockPos{x=-170, y=67, z=-205}
-[10Jun2025 20:14:40.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=64, z=-196} BlockPos{x=-170, y=68, z=-205}
-[10Jun2025 20:14:40.836] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=68, z=-205} BlockPos{x=-171, y=69, z=-205}
-[10Jun2025 20:14:41.587] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=68, z=-205} BlockPos{x=-170, y=69, z=-205}
-[10Jun2025 20:14:45.532] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=68, z=-205} BlockPos{x=-171, y=70, z=-205}
-[10Jun2025 20:14:46.109] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=68, z=-205} BlockPos{x=-170, y=72, z=-205}
-[10Jun2025 20:16:11.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=68, z=-205} BlockPos{x=-168, y=63, z=-197}
-[10Jun2025 20:16:11.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=68, z=-205} BlockPos{x=-169, y=63, z=-196}
-[10Jun2025 20:16:14.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=68, z=-205} BlockPos{x=-170, y=63, z=-197}
-[10Jun2025 20:16:14.547] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=68, z=-205} BlockPos{x=-168, y=63, z=-198}
-[10Jun2025 20:16:15.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=68, z=-205} BlockPos{x=-170, y=63, z=-200}
-[10Jun2025 20:16:15.556] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=68, z=-205} BlockPos{x=-169, y=63, z=-200}
-[10Jun2025 20:16:16.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-169, y=63, z=-200} BlockPos{x=-170, y=63, z=-201}
-[10Jun2025 20:16:16.603] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-169, y=63, z=-200} BlockPos{x=-169, y=63, z=-203}
-[10Jun2025 20:16:16.782] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-169, y=63, z=-203} BlockPos{x=-169, y=63, z=-204}
-[10Jun2025 20:16:19.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-169, y=63, z=-203} BlockPos{x=-173, y=63, z=-202}
-[10Jun2025 20:16:19.659] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-169, y=63, z=-203} BlockPos{x=-172, y=63, z=-201}
-[10Jun2025 20:16:19.831] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-169, y=63, z=-203} BlockPos{x=-172, y=63, z=-200}
-[10Jun2025 20:16:19.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-169, y=63, z=-203} BlockPos{x=-172, y=63, z=-199}
-[10Jun2025 20:16:20.331] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=63, z=-199} BlockPos{x=-171, y=63, z=-200}
-[10Jun2025 20:16:21.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=63, z=-199} BlockPos{x=-173, y=63, z=-201}
-[10Jun2025 20:16:21.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=63, z=-199} BlockPos{x=-173, y=63, z=-200}
-[10Jun2025 20:16:21.887] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=63, z=-199} BlockPos{x=-174, y=63, z=-201}
-[10Jun2025 20:16:21.887] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=63, z=-199} BlockPos{x=-174, y=63, z=-202}
-[10Jun2025 20:16:21.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=63, z=-199} BlockPos{x=-174, y=63, z=-203}
-[10Jun2025 20:16:22.260] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=63, z=-199} BlockPos{x=-173, y=63, z=-204}
-[10Jun2025 20:16:22.583] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=63, z=-199} BlockPos{x=-172, y=63, z=-204}
-[10Jun2025 20:16:22.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=63, z=-199} BlockPos{x=-173, y=63, z=-205}
-[10Jun2025 20:16:23.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=63, z=-199} BlockPos{x=-174, y=63, z=-205}
-[10Jun2025 20:16:24.734] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=63, z=-199} BlockPos{x=-176, y=63, z=-205}
-[10Jun2025 20:16:25.442] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=63, z=-199} BlockPos{x=-176, y=63, z=-204}
-[10Jun2025 20:16:26.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=63, z=-199} BlockPos{x=-175, y=63, z=-201}
-[10Jun2025 20:16:26.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=63, z=-199} BlockPos{x=-175, y=63, z=-203}
-[10Jun2025 20:16:28.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=63, z=-199} BlockPos{x=-173, y=63, z=-199}
-[10Jun2025 20:16:29.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=63, z=-199} BlockPos{x=-171, y=63, z=-197}
-[10Jun2025 20:16:29.516] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=63, z=-199} BlockPos{x=-171, y=63, z=-196}
-[10Jun2025 20:16:30.783] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=63, z=-199} BlockPos{x=-170, y=63, z=-195}
-[10Jun2025 20:16:31.934] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=63, z=-199} BlockPos{x=-173, y=63, z=-197}
-[10Jun2025 20:16:34.342] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=63, z=-199} BlockPos{x=-176, y=63, z=-198}
-[10Jun2025 20:16:34.952] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=63, z=-199} BlockPos{x=-176, y=63, z=-200}
-[10Jun2025 20:16:35.004] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-172, y=63, z=-199} BlockPos{x=-175, y=63, z=-198}
-[10Jun2025 20:16:35.733] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-175, y=63, z=-198} BlockPos{x=-174, y=63, z=-198}
-[10Jun2025 20:16:35.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-175, y=63, z=-198} BlockPos{x=-173, y=63, z=-198}
-[10Jun2025 20:16:36.241] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-174, y=63, z=-198} BlockPos{x=-175, y=63, z=-196}
-[10Jun2025 20:16:36.431] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-174, y=63, z=-198} BlockPos{x=-176, y=63, z=-197}
-[10Jun2025 20:16:36.546] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-175, y=63, z=-196} BlockPos{x=-174, y=63, z=-196}
-[10Jun2025 20:16:38.709] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-175, y=63, z=-196} BlockPos{x=-170, y=63, z=-194}
-[10Jun2025 20:16:40.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-175, y=63, z=-196} BlockPos{x=-175, y=63, z=-195}
-[10Jun2025 20:16:41.081] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-175, y=63, z=-196} BlockPos{x=-176, y=63, z=-195}
-[10Jun2025 20:16:41.106] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-175, y=63, z=-196} BlockPos{x=-175, y=63, z=-194}
-[10Jun2025 20:16:41.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-176, y=63, z=-195} BlockPos{x=-176, y=63, z=-194}
-[10Jun2025 20:16:42.334] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-176, y=63, z=-195} BlockPos{x=-173, y=63, z=-193}
-[10Jun2025 20:16:50.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-176, y=63, z=-195} BlockPos{x=-172, y=64, z=-204}
-[10Jun2025 20:17:02.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to amoaminoviajulie]
-[10Jun2025 20:17:22.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santiago lost connection: Timed out
-[10Jun2025 20:17:22.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago left the game
-[10Jun2025 20:17:30.688] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santiago[/127.198.22.94:56985] logged in with entity id 54974 at (-194.4786862194806, 64.0, -230.41947313558225)
-[10Jun2025 20:17:30.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago joined the game
-[10Jun2025 20:17:31.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rubiocraft123> jeison
-[10Jun2025 20:17:40.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> q
-[10Jun2025 20:17:44.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rubiocraft123> deje que santiago haga la raid en nuestra casa
-[10Jun2025 20:17:50.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rubiocraft123> que el tiene la maldicion
-[10Jun2025 20:17:50.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> soy la enfermedad de este mundo
-[10Jun2025 20:18:29.755] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-224, y=63, z=-220} BlockPos{x=-224, y=63, z=-221}
-[10Jun2025 20:18:46.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie has made the advancement [Voluntary Exile]
-[10Jun2025 20:21:02.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=61, z=-211} BlockPos{x=-181, y=63, z=-273}
-[10Jun2025 20:21:02.081] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=61, z=-211} BlockPos{x=-181, y=63, z=-272}
-[10Jun2025 20:21:02.088] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=61, z=-211} BlockPos{x=-182, y=63, z=-272}
-[10Jun2025 20:21:02.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=61, z=-211} BlockPos{x=-182, y=63, z=-272}
-[10Jun2025 20:21:02.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=61, z=-211} BlockPos{x=-183, y=63, z=-273}
-[10Jun2025 20:21:02.402] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=61, z=-211} BlockPos{x=-183, y=63, z=-274}
-[10Jun2025 20:21:02.433] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=61, z=-211} BlockPos{x=-184, y=63, z=-274}
-[10Jun2025 20:21:02.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=61, z=-211} BlockPos{x=-184, y=63, z=-275}
-[10Jun2025 20:21:02.546] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=61, z=-211} BlockPos{x=-184, y=63, z=-275}
-[10Jun2025 20:21:10.978] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=61, z=-211} BlockPos{x=-181, y=64, z=-272}
-[10Jun2025 20:21:19.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=61, z=-211} BlockPos{x=-181, y=64, z=-270}
-[10Jun2025 20:21:19.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=61, z=-211} BlockPos{x=-181, y=64, z=-269}
-[10Jun2025 20:21:19.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=61, z=-211} BlockPos{x=-181, y=64, z=-268}
-[10Jun2025 20:21:19.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=61, z=-211} BlockPos{x=-180, y=64, z=-269}
-[10Jun2025 20:21:19.926] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=61, z=-211} BlockPos{x=-180, y=64, z=-270}
-[10Jun2025 20:21:19.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=61, z=-211} BlockPos{x=-179, y=64, z=-269}
-[10Jun2025 20:21:19.988] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=61, z=-211} BlockPos{x=-180, y=64, z=-268}
-[10Jun2025 20:21:20.355] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=61, z=-211} BlockPos{x=-182, y=64, z=-269}
-[10Jun2025 20:21:20.488] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=61, z=-211} BlockPos{x=-183, y=64, z=-268}
-[10Jun2025 20:21:20.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=61, z=-211} BlockPos{x=-182, y=64, z=-268}
-[10Jun2025 20:21:20.756] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=61, z=-211} BlockPos{x=-182, y=64, z=-267}
-[10Jun2025 20:21:21.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=61, z=-211} BlockPos{x=-182, y=64, z=-266}
-[10Jun2025 20:21:21.137] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=61, z=-211} BlockPos{x=-181, y=64, z=-267}
-[10Jun2025 20:21:21.285] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=61, z=-211} BlockPos{x=-181, y=64, z=-266}
-[10Jun2025 20:21:21.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-143, y=61, z=-211} BlockPos{x=-180, y=64, z=-267}
-[10Jun2025 20:21:21.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-181, y=64, z=-266} BlockPos{x=-180, y=64, z=-266}
-[10Jun2025 20:22:07.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie has completed the challenge [Hero of the Village]
-[10Jun2025 20:22:07.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago has completed the challenge [Hero of the Village]
-[10Jun2025 20:22:14.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-180, y=64, z=-267} BlockPos{x=-186, y=64, z=-271}
-[10Jun2025 20:23:00.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
-[10Jun2025 20:23:05.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie has made the advancement [Take Aim]
-[10Jun2025 20:23:49.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 1 [Blue Dye] to Santiago]
-[10Jun2025 20:23:55.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 30 [Bone] to Santiago]
-[10Jun2025 20:24:00.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 1 [Wolf Spawn Egg] to Santiago]
-[10Jun2025 20:25:08.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago went up in flames
-[10Jun2025 20:25:08.683] [Server thread/INFO] [tombstone/]: The player Santiago has successfully been saved
-[10Jun2025 20:25:14.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
-[10Jun2025 20:26:33.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to amoaminoviajulie]
-[10Jun2025 20:26:55.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
-[10Jun2025 20:27:14.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
-[10Jun2025 20:27:16.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
-[10Jun2025 20:27:20.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to amoaminoviajulie]
-[10Jun2025 20:28:06.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 has made the advancement [Magic Writing]
-[10Jun2025 20:28:53.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported amoaminoviajulie to -247.500000, 36.500000, -205.500000]
-[10Jun2025 20:29:03.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
-[10Jun2025 20:29:09.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
-[10Jun2025 20:29:45.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 has made the advancement [Where Is The Stone Pen?]
-[10Jun2025 20:29:53.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to amoaminoviajulie]
-[10Jun2025 20:29:57.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to Rubiocraft123]
-[10Jun2025 20:35:43.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago has made the advancement [Ol' Betsy]
-[10Jun2025 20:36:32.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Santiago) moved wrongly! 0.3519368269157894
-[10Jun2025 20:36:32.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Santiago) moved wrongly! 0.5799525535974226
-[10Jun2025 20:36:32.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Santiago) moved wrongly! 0.8272498317976442
-[10Jun2025 20:36:32.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Santiago) moved wrongly! 1.045459996401405
-[10Jun2025 20:39:56.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie has made the advancement [Take Aim, Chaps!]
-[10Jun2025 20:40:54.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago has made the advancement [A Rogue's Best Friend]
-[10Jun2025 20:45:43.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Rubiocraft123 to amoaminoviajulie]
-[10Jun2025 20:45:49.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Rubiocraft123 to Santiago]
-[10Jun2025 20:46:01.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Rubiocraft123 to amoaminoviajulie]
-[10Jun2025 20:46:56.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie has made the advancement [Where Is The Stone Pen?]
-[10Jun2025 20:47:08.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie has made the advancement [Magic Writing]
-[10Jun2025 20:47:14.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie has made the advancement [Upgrade Backpack]
-[10Jun2025 20:49:58.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Rubiocraft123 to Santiago]
-[10Jun2025 20:50:32.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
-[10Jun2025 20:50:40.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie moved too quickly! 10.329124367923697,-0.513532114828962,2.930410764083234
-[10Jun2025 20:50:56.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
-[10Jun2025 20:54:22.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie was kicked for floating too long!
-[10Jun2025 20:54:22.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie lost connection: Flying is not enabled on this server
-[10Jun2025 20:54:22.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie left the game
-[10Jun2025 20:55:05.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amoaminoviajulie[/127.168.201.233:49853] logged in with entity id 73645 at (-237.22950853829454, 66.79673560066871, -233.0043135996005)
-[10Jun2025 20:55:05.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie joined the game
-[10Jun2025 20:58:33.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
-[10Jun2025 21:02:13.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
-[10Jun2025 21:06:40.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
-[10Jun2025 21:06:46.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
-[10Jun2025 21:07:02.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
-[10Jun2025 21:07:07.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
-[10Jun2025 21:08:01.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 has made the advancement [The Cutest Predator]
-[10Jun2025 21:08:32.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago has made the advancement [The Cutest Predator]
-[10Jun2025 21:10:12.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 has made the advancement [Ambush]
-[10Jun2025 21:14:34.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
-[10Jun2025 21:14:37.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
-[10Jun2025 21:16:27.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
-[10Jun2025 21:16:46.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
-[10Jun2025 21:20:20.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
-[10Jun2025 21:24:27.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
-[10Jun2025 21:25:35.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Rubiocraft123 to amoaminoviajulie]
-[10Jun2025 21:27:20.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 30 [Bread] to 3]
-[10Jun2025 21:28:23.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
-[10Jun2025 21:29:28.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
-[10Jun2025 21:30:23.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
-[10Jun2025 21:31:53.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
-[10Jun2025 21:31:59.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> que haces?
-[10Jun2025 21:32:11.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> rubio no
-[10Jun2025 21:32:19.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> con esos aldeanos no
-[10Jun2025 21:32:21.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> yo le doy mas
-[10Jun2025 21:32:24.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> pero con esos no
-[10Jun2025 21:32:25.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rubiocraft123> epa
-[10Jun2025 21:32:27.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rubiocraft123> okey
-[10Jun2025 21:33:54.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> yo hago la granja
-[10Jun2025 21:33:56.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> calmdown
-[10Jun2025 21:34:14.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rubiocraft123> le traigo arena?
-[10Jun2025 21:34:18.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> para?
-[10Jun2025 21:34:28.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rubiocraft123> que sea mas herrmoso
-[10Jun2025 21:37:55.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
-[10Jun2025 21:37:56.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
-[10Jun2025 21:43:23.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to amoaminoviajulie]
-[10Jun2025 21:50:44.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=68, z=-255} BlockPos{x=-166, y=70, z=-255}
-[10Jun2025 21:50:44.587] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=68, z=-255} BlockPos{x=-166, y=70, z=-255}
-[10Jun2025 21:50:55.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Rubiocraft123 to amoaminoviajulie]
-[10Jun2025 21:53:07.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
-[10Jun2025 21:55:16.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to amoaminoviajulie]
-[10Jun2025 21:55:18.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago fell from a high place
-[10Jun2025 21:55:18.281] [Server thread/INFO] [tombstone/]: The player Santiago has successfully been saved
-[10Jun2025 21:55:27.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to amoaminoviajulie]
-[10Jun2025 21:56:18.401] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:18.809] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:20.388] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:20.406] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:21.058] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:21.059] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:21.060] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:21.060] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:21.061] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:21.061] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:21.062] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:21.062] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:21.604] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:21.605] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:21.605] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:21.605] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:24.567] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:24.567] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:24.567] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:24.567] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:24.568] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:24.568] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:24.568] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:24.595] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:24.596] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:24.596] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:24.778] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:24.779] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:24.779] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:24.779] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:24.792] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:24.793] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:24.793] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:24.793] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:25.337] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:25.338] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:25.338] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:25.338] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:38.749] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge.swimSpeed'
-[10Jun2025 21:56:42.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Rubiocraft123 to amoaminoviajulie]
-[10Jun2025 21:57:23.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to amoaminoviajulie]
-[10Jun2025 21:58:03.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to amoaminoviajulie]
-[10Jun2025 21:58:05.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago fell from a high place
-[10Jun2025 21:58:05.527] [Server thread/INFO] [tombstone/]: The player Santiago has successfully been saved
-[10Jun2025 21:58:17.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to amoaminoviajulie]
-[10Jun2025 21:59:01.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to amoaminoviajulie]
-[10Jun2025 21:59:05.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santiago was kicked for floating too long!
-[10Jun2025 21:59:05.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santiago lost connection: Flying is not enabled on this server
-[10Jun2025 21:59:05.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago left the game
-[10Jun2025 21:59:39.472] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@74a90367[id=<null>,name=Santiago,properties={},legacy=false] (/127.198.22.94:42431) lost connection: Disconnected
-[10Jun2025 21:59:44.532] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santiago[/127.198.22.94:58221] logged in with entity id 104831 at (-212.252972821138, 94.20580859994664, -240.06438492908444)
-[10Jun2025 21:59:44.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago joined the game
-[10Jun2025 21:59:55.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago was killed
-[10Jun2025 21:59:55.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Killed Santiago]
-[10Jun2025 21:59:55.088] [Server thread/INFO] [tombstone/]: The player Santiago has successfully been saved
-[10Jun2025 21:59:59.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to amoaminoviajulie]
-[10Jun2025 22:00:21.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
-[10Jun2025 22:00:36.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
-[10Jun2025 22:00:40.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to amoaminoviajulie]
-[10Jun2025 22:00:43.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago fell from a high place
-[10Jun2025 22:00:43.025] [Server thread/INFO] [tombstone/]: The player Santiago has successfully been saved
-[10Jun2025 22:00:49.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to amoaminoviajulie]
-[10Jun2025 22:01:13.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago was slain by Rubiocraft123
-[10Jun2025 22:01:13.202] [Server thread/INFO] [tombstone/]: The player Santiago has successfully been saved
-[10Jun2025 22:01:15.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Teleported Santiago to amoaminoviajulie]
-[10Jun2025 22:02:09.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Removed 1 item(s) from player Santiago]
-[10Jun2025 22:02:23.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
-[10Jun2025 22:02:29.070] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rubiocraft123 lost connection: Disconnected
-[10Jun2025 22:02:29.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rubiocraft123 left the game
-[10Jun2025 22:02:42.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set the weather to clear]
-[10Jun2025 22:06:33.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santiago lost connection: Disconnected
-[10Jun2025 22:06:33.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santiago left the game
-[10Jun2025 22:11:27.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set the time to 1000]
-[10Jun2025 22:29:55.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-162, y=64, z=-230} BlockPos{x=-162, y=65, z=-229}
-[10Jun2025 22:29:55.871] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-162, y=64, z=-230} BlockPos{x=-162, y=65, z=-229}
-[10Jun2025 22:29:55.897] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-162, y=64, z=-230} BlockPos{x=-162, y=65, z=-229}
-[10Jun2025 22:39:40.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Killed 136 entities]
-[10Jun2025 22:41:06.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Killed 122 entities]
-[10Jun2025 22:42:41.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
-[10Jun2025 22:42:58.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -176 64 -209
-[10Jun2025 22:43:23.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 3075 block(s)]
-[10Jun2025 22:43:34.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
-[10Jun2025 22:43:42.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
-[10Jun2025 22:44:00.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 1471 block(s)]
-[10Jun2025 22:44:11.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 783 block(s)]
-[10Jun2025 22:45:21.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -177 64 -193
-[10Jun2025 22:45:54.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 2233 block(s)]
-[10Jun2025 22:46:18.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 724 block(s)]
-[10Jun2025 22:47:17.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -225 64 -208
-[10Jun2025 22:47:43.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 5412 block(s)]
-[10Jun2025 22:48:16.324] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie lost connection: Timed out
-[10Jun2025 22:48:16.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie left the game
+[13Jun2025 04:27:17.242] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[13Jun2025 04:27:17.253] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[13Jun2025 04:27:17.696] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[13Jun2025 04:27:17.831] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server-Papu/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[13Jun2025 04:27:18.340] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[13Jun2025 04:27:18.346] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Jun2025 04:27:18.350] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Jun2025 04:27:18.355] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[13Jun2025 04:27:18.652] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[13Jun2025 04:27:21.094] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[13Jun2025 04:27:21.101] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[13Jun2025 04:27:22.424] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[13Jun2025 04:27:29.129] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[13Jun2025 04:27:29.132] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[13Jun2025 04:27:29.198] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[13Jun2025 04:27:29.198] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
+[13Jun2025 04:27:29.200] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
+[13Jun2025 04:27:30.164] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[13Jun2025 04:27:30.198] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[13Jun2025 04:27:30.200] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[13Jun2025 04:27:30.593] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[13Jun2025 04:27:30.905] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: AHEAD Current: 8.9.6 Target: null
+[13Jun2025 04:27:30.906] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[13Jun2025 04:27:31.077] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[13Jun2025 04:27:32.392] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13Jun2025 04:27:33.440] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23113!/assets/.mcassetsroot' uses unexpected schema
+[13Jun2025 04:27:33.441] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-Papu/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23113!/data/.mcassetsroot' uses unexpected schema
+[13Jun2025 04:27:34.565] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[13Jun2025 04:27:35.064] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[13Jun2025 04:27:35.144] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[13Jun2025 04:27:35.154] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[13Jun2025 04:27:35.191] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[13Jun2025 04:27:35.191] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
+[13Jun2025 04:27:35.198] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[13Jun2025 04:27:35.198] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
+[13Jun2025 04:27:35.201] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[13Jun2025 04:27:35.201] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
+[13Jun2025 04:27:35.208] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[13Jun2025 04:27:35.208] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
+[13Jun2025 04:27:35.209] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/copper" Skipping...
+[13Jun2025 04:27:35.209] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:copper_nugget_from_smelting_copper_weapons as it's serializer returned null
+[13Jun2025 04:27:35.210] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[13Jun2025 04:27:35.212] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
+[13Jun2025 04:27:35.214] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[13Jun2025 04:27:35.214] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
+[13Jun2025 04:27:35.222] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[13Jun2025 04:27:35.223] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
+[13Jun2025 04:27:35.224] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[13Jun2025 04:27:35.224] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_blasting_steel_weapons as it's serializer returned null
+[13Jun2025 04:27:35.225] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[13Jun2025 04:27:35.226] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
+[13Jun2025 04:27:35.226] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[13Jun2025 04:27:35.227] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
+[13Jun2025 04:27:35.234] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[13Jun2025 04:27:35.234] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
+[13Jun2025 04:27:35.235] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[13Jun2025 04:27:35.235] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
+[13Jun2025 04:27:35.239] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[13Jun2025 04:27:35.239] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
+[13Jun2025 04:27:35.241] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[13Jun2025 04:27:35.241] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
+[13Jun2025 04:27:35.243] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[13Jun2025 04:27:35.243] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
+[13Jun2025 04:27:35.250] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/steel" Skipping...
+[13Jun2025 04:27:35.250] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:steel_nugget_from_smelting_steel_weapons as it's serializer returned null
+[13Jun2025 04:27:35.253] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[13Jun2025 04:27:35.253] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
+[13Jun2025 04:27:35.255] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/silver" Skipping...
+[13Jun2025 04:27:35.256] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:silver_nugget_from_smelting_silver_weapons as it's serializer returned null
+[13Jun2025 04:27:35.259] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[13Jun2025 04:27:35.259] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
+[13Jun2025 04:27:35.259] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/silver" Skipping...
+[13Jun2025 04:27:35.259] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:silver_nugget_from_blasting_silver_weapons as it's serializer returned null
+[13Jun2025 04:27:35.261] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/copper" Skipping...
+[13Jun2025 04:27:35.261] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:copper_nugget_from_blasting_copper_weapons as it's serializer returned null
+[13Jun2025 04:27:35.262] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[13Jun2025 04:27:35.262] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
+[13Jun2025 04:27:35.262] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[13Jun2025 04:27:35.263] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
+[13Jun2025 04:27:35.268] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[13Jun2025 04:27:35.383] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1963 advancements
+[13Jun2025 04:27:35.908] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 5.548676ms
+[13Jun2025 04:27:35.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[13Jun2025 04:27:35.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[13Jun2025 04:27:35.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[13Jun2025 04:27:35.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[13Jun2025 04:27:36.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[13Jun2025 04:27:36.116] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[13Jun2025 04:27:36.190] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13Jun2025 04:27:36.191] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[13Jun2025 04:27:36.191] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13Jun2025 04:27:36.191] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[13Jun2025 04:27:36.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[13Jun2025 04:27:39.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[13Jun2025 04:27:45.073] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 04:27:45.074] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 04:27:45.075] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 04:27:45.076] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 04:27:45.076] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 04:27:45.077] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 04:27:45.078] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 04:27:45.082] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 04:27:45.083] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 04:27:45.084] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 04:27:45.086] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 04:27:45.087] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Jun2025 04:27:45.449] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[13Jun2025 04:27:45.949] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 71%
+[13Jun2025 04:27:46.128] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6679 ms
+[13Jun2025 04:27:46.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.923s)! For help, type "help"
+[13Jun2025 04:27:46.154] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[13Jun2025 04:27:55.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[13Jun2025 04:27:55.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elp<--[HERE]
+[13Jun2025 04:27:56.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
+[13Jun2025 04:27:56.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
+[13Jun2025 04:27:56.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[13Jun2025 04:27:56.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
+[13Jun2025 04:27:56.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
+[13Jun2025 04:27:56.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone (<begin>|from)
+[13Jun2025 04:27:56.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /damage <target> <amount> [<damageType>]
+[13Jun2025 04:27:56.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
+[13Jun2025 04:27:56.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
+[13Jun2025 04:27:56.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
+[13Jun2025 04:27:56.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode <gamemode>
+[13Jun2025 04:27:56.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
+[13Jun2025 04:27:56.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
+[13Jun2025 04:27:56.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
+[13Jun2025 04:27:56.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
+[13Jun2025 04:27:56.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
+[13Jun2025 04:27:56.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
+[13Jun2025 04:27:56.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[13Jun2025 04:27:56.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fillbiome <from> <to> <biome> [replace]
+[13Jun2025 04:27:56.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
+[13Jun2025 04:27:56.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name>
+[13Jun2025 04:27:56.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode <gamemode> [<target>]
+[13Jun2025 04:27:56.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[13Jun2025 04:27:56.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
+[13Jun2025 04:27:56.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
+[13Jun2025 04:27:56.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
+[13Jun2025 04:27:56.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
+[13Jun2025 04:27:56.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
+[13Jun2025 04:27:56.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
+[13Jun2025 04:27:56.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
+[13Jun2025 04:27:56.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
+[13Jun2025 04:27:56.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
+[13Jun2025 04:27:56.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
+[13Jun2025 04:27:56.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
+[13Jun2025 04:27:56.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
+[13Jun2025 04:27:56.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
+[13Jun2025 04:27:56.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[13Jun2025 04:27:56.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
+[13Jun2025 04:27:56.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
+[13Jun2025 04:27:56.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /return <value>
+[13Jun2025 04:27:56.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ride <target> (mount|dismount)
+[13Jun2025 04:27:56.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
+[13Jun2025 04:27:56.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
+[13Jun2025 04:27:56.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
+[13Jun2025 04:27:56.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
+[13Jun2025 04:27:56.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[13Jun2025 04:27:56.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
+[13Jun2025 04:27:56.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
+[13Jun2025 04:27:56.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
+[13Jun2025 04:27:56.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[13Jun2025 04:27:56.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[13Jun2025 04:27:56.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
+[13Jun2025 04:27:56.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
+[13Jun2025 04:27:56.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
+[13Jun2025 04:27:56.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
+[13Jun2025 04:27:56.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
+[13Jun2025 04:27:56.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
+[13Jun2025 04:27:56.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
+[13Jun2025 04:27:56.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
+[13Jun2025 04:27:56.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
+[13Jun2025 04:27:56.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[13Jun2025 04:27:56.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
+[13Jun2025 04:27:56.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
+[13Jun2025 04:27:56.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
+[13Jun2025 04:27:56.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
+[13Jun2025 04:27:56.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
+[13Jun2025 04:27:56.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
+[13Jun2025 04:27:56.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
+[13Jun2025 04:27:56.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
+[13Jun2025 04:27:56.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
+[13Jun2025 04:27:56.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
+[13Jun2025 04:27:56.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
+[13Jun2025 04:27:56.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
+[13Jun2025 04:27:56.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
+[13Jun2025 04:27:56.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
+[13Jun2025 04:27:56.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
+[13Jun2025 04:27:56.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
+[13Jun2025 04:27:56.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
+[13Jun2025 04:27:56.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
+[13Jun2025 04:27:56.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbacceptteleport [<target>]
+[13Jun2025 04:27:56.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbgui
+[13Jun2025 04:27:56.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbknowledge [<player>]
+[13Jun2025 04:27:56.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbalignment [<player>]
+[13Jun2025 04:27:56.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbrecovery [save_all_players|save_player|load_player]
+[13Jun2025 04:27:56.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbrequestteleport [<target>]
+[13Jun2025 04:27:56.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbrestoreinventory [<player>]
+[13Jun2025 04:27:56.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbrevivefamiliar [<player>]
+[13Jun2025 04:27:56.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbshowlastgrave [<player>]
+[13Jun2025 04:27:56.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbsiege [start|stop]
+[13Jun2025 04:27:56.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbteleport [pos|player|grave|death|home|discovery|biome]
+[13Jun2025 04:27:56.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spartanweaponry (applyOil|applyPotionOil|clearOil)
+[13Jun2025 04:27:56.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sw -> spartanweaponry
+[13Jun2025 04:27:56.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[13Jun2025 04:27:56.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[13Jun2025 04:28:03.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Rubiocraft123 a server operator
+[13Jun2025 04:28:10.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[13Jun2025 04:28:13.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
+[13Jun2025 04:28:13.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
+[13Jun2025 04:28:13.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[13Jun2025 04:28:13.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
+[13Jun2025 04:28:13.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
+[13Jun2025 04:28:13.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone (<begin>|from)
+[13Jun2025 04:28:13.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /damage <target> <amount> [<damageType>]
+[13Jun2025 04:28:13.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
+[13Jun2025 04:28:13.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
+[13Jun2025 04:28:13.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
+[13Jun2025 04:28:13.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode <gamemode>
+[13Jun2025 04:28:13.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
+[13Jun2025 04:28:13.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
+[13Jun2025 04:28:13.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
+[13Jun2025 04:28:13.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
+[13Jun2025 04:28:13.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
+[13Jun2025 04:28:13.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
+[13Jun2025 04:28:13.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[13Jun2025 04:28:13.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fillbiome <from> <to> <biome> [replace]
+[13Jun2025 04:28:13.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
+[13Jun2025 04:28:13.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name>
+[13Jun2025 04:28:13.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode <gamemode> [<target>]
+[13Jun2025 04:28:13.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[13Jun2025 04:28:13.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
+[13Jun2025 04:28:13.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
+[13Jun2025 04:28:13.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
+[13Jun2025 04:28:13.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
+[13Jun2025 04:28:13.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
+[13Jun2025 04:28:13.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
+[13Jun2025 04:28:13.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
+[13Jun2025 04:28:13.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
+[13Jun2025 04:28:13.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
+[13Jun2025 04:28:13.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
+[13Jun2025 04:28:13.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
+[13Jun2025 04:28:13.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
+[13Jun2025 04:28:13.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
+[13Jun2025 04:28:13.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[13Jun2025 04:28:13.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
+[13Jun2025 04:28:13.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
+[13Jun2025 04:28:13.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /return <value>
+[13Jun2025 04:28:13.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ride <target> (mount|dismount)
+[13Jun2025 04:28:13.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
+[13Jun2025 04:28:13.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
+[13Jun2025 04:28:13.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
+[13Jun2025 04:28:13.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
+[13Jun2025 04:28:13.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[13Jun2025 04:28:13.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
+[13Jun2025 04:28:13.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
+[13Jun2025 04:28:13.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
+[13Jun2025 04:28:13.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[13Jun2025 04:28:13.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[13Jun2025 04:28:13.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
+[13Jun2025 04:28:13.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
+[13Jun2025 04:28:13.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
+[13Jun2025 04:28:13.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
+[13Jun2025 04:28:13.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
+[13Jun2025 04:28:13.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
+[13Jun2025 04:28:13.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
+[13Jun2025 04:28:13.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
+[13Jun2025 04:28:13.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
+[13Jun2025 04:28:13.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[13Jun2025 04:28:13.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
+[13Jun2025 04:28:13.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
+[13Jun2025 04:28:13.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
+[13Jun2025 04:28:13.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
+[13Jun2025 04:28:13.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
+[13Jun2025 04:28:13.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
+[13Jun2025 04:28:13.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
+[13Jun2025 04:28:13.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
+[13Jun2025 04:28:13.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
+[13Jun2025 04:28:13.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
+[13Jun2025 04:28:13.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
+[13Jun2025 04:28:13.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
+[13Jun2025 04:28:13.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
+[13Jun2025 04:28:13.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
+[13Jun2025 04:28:13.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
+[13Jun2025 04:28:13.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
+[13Jun2025 04:28:13.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
+[13Jun2025 04:28:13.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
+[13Jun2025 04:28:13.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbacceptteleport [<target>]
+[13Jun2025 04:28:13.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbgui
+[13Jun2025 04:28:13.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbknowledge [<player>]
+[13Jun2025 04:28:13.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbalignment [<player>]
+[13Jun2025 04:28:13.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbrecovery [save_all_players|save_player|load_player]
+[13Jun2025 04:28:13.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbrequestteleport [<target>]
+[13Jun2025 04:28:13.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbrestoreinventory [<player>]
+[13Jun2025 04:28:13.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbrevivefamiliar [<player>]
+[13Jun2025 04:28:13.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbshowlastgrave [<player>]
+[13Jun2025 04:28:13.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbsiege [start|stop]
+[13Jun2025 04:28:13.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tbteleport [pos|player|grave|death|home|discovery|biome]
+[13Jun2025 04:28:13.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spartanweaponry (applyOil|applyPotionOil|clearOil)
+[13Jun2025 04:28:13.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sw -> spartanweaponry
+[13Jun2025 04:28:13.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[13Jun2025 04:28:13.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[13Jun2025 04:28:32.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Rubiocraft123 no longer a server operator
+[13Jun2025 04:28:39.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[13Jun2025 04:28:46.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[13Jun2025 04:28:46.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fill<--[HERE]
+[13Jun2025 04:29:47.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[13Jun2025 04:29:47.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: execute<--[HERE]
+[13Jun2025 04:30:27.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[13Jun2025 04:30:27.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Jun2025 04:30:27.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Jun2025 04:30:27.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Jun2025 04:30:27.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Jun2025 04:30:27.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Jun2025 04:30:27.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Jun2025 04:30:27.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Jun2025 04:30:27.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Jun2025 04:30:27.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Jun2025 04:30:27.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
