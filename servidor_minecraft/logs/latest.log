@@ -112,3 +112,8 @@
 [19Jun2025 21:19:55.725] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [19Jun2025 21:26:50.165] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amoaminoviajulie[/127.175.212.104:45853] logged in with entity id 167 at (-270.3509133221121, 63.0, -180.15170712012804)
 [19Jun2025 21:26:50.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie joined the game
+[19Jun2025 21:32:10.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set the time to 1000]
+[19Jun2025 21:33:05.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amoaminoviajulie> -269 63 -188
+[19Jun2025 21:33:42.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Successfully filled 676 block(s)]
+[19Jun2025 21:35:31.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
+[19Jun2025 21:35:46.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
