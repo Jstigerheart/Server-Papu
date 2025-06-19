@@ -164,3 +164,13 @@
 [19Jun2025 22:28:48.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
 [19Jun2025 22:29:21.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
 [19Jun2025 22:29:37.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 64 [Steak] to amoaminoviajulie]
+[19Jun2025 22:30:01.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set the weather to clear]
+[19Jun2025 22:30:07.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set the time to 1000]
+[19Jun2025 22:30:31.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
+[19Jun2025 22:30:38.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
+[19Jun2025 22:31:03.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie has reached the goal [Beaconator]
+[19Jun2025 22:31:03.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie has made the advancement [Bring Home the Beacon]
+[19Jun2025 22:31:37.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Removed effect Haste from amoaminoviajulie]
+[19Jun2025 22:33:39.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 1 [Purple Stained Glass] to amoaminoviajulie]
+[19Jun2025 22:34:11.736] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie lost connection: Disconnected
+[19Jun2025 22:34:11.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie left the game
