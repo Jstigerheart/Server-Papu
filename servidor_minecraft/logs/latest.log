@@ -130,3 +130,13 @@
 [19Jun2025 21:58:52.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie lost connection: Disconnected
 [19Jun2025 21:58:52.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie left the game
 [19Jun2025 21:58:52.785] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jun2025 22:00:52.053] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amoaminoviajulie[/127.175.212.104:54593] logged in with entity id 5595 at (-248.5, 37.0, -208.36546985222645)
+[19Jun2025 22:00:52.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie joined the game
+[19Jun2025 22:01:21.938] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie lost connection: Timed out
+[19Jun2025 22:01:21.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie left the game
+[19Jun2025 22:02:00.600] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amoaminoviajulie[/127.175.212.104:34845] logged in with entity id 5937 at (-248.5, 37.0, -208.36546985222645)
+[19Jun2025 22:02:00.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie joined the game
+[19Jun2025 22:02:24.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Spectator Mode]
+[19Jun2025 22:04:19.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
+[19Jun2025 22:04:28.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
+[19Jun2025 22:04:54.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set the time to 1000]
