@@ -140,3 +140,11 @@
 [19Jun2025 22:04:19.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
 [19Jun2025 22:04:28.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Survival Mode]
 [19Jun2025 22:04:54.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set the time to 1000]
+[19Jun2025 22:12:12.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie was kicked for floating too long!
+[19Jun2025 22:12:12.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amoaminoviajulie lost connection: Flying is not enabled on this server
+[19Jun2025 22:12:12.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie left the game
+[19Jun2025 22:14:44.447] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amoaminoviajulie[/127.175.212.104:38407] logged in with entity id 7235 at (-224.42281812524496, 65.02442408821369, -236.98897404668355)
+[19Jun2025 22:14:44.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amoaminoviajulie joined the game
+[19Jun2025 22:16:31.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set the time to 1000]
+[19Jun2025 22:17:51.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Gave 64 [Gold Ingot] to amoaminoviajulie]
+[19Jun2025 22:18:13.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amoaminoviajulie: Set own game mode to Creative Mode]
